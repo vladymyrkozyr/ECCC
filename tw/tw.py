@@ -17,7 +17,7 @@ if __name__ == '__main__':
     #get_tweets("ParksCanada") 
     
     usernames = ['ParcsCanada','ParksCanada','environmentca','environnementca','ec_minister','ministre_ec','NRCan','RNCan','ENERGYSTAR_CAN','Transport_gc','Transports_gc','CTA_gc','OTC_gc','TSBCanada','BSTCanada','AAFC_Canada','AAC_Canada','CCG_GCC','GCC_CCG','DFO_CCG_Quebec','MPO_GCC_Quebec','DFO_Central','MPO_Centre','DFO_Gulf','MPO_Golfe','DFO_MAR','MPO_MAR','DFO_MPO','MPO_DFO','DFO_NL','MPO_TNL','DFO_Pacific','MPO_Pacifique','DFO_Science','MPO_Science','AskISED','DemandezaISDE','GCIndigenous','GCAutochtones','GiantMine','MineGiant']
-    #usernames = ['MPO_Science','AskISED','DemandezaISDE','GCIndigenous','GCAutochtones','GiantMine','MineGiant']
+
         
     for username in usernames:
     # Authorization to consumer key and consumer secret
@@ -35,7 +35,7 @@ if __name__ == '__main__':
         tweets=[]
 
 
-        year=2018
+        year=2017
     
         print (api.rate_limit_status()['resources']['statuses']['/statuses/user_timeline'])
    
@@ -54,8 +54,8 @@ if __name__ == '__main__':
                 print (status.retweet_count)
                 print (status.favorite_count)
                 print (status.created_at)
-
-                writer.writerow([status.id,
+				if year<2018:
+                	writer.writerow([status.id,
                                        ftfy.fix_encoding(status.full_text),
                                        status.retweet_count,
                                        status.favorite_count,

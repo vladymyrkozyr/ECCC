@@ -9,14 +9,13 @@ except ImportError:
 
 app_id = "1592779470800054"
 app_secret = "UzSCBXKG8qAn2sNk8zxq1qyhbWw"  # DO NOT SHARE WITH ANYONE!
-#page_ids = ["ParksCanada","ParcsCanada","EnvironmentandNaturalResourcesinCanada","EnvironnementetressourcesnaturellesauCanada","EnvironmentandClimateChange","EnvironnementetChangementclimatique","TransportsetInfrastructureauCanada","CanadianTransportationAgency","CanadianAgriculture","AgricultureCanadienne","FisheriesOceansCanada","PechesOceansCanada","CanadianCoastGuard","GardeCotiereCanadienne","YourMoneyMattersCanada","QuestionsdargentCanada","GovCanNorth","FisheriesOceansCanada","TransportandInfrastructureinCanada","OfficeDesTransportsDuCanada"]
+page_ids = ["ParksCanada","ParcsCanada","EnvironmentandNaturalResourcesinCanada","EnvironnementetressourcesnaturellesauCanada","EnvironmentandClimateChange","EnvironnementetChangementclimatique","TransportsetInfrastructureauCanada","CanadianTransportationAgency","CanadianAgriculture","AgricultureCanadienne","FisheriesOceansCanada","PechesOceansCanada","CanadianCoastGuard","GardeCotiereCanadienne","YourMoneyMattersCanada","QuestionsdargentCanada","GovCanNorth","FisheriesOceansCanada","TransportandInfrastructureinCanada","OfficeDesTransportsDuCanada"]
 
-page_ids = ["simonfraseruniversity"]
 
 # input date formatted as YYYY-MM-DD
 
 since_date = "2016-01-01"
-until_date = "2018-01-17"
+until_date = "2017-12-31"
 
 access_token = app_id + "|" + app_secret
 

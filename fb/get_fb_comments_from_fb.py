@@ -9,7 +9,8 @@ except ImportError:
 
 app_id = "1592779470800054"
 app_secret = "UzSCBXKG8qAn2sNk8zxq1qyhbWw"  # DO NOT SHARE WITH ANYONE!
-file_ids = ["ParksCanada","ParcsCanada","EnvironmentandNaturalResourcesinCanada","EnvironnementetressourcesnaturellesauCanada","EnvironmentandClimateChange","EnvironnementetChangementclimatique","TransportsetInfrastructureauCanada","CanadianTransportationAgency","CanadianAgriculture","AgricultureCanadienne","FisheriesOceansCanada","PechesOceansCanada","CanadianCoastGuard","GardeCotiereCanadienne","YourMoneyMattersCanada","QuestionsdargentCanada","GovCanNorth","FisheriesOceansCanada","TransportandInfrastructureinCanada","OfficeDesTransportsDuCanada"]
+file_ids = ["ParksCanada","ParcsCanada","EnvironmentandNaturalResourcesinCanada","EnvironnementetressourcesnaturellesauCanada","EnvironmentandClimateChange",
+"EnvironnementetChangementclimatique","TransportsetInfrastructureauCanada","CanadianTransportationAgency","CanadianAgriculture","AgricultureCanadienne", "FisheriesOceansCanada","PechesOceansCanada","CanadianCoastGuard","GardeCotiereCanadienne","YourMoneyMattersCanada", "QuestionsdargentCanada","GovCanNorth","FisheriesOceansCanada","TransportandInfrastructureinCanada","OfficeDesTransportsDuCanada"]
 
 
 access_token = app_id + "|" + app_secret

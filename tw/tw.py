@@ -1,7 +1,6 @@
 import tweepy
 import inspect
 import csv
-import ftfy
 
 # Fill the X's with the credentials obtained by 
 # following the above mentioned procedure.
@@ -54,9 +53,9 @@ if __name__ == '__main__':
                 print (status.retweet_count)
                 print (status.favorite_count)
                 print (status.created_at)
-				if year<2018:
+                if year<2018:
                 	writer.writerow([status.id,
-                                       ftfy.fix_encoding(status.full_text),
+                                       status.full_text.encode('utf-8'),
                                        status.retweet_count,
                                        status.favorite_count,
                                        status.created_at])

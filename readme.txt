@@ -1,0 +1,1 @@
+Data, cleaned from hashtags and links is located at '(social network name)/cleaned data/'

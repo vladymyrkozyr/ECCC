@@ -1,0 +1,918 @@
+,id,retweet_count,favorite_count,created_at,full_text_cleaned,hashtags,urls
+0,947233610612006912,2,0,2017-12-30 22:31:06,: Argo est un système international de surveillance océanographique. Découvrez comment notre rôle nous en apprend plus sur …,['#'],[]
+1,947146784119410689,2,0,2017-12-30 16:46:05,: . Nouvelle amende imposée pour non-respect de la limitation de vitesse dans le golfe du St-Laurent https…,[],[]
+2,946827020801052672,2,0,2017-12-29 19:35:27,: En savoir plus sur la façon dont nous augmentons notre capacité de églaçage à fournir des services essentiels sur les voies…,['#d'],[]
+3,946779641821396994,4,0,2017-12-29 16:27:11,: Nos océans canadiens sont magnifiques en raison de la variété de la vie aquatique. …,"['#Top5', '#Meilleurde20']",['https://t.co/IEz2nL9zBM']
+4,945728271651614720,2,0,2017-12-26 18:49:25,: Les navires rouges et blancs de la Garde côtière canadienne constituent un symbole visible de notre identité et leurs silhouet…,[],[]
+5,945414727861194752,1,0,2017-12-25 22:03:30,: Cc,[],['https://t.co/ij27xJnQ']
+6,945364953518759936,4,0,2017-12-25 18:45:43,": Notre personnel travaille heures sur , jours sur , jours par année, pour assurer la sécurité de nos eaux. Joyeux t…",[],[]
+7,944725406757900288,1,0,2017-12-24 00:24:23,"/2 Ces gaillards ont livré vêtements chauds, sacs de couchage, couvertures et livres à la Fondation . En ce temps des Fêtes, l’initiative d’employés de la région Centre et Arctique, Secteur St-Laurent, a touché le cœur de l’humaniste, mbre Ordre du Canada! ère",['#GCCFi'],[]
+8,944725200687550469,3,1,2017-12-24 00:23:34,"/2 À la GCC, on sauve des vies et on tente d’ensoleiller celles des plus démunis. Gerry Lavoie (gauche derrière) et Pierre-Loup Boudreault (droite derrière) ont récemment prêté main-forte à Denise St-Amant dans son élan de générosité envers la Fondation . ère",['#GCCFi'],['https://t.co/9sGYbqDSmF']
+9,944301274010456065,3,0,2017-12-22 20:19:02,: Les stations saisonnières de de la région Atlantique de la GCC dans le golfe du Saint-Laurent sont fermées pour la saison…,['#SAR'],[]
+10,943975868401115138,0,0,2017-12-21 22:45:59,Infocéans : l’édition décembre -janvier de notre bulletin est en ligne! Venez nous lire!,[],"['https://t.co/Tth6upumJ6', 'https://t.co/AdjYUG5hHt']"
+11,943958197118828545,1,0,2017-12-21 21:35:46,: Nouvelles condamnations en vertu de la Loi sur les pêches aux Îles-de-la-Madeleine D,[],['https://t.co/UIzMnaBEV']
+12,943958164424314880,1,0,2017-12-21 21:35:38,: Nouvelles condamnations en vertu de la Loi sur les pêches sur la Côte-Nord,[],['https://t.co/sZXPwWgrNy']
+13,943628224403329024,1,0,2017-12-20 23:44:35,: Les activités des bases saisonnières de recherche et sauvetage au Qc se termineront avec celle de Cap-aux-Meules https…,[],[]
+14,943626548350943232,2,0,2017-12-20 23:37:55,: Un é doit être enlevé d’une voie navigable près de chez vous? Faites une demande de financement ôtes…,"['#BateauAbandonn', '#NosC']",[]
+15,943172732287700993,9,0,2017-12-19 17:34:37,": Dès aujourd'hui, les secteurs de pêches et d’aquaculture peuvent solliciter des fonds pour les technologies propres en vue de…",[],[]
+16,942855260980371456,7,0,2017-12-18 20:33:06,: Nos chercheurs font plus de recherche pour mieux cerner le comportement du pétrole dans l’eau et protéger ôtes https:…,['#NosC'],[]
+17,942836830709395457,3,0,2017-12-18 19:19:52,: Le améliore la recherche et les technologies visant à protéger les eaux 🇨🇦 des déversements de pétrole,['#GC'],['https://t.co/bqzbN9\xe2\x80\xa6']
+18,942784187475611648,1,0,2017-12-18 15:50:41,": Nous continuons à renforcer nos liens avec . Pendant sa récente visite à Montréal, la vice-amirale Joanna Nunan…",[],[]
+19,942778480042872833,1,0,2017-12-18 15:28:00,: On protège l’habitat essentiel du béluga menacé dans l’estuaire du St-Laurent. Découvrez ce que cela signifie:,[],['https://t.co/9O\xe2\x80\xa6']
+20,942775857072033792,2,0,2017-12-18 15:17:34,: Nos nouveaux arrêtés visant l’habitat essentiel nous offrent un autre mécanisme pour assurer que d’importants habitats aquatiq…,[],[]
+21,942773104727773190,1,0,2017-12-18 15:06:38,": Ministre LeBlanc a signé arrêtés visant l’habitat essentiel d’espèces en péril, dont la baleine noire de l’Atl. Nord et le b…",[],[]
+22,941789800322994176,1,0,2017-12-15 21:59:20,": Nous travaillons avec les Autochtones, les chercheurs, les pêcheurs et autres intervenants, pour définir d’autres habitats ess…",[],[]
+23,941387238818148355,1,0,2017-12-14 19:19:42,: Pêches et Océans Canada annonce que la êcheBlanche dans le commencera le janvier,"['#P', '#FjordDuSaguenay']",['https://t.\xe2\x80\xa6']
+24,941374054761627654,3,0,2017-12-14 18:27:19,: Les pêcheurs devraient-ils aller en cour ou payer une amende pour infraction mineure? Donnez votre avis.,[],['https://t.co/1YkmJA7A\xe2\x80\xa6']
+25,941373782157086721,5,0,2017-12-14 18:26:14,: . sollicite votre avis sur l’émission de contraventions pour les infractions mineures liées aux pêches https:/…,[],[]
+26,940971666871595009,2,0,2017-12-13 15:48:22,": La GCC est plus qu’une ère, c’est une AVENTURE ! Postulez pour vous joindre au ège de la Garde côtière canadienne m…","['#carri', '#Coll']",[]
+27,940636070605180929,5,0,2017-12-12 17:34:50,: Fascinant! Rencontrez Roger Pigeon qui a aidé à créer une bouée automatisée pour surveiller l’évolution de éans http…,['#NosOc'],[]
+28,940605309332189184,3,0,2017-12-12 15:32:36,": Des participants du monde entier, dont employés chargés des relevés , , , ont aim…",[],[]
+29,940573005352185856,6,0,2017-12-12 13:24:14,: Nous avons tenu à Beauharnois une séance d’info technique concernant le . Étapes à venir : démantèlement du navi…,['#KathrynSpirit'],[]
+30,939202829583085573,1,0,2017-12-08 18:39:38,": Séance d’information technique par la sur le Kathryn Spirit à Beauharnois, le décembre",['#GCC'],['https://t.co/oOVz7uE7ie']
+31,939199715866005504,2,0,2017-12-08 18:27:16,": Si une étoile de mer est séparée en deux en raison d’une blessure, chaque moitié peut devenir une étoile…",['#FaitAmusantVendredi'],[]
+32,939177908639293440,3,0,2017-12-08 17:00:37,: marque le e anniversaire des Services de trafic maritime. Nous sommes ères de notre programm…,"['#FaitAmusantVendredi', '#GCCFi']",[]
+33,938904648303464448,4,0,2017-12-07 22:54:46,: Le Plan de Protection des Océans créera des équipes d’intervention communautaire autochtone qui offriront formation de recherc…,[],[]
+34,938520803112603658,4,0,2017-12-06 21:29:30,: Avez-vous ce qu’il faut pour postuler au ège de la Garde côtière canadienne? Voyez si vous êtes admissible. https:/…,"['#Coll', '#STIM']",[]
+35,938465278140276736,3,0,2017-12-06 17:48:52,: Apprenez comment nous surveillons éans et nos cours d’eau pour mieux les comprendre et les protéger :,['#NosOc'],['https://t.co/Ypf0E\xe2\x80\xa6']
+36,938169367547793408,1,0,2017-12-05 22:13:02,: Connaissez-vous un hydrographe dont la cartographie du fond marin contribue à l’excellence géographique du Canada? Désigne…,[],[]
+37,938132411581435905,5,0,2017-12-05 19:46:11,: Recherché à ébec : officier électricien dans une flotte du ! Postulez aujourd'hui :,['#Qu'],['https://t.co/mx7jeswhv6']
+38,937717894313644032,4,0,2017-12-04 16:19:02,: C’est le Mois de la ! Célébrons la contribution scientifique canadienne dans le Nord!,['#ScienceArctique'],['https://t.co/4tcrVTc\xe2\x80\xa6']
+39,936997942933811201,0,2,2017-12-02 16:38:12,En anglais seulement.,[],['https://t.co/3vccjTf1uv']
+40,936986017147604993,2,0,2017-12-02 15:50:49,: Vous voulez enlever un bateau abandonné d'une voie navigable locale? Vous avez jusqu'au mars pour faire une demande. h…,[],[]
+41,936621097147142145,2,0,2017-12-01 15:40:45,": Comme pour un , l’âge de la plupart des peut être connu grâce aux anneaux de leurs otolithes (leurs os d’oreille) http…",[],[]
+42,936420306184491009,2,0,2017-12-01 02:22:53,": étro : En , le d’Iberville est le er navire de la à se rendre aussi loin au nord qu’à , au …","['#JeudiR', '#Eureka', '#']",[]
+43,936243427573977088,2,0,2017-11-30 14:40:02,": étro À bord du navire à vapeur NGCC d’Iberville, vers . Cet homme nettoie le filtre à eau du système d’alimentation…",['#JeudiR'],[]
+44,935990842187304960,3,0,2017-11-29 21:56:21,: Vous voulez un étudiant exigeant et gratifiant? Pourquoi pas un été en recherche et sauvetage avec la ? htt…,"['#emploi', '#']",[]
+45,935946348876259329,4,0,2017-11-29 18:59:33,: Vous avez l’appel du large ? Le Collège de la GCC est peut-être pour vous. Postulez ici : U,[],"['https://t.co/zke6TB3fQ', 'https://t.co\xe2\x80\xa6']"
+46,935890268502548481,2,0,2017-11-29 15:16:42,: Nos deux nouveaux navires hydrographiques téléguidés ont conclu leur er sondage officiel sur la rivière Richelieu au Québ…,[],[]
+47,935631576301539328,3,0,2017-11-28 22:08:45,: Les essais en mer pour le NGCC Baie de Plaisance sont en cours . ère,"['#SAR', '#GCCFi']",['https://t.co/rgBW2illfs']
+48,935567819281977345,3,0,2017-11-28 17:55:24,: Coup d'oeil sur certaines des bouées récupérées ce mois-ci le long du fleuve Saint-Laurent par l'équipage du NGCC Griffon. Les…,[],[]
+49,935552673130143744,3,0,2017-11-28 16:55:13,": D’hier à aujourd’hui! Pour la Journée de l'évolution, nous aimerions présenter l'évolution des navires et hélicoptères de la G…",[],[]
+50,935242960987451393,2,0,2017-11-27 20:24:32,: Les coquillages ont une histoire à raconter! On peut connaître l’âge d’un mollusque en comptant les anneaux de sa coquil…,[],[]
+51,935232327608881153,2,0,2017-11-27 19:42:17,": Félicitations à Frédérick-Sébastien Doucet, matelot sur le NGCC Pierre- Radisson! Le gouvernement du Québec lui a remis la méd…",[],[]
+52,934480810400534529,2,0,2017-11-25 17:56:01,: La Garde côtière recrute. Commencez une fascinante &amp; enrichissante carrière aujourd’hui! Joignez-vous à notre équipe,[],['https://t\xe2\x80\xa6']
+53,934164538391433217,6,0,2017-11-24 20:59:16,: Nous sommes heureux d’annoncer que nous avons accepté le er de navires de qui seront construits par le .…,['#SAR'],[]
+54,934086852121976832,2,0,2017-11-24 15:50:34,": Première du documentaire sur l’Eédition Golfe du Saint-Laurent avec . De g à d: Jackey Richard, DG régionale ass…",[],[]
+55,933771546635751424,6,0,2017-11-23 18:57:40,": D'un bout à l'autre du pays, les aires marines nationales de conservation protègent les écosystèmes et favorisent leur usa…",[],[]
+56,933724136576253952,3,0,2017-11-23 15:49:16,: Découvrez les anciennes et nouvelles photos de nos pour assurer une communication é7 fiable. …,['#SCTM'],['https://t.co/VxHPILHamX']
+57,933455607687974914,2,0,2017-11-22 22:02:14,: de nos chercheurs ont étudié des habitats inelorés dans le golfe du St-Laurent avec .,[],['https://t.co/gozfhqIO\xe2\x80\xa6']
+58,933429690768986112,0,1,2017-11-22 20:19:15,Intéressé(e) à faire carrière à Pêches et Océans Canada? De nombreuses possibilités s’offrent à vous : Dd,[],"['https://t.co/LoyNvbnR', 'https://t.co/GVZtRqo1hq']"
+59,933078228704559104,0,0,2017-11-21 21:02:40,"Saviez-vous que les ertations québécoises de produits marins ont totalisé tonnes et atteint une valeur de ,5 M$ en ? Pour d’autres statistiques : éeMondialeDesPêches",['#Journ'],"['https://t.co/cFQxS3tFYr', 'https://t.co/vxLhpbDIQw']"
+60,933057357952770049,4,0,2017-11-21 19:39:44,: C’est la éeMondialedesPêches! Montez à bord et apprenez comment nous faisons les relevés de stocks de poissons qui s…,['#Journ'],[]
+61,933009894575411201,9,0,2017-11-21 16:31:08,: Joyeuse éeDesPêches! La pêche et les activités liées aux pêches sont le gagne-pain de plus de Canadiens. Trouvez…,['#Journ'],[]
+62,932677574924341248,0,0,2017-11-20 18:30:36,"Pêcheurs commerciaux : si ce n’est pas déjà fait, assurez-vous de payer le renouvellement de votre permis au plus tard le décembre. Utilisez le Système national d’émission de permis en ligne. êches",['#P'],"['https://t.co/zEwXJCK3t7', 'https://t.co/7a4cWkMi4P']"
+63,932624152187539456,4,0,2017-11-20 14:58:19,: Notre capacité à assurer la sécurité du trafic maritime serait presque impossible sans nos hélicoptères.,[],['https://t.co/v2FyiRx6\xe2\x80\xa6']
+64,931937256444715008,4,0,2017-11-18 17:28:51,": Avec , nous avons rencontré cette semaine des représentants de collectivités autochtones et de l’industrie, ains…",[],[]
+65,931601757557411841,3,0,2017-11-17 19:15:41,": ère d’avoir navires, hélicoptères et membres travaillant sans relâche à la protection du plus long littoral…",['#GCCFi'],[]
+66,931559204837523457,3,0,2017-11-17 16:26:36,: Apprenez comment le planeur – un véhicule sous-marin autonome – change notre façon d’étudier éans :,['#NosOc'],['https://t.co/x2H\xe2\x80\xa6']
+67,931239044813553664,1,0,2017-11-16 19:14:24,": Célébrons la journée de l’hydrographie, la science qui permet de cartographier nos fonds marins! ️",[],['https://t.co/PfWUn8uKj\xe2\x80\xa6']
+68,930915367827976197,1,0,2017-11-15 21:48:13,: La Garde côtière recrute. Commencez une fascinante et enrichissante carrière aujourd’hui! Joignez notre équipe.,[],['https://t.co/z\xe2\x80\xa6']
+69,930836366015033344,2,0,2017-11-15 16:34:18,"Ça fait ans que nous mesurons la température des eaux profondes du golfe du St-Laurent et jamais celle-ci n’a été aussi élevée. Voilà une situation préoccupante que Peter Galbraight, chercheur à l’Institut Maurice-Lamontagne, suit de près.",[],['https://t.co/YE1NF3lzCl']
+70,930813965306945537,2,0,2017-11-15 15:05:17,: Apprenez comment nous travaillons avec pour protéger les animaux aquatiques des maladies infectieuses https:…,[],[]
+71,930556864642867201,0,0,2017-11-14 22:03:40,"Faites connaissance avec Érick St-Laurent, le nouveau directeur du Secteur Gaspésie–Bas-Saint-Laurent.",[],"['https://t.co/baPhOFtHWk', 'https://t.co/Y2BKLxpf3K']"
+72,930510450122469377,1,0,2017-11-14 18:59:14,: Nos scientifiques travaillent à éliminer les espèces envahissantes pour éviter tout problème écologique &amp; économique https…,[],[]
+73,930114336558809090,1,0,2017-11-13 16:45:13,: Le Plan de protection des Océans renforcera la Garde côtière canadienne sur ôtes pour protéger davantage les eaux du Cana…,['#NosC'],[]
+74,929441936611700736,3,0,2017-11-11 20:13:20,": Min LeBlanc réunit l’industrie, des chercheurs, eerts &amp; Autochtones pour savoir comment protéger la ht…",['#BaleineNoire'],[]
+75,929441021041225729,4,0,2017-11-11 20:09:42,": En ce jour du Souvenir, nous remercions ceux et celles qui servent le Canada. N’oublions jamais.",['#LeCanadasesouvient'],['https://t\xe2\x80\xa6']
+76,929067233506201600,0,0,2017-11-10 19:24:24,"Infocéans / Les équipes de l’Institut Maurice-Lamontagne échangent avec d’autres scientifiques, améliorant ainsi leurs connaissances.",['#Journeemondialedelascience'],"['https://t.co/hlTGRADgrv', 'https://t.co/Z0FOXFzIfW']"
+77,929012568164880384,1,0,2017-11-10 15:47:11,": Message d’intérêt public : Le jour du Souvenir, l’ARC effectuera divers survols",[],['https://t.co/uCTG7jP5wh']
+78,928759686442168322,1,0,2017-11-09 23:02:19,": Une réunion fructueuse aujourd’hui avec des partenaires engagés, qui résultera en mesures concrètes pour protéger la …",['#BaleineN'],[]
+79,928744725225656320,6,0,2017-11-09 22:02:52,": Toutes les options sont considérées pour protéger la maintenant et l’été prochain, à leur retour dans le golfe d…",['#BaleineNoire'],[]
+80,928744701762654208,4,0,2017-11-09 22:02:46,": Cet été on a vu plus de dans le golfe du St-Laurent. Dans le passé, elles préféraient la baie de Fundy. ht…",['#BaleinesNoires'],[]
+81,928744663900663809,4,0,2017-11-09 22:02:37,": Le ministre LeBlanc est présent à , N.-B., aujourd'hui pour diriger une discussion avec des eerts sur la façon de pr…",['#Moncton'],[]
+82,928711280189468672,0,0,2017-11-09 19:49:58,"étro Le pont de Québec célèbre ses ans cette année! Plus long pont cantilever au monde, il est indissociable du paysage maritime de Québec. Sa présence a un impact indiscutable sur la navigation et le déglaçage de la voie navigable en hiver. 1",['#JeudiR'],['https://t.co/2aSRvphYP']
+83,928644234156105728,0,0,2017-11-09 15:23:33,Infocéans / Le éans vise notamment à favoriser la réconciliation avec les peuples . U,"['#PlanDeProtectionDesOc', '#autochtones']","['https://t.co/tUkemla5SM', 'https://t.co/pOAmyZUNk']"
+84,928383126719655936,3,0,2017-11-08 22:06:00,: Voici comment le physicien Denis Gilbert étudie les effets du grâce aux courants océaniques 🇨🇦 https…,['#ChangementClimatique'],[]
+85,928329649695875072,0,0,2017-11-08 18:33:30,Les Services de communication et de trafic maritimes de la Garde côtière canadienne surveillent la vitesse des navires pour prévenir les collisions avec les . 8,['#BaleinesNoires'],"['https://t.co/ju99UzrJT', 'https://t.co/qJfFvZmF4a']"
+86,928287107268956160,0,1,2017-11-08 15:44:27,Découvrez le rôle important joué par la Garde côtière canadienne dans la récupération des carcasses de baleines noires cet été. 9,[],"['https://t.co/v4GeouL0vi', 'https://t.co/LrkGfftgV']"
+87,928279839118974977,3,0,2017-11-08 15:15:34,: . recherche des candidats pour joindre l'Office d'appel relatif aux permis dans diverses régions. Postulez : https:…,[],[]
+88,928038066975109120,6,0,2017-11-07 23:14:51,: Le éans a été lancé il y a un an aujourd’hui: déjà M$ investis pour protéger ôtes https:/…,"['#PlanDeProtectionDesOc', '#NosC']",[]
+89,927985386818822144,1,1,2017-11-07 19:45:32,"Infocéans vs rappelle les moments forts de l’été , marqué par la mort d’un nbre exceptionnel de .",['#BaleinesNoires'],"['https://t.co/cPsaWe85fr', 'https://t.co/xXBLFoF5sn']"
+90,927916415243423744,3,0,2017-11-07 15:11:27,: Notre contribution à la protection des éans du Canada inclut zones de protection marine sur les trois côtes!,['#oc'],['https://t\xe2\x80\xa6']
+91,927618688446091264,1,0,2017-11-06 19:28:24,Voyez le travail de nos scientifiques ds le reportage de Découverte sur les baleines noires du golfe du St-Laurent.,[],['https://t.co/R4BIynk6b5']
+92,927597997764087809,0,0,2017-11-06 18:06:11,Infocéans : l’édition octobre-novembre de notre bulletin est en ligne! Venez nous lire!,[],"['https://t.co/xgIRJfvk9Z', 'https://t.co/qRdgZZUhKp']"
+93,927588560554864641,2,0,2017-11-06 17:28:41,": Plus tôt ce mois-ci, ns avons participé à la Foire nationale de l'emploi de Montréal. Voulez-vs travailler chez ns?",[],['https://t.\xe2\x80\xa6']
+94,926468184626081793,6,0,2017-11-03 15:16:42,: Établir des réseaux de zones de protection marine vise à protéger à long terme la biodiversité marine &amp; nos éans,['#oc'],['https://t.\xe2\x80\xa6']
+95,926205975631204352,6,0,2017-11-02 21:54:47,: La Garde côtière: d’hier à aujourd’hui! ère de servir les Canadiens. Vidéo complète: …,"['#GCCFi', '#Canada150']",['https://t.co/8EfEV98VlN']
+96,925484245371572224,0,0,2017-10-31 22:06:53,Ce beau poisson aux couleurs de l’ est une lompe mâle à l’époque de la reproduction. 9,['#Halloween'],"['https://t.co/HJd4cl2Re', 'https://t.co/SzQg8RkNY3']"
+97,925430505985671168,3,0,2017-10-31 18:33:20,: Demandes d’arrangements en matière d’approvisionnement pour la comme option provisoire pour le églaçage htt…,['#d'],[]
+98,925405976529899520,3,0,2017-10-31 16:55:52,: Le mois tire à sa fin nous sommes ère d'avoir eu l'occasion de souligner les femmes incroyables de la…,"['#HistoiredesFemmes', '#GCCFi']",[]
+99,925379791993393157,50,0,2017-10-31 15:11:49,": Le Mois de l’ tire à sa fin, mais l’atteinte de l’égalitédessexes requiert des efforts quotidiens. ht…","['#histoiredesfemmes', '#']",[]
+100,925037592915206145,4,0,2017-10-30 16:32:03,": Le Canada protège maintenant ,22% de ses océans et ses côtes C",[],"['https://t.co/4r1OmaahH', 'https://t.co/Z1Xp1qQ4fV']"
+101,925014534145888256,4,0,2017-10-30 15:00:25,: Céline Gagnon comme Matelot en travaillant à bord de NGCC Amundsen. ère htt…,"['#PrendreSaPlace', '#GCCFi', '#FaireSaMarque']",[]
+102,924648133157642241,7,0,2017-10-29 14:44:28,": % de la surface océanique du Canada sont à présent protégés, ce qui est plus grand que la taille des Grands Lacs!",[],['https://t.\xe2\x80\xa6']
+103,924421559686717440,1,0,2017-10-28 23:44:09,": Avec des eerts en milieu marin, le ministre LeBlanc a dit comment le Canada est un leader en durabilité des pêches",[],['https://t\xe2\x80\xa6']
+104,924404221381881856,4,0,2017-10-28 22:35:15,: Bonne nouvelles pour les amoureux des océans canadiens : plus de % de nos océans et de nos côtes sont protégés! https://…,[],['https://\xe2\x80\xa6']
+105,924392435538694144,16,0,2017-10-28 21:48:25,: Aussi ravis d’annoncer nouveaux refuges marins dans le golfe du St-Laurent qui protégeront coraux &amp; éponges,[],['https://t.co/U\xe2\x80\xa6']
+106,924384053742264320,8,0,2017-10-28 21:15:07,: Merci à tous nos partenaires &amp; intervenants qui nous ont aidés à remplir nos objectifs visant à protéger nos éans! https://…,['#oc'],['https://\xe2\x80\xa6']
+107,924373825856393218,7,0,2017-10-28 20:34:28,": Regardez plus précisément comment nous avons atteint l’objectif de protéger % de nos océans, ici: h…",[],['https://t.co/AWyE7EBZga']
+108,924371576916672512,16,0,2017-10-28 20:25:32,: Le Canada a atteint son objectif de visant à protéger % de ses éans avant la fin 🇨🇦,"['#ConservationMarine', '#oc']",['https://t.co/\xe2\x80\xa6']
+109,924370162924638209,6,0,2017-10-28 20:19:55,: Le Canada protège désormais plus de % de ses océans! https…,['#ConservationMarine'],[]
+110,924317005318115330,1,0,2017-10-28 16:48:41,: Sachez quoi faire si vous trouvez un abandonné ou une épave et désirez le garder. https…,"['#bateau', '#']",['https://t.co/jmSgsYAAk4']
+111,924293840747548672,5,0,2017-10-28 15:16:38,: Aujourd’hui met fin à son voyage. Découvrez la science qui y a été menée sur nos trois côtes:,[],['https://t.co/3gL\xe2\x80\xa6']
+112,924282223502782468,4,0,2017-10-28 14:30:29,: à nos nouveaux diplômés du programme de service de communication et de trafic maritime! Nous vous souhaitons le mei…,['#BravoZulu'],[]
+113,923966848433090561,0,0,2017-10-27 17:37:17,Apprenez-en plus sur le Programme d’élimination des épaves et des navires abandonnés de Ports pour petits bateaux : 8DC 1,[],"['https://t.co/OB2aCHn', 'https://t.co/8L25CJ4bv']"
+114,923958871189749760,3,0,2017-10-27 17:05:35,": La carpe de roseau envahissante a une tête sans écailles, une bouche sans dents et un museau court. Signalez-la",[],['https://t.co/h\xe2\x80\xa6']
+115,923914369397874688,4,0,2017-10-27 14:08:45,: Lisa Earle est responsable des opérations de navires &amp; hélicoptères …,"['#PrendreSaPlace', '#HistoireDesFemmes', '#G']",[]
+116,923278721968205824,2,1,2017-10-25 20:02:55,Avez-vous déjà pensé faire carrière à Pêches et Océans Canada? Découvrez les possibilités qui s’offrent à vous : Dd,[],"['https://t.co/LoyNvbnR', 'https://t.co/kDkFoJ42lV']"
+117,923245502002589696,1,0,2017-10-25 17:50:55,: La science à votre portée. Retrouvez toute la recherche du &amp; la nôtre dans la bibliothèque fédérale des sciences https…,['#GC'],[]
+118,923197264847364102,3,0,2017-10-25 14:39:14,: La laimargue atlantique vit jusqu’à ans et peut être cannibale ! U,[],"['https://t.co/Evmvtll2fO', 'https://t.co/0SVKDF4YV']"
+119,922943420527710208,2,0,2017-10-24 21:50:33,: Développeurs d': Créez des journaux de bord électroniques et améliorez la façon dont le pêcheur fait affaire htt…,['#applis'],[]
+120,922924483240869888,1,1,2017-10-24 20:35:18,"Découvrez le travail de Roger Pigeon, chef d’équipe en soutien techn. et électronique à l’Inst. Maurice-Lamontagne.",[],['https://t.co/RGNVchvoyZ']
+121,922888510645948417,9,0,2017-10-24 18:12:22,: Merci à toutes les chercheuses qui contribuent à l’excellence de la science au Canada,['#PrendreSaPlace'],['https://t.co/HbyA\xe2\x80\xa6']
+122,922831312565735425,2,0,2017-10-24 14:25:04,: L’eau se refroidit peu à peu. Pensez écuritéNautique!,['#S'],"['https://t.co/LrCidOBPsZ', 'https://t.co/rfML1HQDut']"
+123,922539743539335169,2,0,2017-10-23 19:06:29,": Notre navire porte fièrement le nom de Martha Louise Black, la e femme élue a la Chambre des communes. …","['#Yukon', '#PrendreSaPlace']",[]
+124,922525658005336064,3,0,2017-10-23 18:10:31,: La tortue luth sait quand migrer grâce à la tache rose sur sa tête qui répond aux changements saisonniers.,[],['https://t.co/DREg\xe2\x80\xa6']
+125,921528600804909058,3,0,2017-10-21 00:08:34,: . a annoncé l’octroi du contrat pour démanteler le navire,['#KathrynSpirit'],['https://t.co/onVLgk4lyv']
+126,921462438448549895,1,0,2017-10-20 19:45:39,: Joignez-vous au Collège de la Garde côtière! Ce qui vous attend: une carrière parmi nous! Visitez pour postuler:,[],['https://t.co/\xe2\x80\xa6']
+127,921098365722652678,2,0,2017-10-19 19:38:58,: Nouvelles condamnations en vertu de la Loi sur les pêches en Gaspésie et au Bas-Saint-Laurent,[],['https://t.co/RpXSZa2lFG']
+128,921098349524275200,1,0,2017-10-19 19:38:54,: Nouvelles condamnations en vertu de la Loi sur les pêches sur la Côte-Nord,[],['https://t.co/70KIHc0WJ4']
+129,921064020140085248,5,0,2017-10-19 17:22:29,": Pour l’, Nous sommes fiers de présenter CA Gascon, dédiée à assurer des opportunités égales chaque employé! …","['#affairepersonne', '#P']",[]
+130,921018484045303808,6,0,2017-10-19 14:21:32,: Le 🇨🇦 est fier de se joindre à la campagne éansPropres de avec et pour des océans …,"['#Oc', '#Sa']",[]
+131,920698484948439040,8,0,2017-10-18 17:09:59,: Est-ce que votre projet risque de nuire aux espèces aquatiques en péril? Vérifiez les cartes à jour en ligne du MPO!,[],['https://t\xe2\x80\xa6']
+132,920381952380882944,0,0,2017-10-17 20:12:11,"Les mollusques vous intéressent? Faites connaissance avec Patrice Goudreau, technicien en évaluation des stocks.",[],['https://t.co/fsx8gbuumr']
+133,920371836915011584,1,0,2017-10-17 19:32:00,": Nombre de pêcheurs enregistrés &amp; de bateaux de pêche actifs a diminué, mais nombre moyen de décès est resté constant …",['#Listed'],[]
+134,920348347730362368,8,0,2017-10-17 17:58:40,: Loi sur le pilotage: veiller à la sécurité dans les voies navigables achalandées. Comment améliorer cette loi? https://…,[],['https://\xe2\x80\xa6']
+135,920301579365908481,3,0,2017-10-17 14:52:49,: Grands Lacs et Voie maritime du Saint-Laurent : Comment stimuler développement commercial et économique? àTC http…,['#Parlez'],[]
+136,919987348879892480,2,1,2017-10-16 18:04:11,Franc succès pour les portes ouvertes de l’Institut Maurice-Lamontagne les -15 oct. : plus de personnes sont venues nous voir!,[],['https://t.co/5b6a9o8nqw']
+137,919981682136150018,1,0,2017-10-16 17:41:40,: Retroussez vos manches et apprenez-en plus sur le relevé des stocks de poissons à travers la lentille de l’équipage: https…,[],[]
+138,919634243130667008,2,0,2017-10-15 18:41:04,": Matelot de première classe, Kate Courchesne équilibre travail &amp; plaisir! Surtout en nettoyant le barrage flottant. …",['#PrendreSaP'],[]
+139,919567544272420864,1,0,2017-10-15 14:16:01,: Pour voir les dernières technologies en bateau autonome et échanger avec les hydrographes https://…,"['#hydrographie', '#VHSA', '#AHSV']",['https://\xe2\x80\xa6']
+140,919558985178599424,2,0,2017-10-15 13:42:01,: Venez rencontrer nos du et voir le fond marin en D à -sciences portes ouvertes,"['#hydrographes', '#SHC', '#IML', '#mpo']",['https://t.co/kz2\xe2\x80\xa6']
+141,919230772887859201,2,0,2017-10-14 15:57:49,": Viola Davidson a étudié le phytoplancton marin de -32, alors inhabituel qu’une femme fasse des études supérieures …",['#prendre'],[]
+142,918965509504339968,0,1,2017-10-13 22:23:45,"Plus que quelques heures avant l’ouverture des portes de l’IML. Rendez-vous samedi et dimanche, de h à h!",[],"['https://t.co/ZDTXPQnx7E', 'https://t.co/BKZqfuQCE3']"
+143,918960719269449729,1,0,2017-10-13 22:04:43,": Renseignez-vous sur des opportunités d'emploi pr étudiants ce weekend à l’Institut Maurice-Lamontagne, Mont-Joli, QC https…",[],[]
+144,918907412240879617,2,0,2017-10-13 18:32:54,: étéorologie Venez voir notre kiosque aux Portes Ouvertes de l' les et octobre h…,"['#Argo', '#climat', '#m', '#IML']",[]
+145,918886193273688064,2,0,2017-10-13 17:08:35,: étro sept – CA Gascon célèbre les bénéfices de l’ pour Canadiens &amp; partenaires,"['#VendrediR', '#AECG']",['https://t.co\xe2\x80\xa6']
+146,918497232235778049,3,0,2017-10-12 15:22:59,": Les opérations de la GCC en Arctique prendront fin bientôt, après une saison prolongée et occupée. ère! https://…",['#GCCFi'],['https://\xe2\x80\xa6']
+147,918197536447520768,0,2,2017-10-11 19:32:06,Gratuit! Venez découvrir les coulisses des activités réalisées à l’Institut Maurice-Lamontagne les -15 octobre.,[],"['https://t.co/ZDTXPQnx7E', 'https://t.co/82O5d3w2KO']"
+148,918156209747910656,1,0,2017-10-11 16:47:53,": Voyez quel genre de travail nous effectuons avec diverses espèces aquatiques lors de notre évènement à Mont-Joli, QC https…",[],[]
+149,918144768324128769,2,0,2017-10-11 16:02:25,: NGCC Amundsen de retour à ébec demain après sa e eédition dans l’. A permis la e édition de l’Enquête de sant…,"['#Qu', '#Arctique']",[]
+150,918112391816187906,1,2,2017-10-11 13:53:46,Lisez l’article de Baleines en direct sur les travaux de chercheurs &amp; biologistes de l’Institut Maurice-Lamontagne,[],['https://t.co/VnCNS0trcx']
+151,917803822013181953,3,0,2017-10-10 17:27:37,: Portes ouvertes : Venez voir comment l’Institut Maurice-Lamontagne protège nos ressources &amp; écosystèmes aquatiques https:/…,[],[]
+152,917773725235400706,4,0,2017-10-10 15:28:02,: Que pensez-vous des océans? Jetez un œil au nouveau portail de consultation Parlons éans,['#PlanDeProtectionDesOc'],['https://t\xe2\x80\xa6']
+153,917763054326222848,1,0,2017-10-10 14:45:38,: Notre chercheur étudie le &amp; l’ – ressources aquatiques populaires du CAN,"['#crabedesneiges', '#homard']",['https://t.co/VaizRBIQ0X\xe2\x80\xa6']
+154,917415512803553281,1,0,2017-10-09 15:44:37,": Les -15 oct., l’Institut Maurice-Lamontagne (Mont-Joli) vous ouvre ses portes! Amorcez votre visite maintenant : http…",[],[]
+155,916749815198961664,5,0,2017-10-07 19:39:22,: La région de l' embauche pour sa nouvelle station d'embarcations de sauvetage côtière. Voir les photos pour plus de d…,['#Arctique'],[]
+156,916726958746230785,1,0,2017-10-07 18:08:33,": L’élève-officier en ingénierie navale, Geneviève Girard s’initie à la soudure.",['#prendresaplace'],['https://t.co/xPB\xe2\x80\xa6']
+157,916445299392040961,5,0,2017-10-06 23:29:20,: NGCC DesGroseilliers de retour à ébec demain après sa mission annuelle en . A aidé au ravitaillement de la station…,"['#Qu', '#Arctique']",[]
+158,916353439030005761,6,0,2017-10-06 17:24:19,: Le s'associe à l'Institut national des pêches autochtones pour examiner les programmes principaux,[],['https://t.c\xe2\x80\xa6']
+159,916062437505470464,4,0,2017-10-05 22:07:59,: Nous étudierons avec nos partenaires les changements à apporter l’été prochain pour protéger ces animaux de tout autre danger.,[],[]
+160,916061153788342272,8,0,2017-10-05 22:02:53,": Selon le , les plus grandes menaces pour la sont les collisions avec les navires et les enchevêtrements",['#baleinenoire'],[]
+161,916052252292517889,5,0,2017-10-05 21:27:31,": Après décès cet été et le rapport du publié aujourd'hui, nous ferons plus pour protéger les",['#baleinesnoires'],[]
+162,916031002136289280,3,0,2017-10-05 20:03:04,": Après décès de noires cet été, le rapport du souligne le besoin d’en faire plus",['#baleines'],['https://t.co/Nc\xe2\x80\xa6']
+163,916028538008014848,4,0,2017-10-05 19:53:17,": Voici la trévire, une technique de sauvetage, contribuant à éliminer les barrières de genre! ht…",['#prendresaplace'],[]
+164,915954332146823179,3,0,2017-10-05 14:58:25,: NGCC Pierre Radisson en compagnie des navires d’autres États ayant participé au Forum des gardes côtières de l’Arctique en Isl…,[],[]
+165,915687377103880193,3,0,2017-10-04 21:17:38,": Connaissez-vous la différence entre la baleine, le dauphin et le marsouin? Découvrez la réponse : http…",[],['https://t.co/0TtLFQjgb6']
+166,915655006480666626,5,0,2017-10-04 19:09:00,: NGCC Pierre Radisson de retour à Québec demain après voyage en Islande pour Forum des gardes côtières de l’Arctique.,[],['https://t\xe2\x80\xa6']
+167,915582666837196801,3,0,2017-10-04 14:21:33,: Vous voulez enlever un é? Notre éans pourrait vous aider. h…,"['#BateauAbandonn', '#PlanDeProtectionDesOc']",['https://t.co/jmSgsYAAk4']
+168,915264112497692672,5,0,2017-10-03 17:15:43,: Octobre est le mois de l’Histoire des Femmes! Nous célèbrerons les réalisations de femmes à la GCC. …,"['#histoiredesfemmes', '#prendr']",[]
+169,914913366522630145,2,0,2017-10-02 18:01:59,: Notre étude sur les impacts du changement climatique sur les glaces de l’ prend fin aujourd’hui.,['#Arctique'],['https://t.co/ghi\xe2\x80\xa6']
+170,913063133614362624,1,0,2017-09-27 15:29:49,: Vs cherchez des idées de voyage pr la éemondialedutourisme? Vous pouvez aller pêcher &amp; contempler nos côtes,['#Journ'],['https://t.co\xe2\x80\xa6']
+171,912790081508925440,1,2,2017-09-26 21:24:48,"Les -15 oct., l’Institut Maurice-Lamontagne (Mont-Joli) vous ouvre ses portes! Amorcez votre visite maintenant :",[],"['https://t.co/OdbjcxgnpG', 'https://t.co/L9q7REcT75']"
+172,912689815103123456,6,0,2017-09-26 14:46:23,: 🇨🇦 rejoint éansPropres de ! engagés pour des océans sans plastique. https:…,['#Oc'],[]
+173,912380891355340800,6,0,2017-09-25 18:18:50,: Notre énoncé de mission est de sauver et de protéger des vies en milieu maritime. Des formations fréquentes accentuent le…,['#SAR'],[]
+174,911308795057459201,1,0,2017-09-22 19:18:42,: Nos scientifiques ont passé un été occupé en mer à étudier éans. Hâte de voir les recherches de l’automne! https://…,['#NosOc'],['https://\xe2\x80\xa6']
+175,911282285697265665,1,0,2017-09-22 17:33:22,: Le rorqual bleu est le plus gros animal à avoir jamais existé. Il mesure mètres &amp; pèse jusqu’à tonnes!,[],['https://t.co/ByE\xe2\x80\xa6']
+176,911225519571705856,2,0,2017-09-22 13:47:48,: Vous vous rappelez le béluga piégé dans la rivière Népisiguit au N.-B.? Regardez toute l'histoire de son sauvetage: https://…,[],['https://\xe2\x80\xa6']
+177,910951434761498624,0,1,2017-09-21 19:38:41,"Si les forêts se parent de couleurs éclatantes à l’automne, certains fonds marins sont, pour leur part, flamboyants toute l’année.",[],['https://t.co/FF5kLa0no3']
+178,910876300562354176,0,0,2017-09-21 14:40:07,Les bateauhares ont précédé les phares pr signaler la présence de zones dangereuses pr la navigation,['#JeudiRetro'],"['https://t.co/8Hq5h04cPf', 'https://t.co/7da8xCIvgE']"
+179,910580013786976257,2,0,2017-09-20 19:02:47,: le Collège de la GCC est considéré l'un des collèges maritimes les plus modernes et les mieux équipés au monde,['#SVQ'],['https://t.\xe2\x80\xa6']
+180,910232254529622018,0,0,2017-09-19 20:00:55,éans : pour s’assurer que nos côtes restent saines et sécuritaires pr des générations à venir. 2,['#PlanDeProtectionDesOc'],"['https://t.co/VvUZSQciW', 'https://t.co/GPTDKslFpZ']"
+181,910185730147840001,4,0,2017-09-19 16:56:03,: C’est la Semaine de la culture scientifique! nous avons des laboratoires scientifiques sur la majorité de nos grands navi…,['#SVQ'],[]
+182,909939650986422272,2,0,2017-09-19 00:38:13,": Mise à jour sur la : la carcasse aperçue au large de Miscou, NB, a été récupérée. Nécropsie mardi,19 sept au ma…",['#baleinenoire'],[]
+183,909901509986590720,2,0,2017-09-18 22:06:39,: L’océan révèle une partie de l’histoire du 🇨🇦. Voyez ce que recèlent les épaves de bateau retrouvées dans nos eaux,[],['https://t.c\xe2\x80\xa6']
+184,909821611569766402,0,0,2017-09-18 16:49:10,Dernière chance pour donner votre avis sur les façons d’aider nos baleines,['#Parlonsbaleines'],"['https://t.co/13uAbDfgbM', 'https://t.co/kaJEeXUE0p']"
+185,909772947585368065,3,0,2017-09-18 13:35:48,: C’est la Semaine de la culture scientifique! Nous sommes fiers de contribuer à l’excellence scientifique au Canada https:/…,[],[]
+186,909480739678367746,2,0,2017-09-17 18:14:40,: Vous voulez servir votre pays en aidant à garder nos eaux en sécurité? Recevez une formation rémunérée au GCCCollège,[],['https://t\xe2\x80\xa6']
+187,909075950356369409,2,0,2017-09-16 15:26:11,: Tentative de récupérer la baleine noire et d’en faire la nécropsie la semaine prochaine. Des mises à jour suivront.,[],[]
+188,909075905380851712,3,0,2017-09-16 15:26:00,": À date, la mort de baleines noires de l'Atlantique Nord a été confirmée dans le golfe du Saint-Laurent.",[],['https://t.co/qSxJ\xe2\x80\xa6']
+189,909075850129272832,2,0,2017-09-16 15:25:47,: Le MPO n’est pas en mesure de confirmer si c’est la même baleine noire empêtrée qui avait été repérée au large de la péninsu…,[],[]
+190,909075805061435393,2,0,2017-09-16 15:25:36,": Après un vol de surveillance, MPO confirme que la carcasse d’une baleine noire de l'Atl Nord a été retrouvée au large de l'î…",[],[]
+191,908760778064498689,0,0,2017-09-15 18:33:48,La pêche récréative au poisson de fond tire à sa fin. Pour savoir où il est encore possible de s’y adonner : 1,[],"['https://t.co/0EDpru2im', 'https://t.co/wOF9SkZ5IZ']"
+192,908734448300158976,4,0,2017-09-15 16:49:10,": Une idée sur la façon d'aider nos baleines? Il ne reste que quelque jours, donc dites-le-nous!",['#Parlonsbaleines'],['https://t.co/U\xe2\x80\xa6']
+193,908384850788450307,3,1,2017-09-14 17:40:00,"Yann Côté-Nadeau, du Service hydrographique du Canada, raconte son eérience avec l’eédition . 2",[],"['https://t.co/3AfkYthVtO', 'https://t.co/wwABrKr2P']"
+194,908343931016040449,0,0,2017-09-14 14:57:24,Découvrez comment le MPO s’assure que les pêcheurs de respectent la loi afin de préserver la ressource.,['#homard'],"['https://t.co/s8AOmtmLAi', 'https://t.co/1HSSd5ASgy']"
+195,908050774915256321,2,2,2017-09-13 19:32:30,: révolution en perspective avec l’acquisition de deux véhicules hydrographiques de surface autonomes.,['#Hydrographie'],"['https://t.co/MAiNe8Yyys', 'https://t.co/3za09UY4cE']"
+196,908015461325041665,0,0,2017-09-13 17:12:10,Les sont à la recherche d’une deuxième frayère de é au sud du golfe du St-Laurent.,"['#Micmacs', '#BarRay']","['https://t.co/CVSgIUav6z', 'https://t.co/DPeafYZlYy']"
+197,907972855312404481,0,1,2017-09-13 14:22:52,"le grand requin blanc (population de l’Atlantique) fréquente les eaux canadiennes, dont celles du Québec?",['#SVQ'],"['https://t.co/eEnvROBMoQ', 'https://t.co/8nv0XuET1m']"
+198,907706839424528387,0,0,2017-09-12 20:45:49,Revivez le périple du jeune éluga piégé cet été ds une rivière du et relocalisé dans l’estuaire du St-Laurent,"['#b', '#NB']","['https://t.co/HAzFJMHEMy', 'https://t.co/qvSUdp3arK']"
+199,907694426927050753,0,0,2017-09-12 19:56:30,Familiarisez-vous avec les initiatives qui seront menées par le dans le cadre du éans,"['#MPO', '#PlanDeProtectionDesOc']","['https://t.co/V0uu1J2KrN', 'https://t.co/kMJKm8xpbX']"
+200,907628676854026240,5,0,2017-09-12 15:35:14,: d’avoir participé au Forum des gardes côtières de l’Arctique pour parvenir à une coopération plus étroite.,['#CCGFiers'],['https://t\xe2\x80\xa6']
+201,907619549452935168,3,0,2017-09-12 14:58:58,: Le nouveau programme permet d’évaluer nos écosystèmes marins pour mieux suivre les changements au fil du temps :,[],['https://t.co/\xe2\x80\xa6']
+202,907345001935503361,0,1,2017-09-11 20:48:00,Infocéans : l’édition août-septembre de notre bulletin est en ligne! Venez nous lire!,[],"['https://t.co/GBtJBUntrV', 'https://t.co/PekktK8gry']"
+203,907258199866331139,2,0,2017-09-11 15:03:05,": Notre collège abrite la bibliothèque John Adams, l'une des plus grandes bibliothèques nautiques au Canada.",[],['https://t.co/wdwdsC\xe2\x80\xa6']
+204,906910045530714113,4,0,2017-09-10 15:59:39,: Contribuez à la protection de nos eaux en signalant tout incident de pollution marine : .,[],"['https://t.co/sOd5uX1Tpb', 'https://t.co/\xe2\x80\xa6']"
+205,906576457123721216,2,0,2017-09-09 17:54:05,: Nouvelles mesures prises pour protéger milieu marin &amp; collectivités côtières grâce au Plan de protection des océans,[],['https://t.\xe2\x80\xa6']
+206,906565264879341569,4,0,2017-09-09 17:09:36,: Les collisions avec navires peuvent blesser et tuer les baleines. Comment pouvons-nous réduire le risque?,[],['https://t.co/Rh2fHAH\xe2\x80\xa6']
+207,906564322012344320,3,0,2017-09-09 17:05:52,": La GCC surveille la sécurité des marins \ , utilisez les numéros suivants pour signaler les situations d'urgence",[],['https://t\xe2\x80\xa6']
+208,906160620541759488,6,0,2017-09-08 14:21:42,: Donnez votre avis sur la façon de protéger nos eaux navigables avec « Parlons Plan de protection des océans »,[],['https://t.co/n92\xe2\x80\xa6']
+209,905847340623208448,12,0,2017-09-07 17:36:50,: À ne pas manquer! Venez nous voir sur FB direct du avec ce soir h,['#ParlonsBaleines'],['https://t.co/\xe2\x80\xa6']
+210,905534459277176834,4,0,2017-09-06 20:53:33,: Nous sommes fière d’être à Reykjavik en Islande parmi États membres pour le Forum de la Garde côtière de l'Arctique …,['#Guardia'],[]
+211,905533540711981057,6,0,2017-09-06 20:49:54,: Soyez à l’affût. Le MPO &amp; animeront un Facebook Live sur ce jeudi. Plus de détails à venir……,['#ParlonsBaleines'],[]
+212,905161239759867904,9,0,2017-09-05 20:10:31,: Les produits chimiques dans l'océan peuvent nuire aux baleines. Des idées de prévention?,['#Parlonsbaleines'],['https://t.co/82xu65k\xe2\x80\xa6']
+213,904046557493940224,4,0,2017-09-02 18:21:10,: Nous étendons la période de consultation sur le permis de êcRéc au Canada – Donnez votre avis jusqu’au sept.,['#P'],['https://t.co\xe2\x80\xa6']
+214,904030088747999235,2,0,2017-09-02 17:15:43,: La GCC offre une excellente occasion de servir le pays en produisant des résultats concrets sur les eaux canadiennes,[],['https://t\xe2\x80\xa6']
+215,903644755430658048,3,0,2017-09-01 15:44:33,: Fermeture progressive des stations saisonnières de sauvetage côtier de la GCC dès le septembre au Québec,[],['https://t.co/MuCHOW\xe2\x80\xa6']
+216,903345802361413633,2,0,2017-08-31 19:56:37,: Fermeture saisonnière des stations d’embarcations de sauvetage côtier de la au Québec c,['#GCC'],['https://t.co/Su7JNMpmt']
+217,903311088116260864,8,0,2017-08-31 17:38:40,: Ne ratez pas l’occasion de vous erimer sur et contribuez à combattre les menaces ht…,['#Parlonsbaleines'],['https://t.co/DwXNQjGF8F']
+218,903305262794190848,2,0,2017-08-31 17:15:31,: Les élèves-officiers du programme de navigation du Collège de la GCC ont passé bien du temps sur l'eau cette semaine! https://…,[],['https://\xe2\x80\xa6']
+219,902945108017983491,0,0,2017-08-30 17:24:24,Visitez le centre de commandement et écoutez des scientifiques du décrire nos découvertes ds le golfe du St-Laurent Ang.,[],['https://t.co/x3ryIZwDJr']
+220,902918780241805312,3,0,2017-08-30 15:39:47,: Les ministres des pêches de l'Atlantique Nord parlent de la valeur des pêches durables et défis de nos océans https://…,[],['https://\xe2\x80\xa6']
+221,902895438776414208,1,0,2017-08-30 14:07:02,": Les bruits sous-marins nuisent à la quête de nourriture, navigation &amp; communication des baleines",['#Parlonsbaleines'],['https://t.co\xe2\x80\xa6']
+222,902639079531180034,0,0,2017-08-29 21:08:21,"Suivez pour une visite du Martha L. Black, notre lieu de résidence pendant l’eédition. Anglais seulement.",[],['https://t.co/OWj0ohpBkj']
+223,902611607116800000,3,0,2017-08-29 19:19:11,: Nous étudions des habitats inelorés du golfe du Saint-Laurent avec et http…,[],['https://t.co/W2f1M1MeLI']
+224,902587219688476672,4,0,2017-08-29 17:42:17,empêtrée aperçue au large de la Gaspésie. Un aéronef du GC a survolé la zone. Nous évaluons &amp; surveillons la situation de près,['#BaleineNoire'],[]
+225,902273753882791936,1,2,2017-08-28 20:56:41,Une équipe de l’IML participe à l’eédition conjointe - MPO pr découvrir les fonds marins du St-Laurent,[],"['https://t.co/ERhiMR1K3t', 'https://t.co/QvQE7Abeup']"
+226,902209826956169218,4,0,2017-08-28 16:42:39,": Hier, aujourd'hui et demain - vidéo de photos style vintage et de haute technologie de votre garde côtière en action",[],['https://t\xe2\x80\xa6']
+227,902197989409783808,1,0,2017-08-28 15:55:37,": Avec votre certification ou votre eérience en mécanique, devenez technicien de réparation des navires à la GCC :",[],['https://t.c\xe2\x80\xa6']
+228,901916025574359040,6,0,2017-08-27 21:15:11,: Personnel de la GCC au défilé éEstNotreForce-Nous accueillons tous ceux qui peuvent servir,['#Diversit'],['https://t\xe2\x80\xa6']
+229,901501495723601920,3,0,2017-08-26 17:48:00,: éans protége le milieu marin &amp; offre des opportunités aux communautés et côtieres,"['#PlanDeProtectionDesOc', '#autochtones']",['https://t\xe2\x80\xa6']
+230,901185490073923585,3,0,2017-08-25 20:52:18,: Nos scientifiques examineront des zones jamais elorées dans le golfe du Saint-Laurent!,[],"['https://t.co/OrDWXHwYCh', 'https://t\xe2\x80\xa6']"
+231,901178586090045441,5,0,2017-08-25 20:24:52,: MPO &amp; NOAA collaborent au profit des noires suite à leur mort récente dans les eaux des ÉU (angl. seul),['#baleines'],['https://t.co\xe2\x80\xa6']
+232,901163292244291585,2,0,2017-08-25 19:24:06,": Vous voulez signaler un déversement marin? N'utilisez pas notre Facebook ou Twitter, mais plutôt les contacts ici:",[],['https://t.c\xe2\x80\xa6']
+233,901137710395609088,1,0,2017-08-25 17:42:27,: Le NGCC Martha L. Black accueille pour une semaine une mission composée de scientifiques et biologistes du MPO et de …,[],[]
+234,901114239666065408,0,1,2017-08-25 16:09:11,Le ROPOS est maintenant à l’eau! Regardez l’eloration des fonds marins du canal Laurentien nord en direct.,[],"['https://t.co/HQCfFBKf9o', 'https://t.co/8VGUwQmgeq']"
+235,901111185105408001,0,1,2017-08-25 15:57:03,Les scientifiques de Pêches et Océans Canada s’apprêtent à observer le ROPOS plonger vers les fonds marins du chenal Laurentien nord.,[],['https://t.co/0OCV6GDZmy']
+236,901091660133740545,3,0,2017-08-25 14:39:27,: Nous travaillons à protéger les espèces retrouvées dans le golfe du Saint-Laurent avec,[],['https://t.co/bXZyZD2Bzh\xe2\x80\xa6']
+237,901081660279709696,0,1,2017-08-25 13:59:43,Coucher de soleil vu du pont du Martha L. Black D,[],['https://t.co/D1wh6Ef5t']
+238,900791843532791808,0,0,2017-08-24 18:48:06,En anglais seulement,[],['https://t.co/Z7hffs6pZR']
+239,900789943462703104,0,0,2017-08-24 18:40:33,En anglais seulement,[],['https://t.co/iUOsK96OHH']
+240,900462123544965121,1,0,2017-08-23 20:57:54,: Apprenez-en plus sur nos chercheurs prenant part à cette mission sur le NGCC Martha L. Black https…,[],['https://t.co/kJS6o9BB6V']
+241,900459663426301952,5,0,2017-08-23 20:48:08,: Nous partons aujourd’hui pour étudier des zones inelorées du golfe du Saint-Laurent avec !,[],['https://t.co/Bw6aj\xe2\x80\xa6']
+242,900427124481429504,1,0,2017-08-23 18:38:50,: La navigation sera interdite dans la zone entourant les dès h ce soir! Pour plus de détails :,['#GrandsFeuxQc'],['https://t.co\xe2\x80\xa6']
+243,900400040463802371,4,0,2017-08-23 16:51:12,: Plus qu'une semaine! Dites-nous comment nous pouvons améliorer la êches d'ici le août. h…,['#LoiSurLesP'],['https://t.co/HbnWn8NJZP']
+244,900055344780640256,0,0,2017-08-22 18:01:31,Vous naviguez sur des eaux touchées par les marées? Consultez les Tables des marées et des courants du Canada : 09,[],"['https://t.co/cbJBh1QY', 'https://t.co/mKBqu8bu5F']"
+245,900052742080737280,3,0,2017-08-22 17:51:10,: Nous sommes ère d’appuyer et l’enquête sur la santé des Inuits du en avec le NGCC Amundsen! htt…,"['#GCCFi', '#Nunavik']",[]
+246,899998582127939585,2,0,2017-08-22 14:15:57,: Le Collège de la GCC offre divers programmes d’éducation payante. Considérez devenir un énie en mécanique marine:,['#g'],['https://t.\xe2\x80\xa6']
+247,899730343678418944,4,0,2017-08-21 20:30:04,: ? La GCC offre aussi plusieurs opportunités de carrières à terre.,['#LSV'],"['https://t.co/TZVRkzj3AG', 'https://t.co/frvUvABD3h']"
+248,899701054987804673,7,0,2017-08-21 18:33:41,: Comment pouvons-nous prendre ensemble des mesures pour aider nos baleines? Joignez-vous à la conversation!,[],['https://t.co/VGH5ps\xe2\x80\xa6']
+249,899666780792254465,1,0,2017-08-21 16:17:30,Soyez prudents si vous allez sur l’eau pour observer l’éclipse cet après-midi.,[],"['https://t.co/Pg74CYUlgs', 'https://t.co/akgnfaMGs6']"
+250,899648717032222720,4,0,2017-08-21 15:05:43,: Merci de nous avoir inclus au défilé - d’appuyer l'inclusion et de la é,"['#GCCfier', '#diversit']",['https://t.co/K\xe2\x80\xa6']
+251,899638502689820672,6,0,2017-08-21 14:25:08,: Voici les principales menaces touchant les baleines et la manière de les aborder. ht…,['#Parlonsbaleines'],['https://t.co/v1HDbVKd2E']
+252,899319660646158336,7,0,2017-08-20 17:18:10,: La GCC au défilé éestnotreforce - Nous accueillons tous ceux qui peuvent servir,['#Diversit'],['https://t.co/1mul3Msy\xe2\x80\xa6']
+253,899021948344090624,2,0,2017-08-19 21:35:10,: La navigation sera interdite dans la zone entourant les dès h ce soir! Pour plus de détails :,['#GrandsFeuxQc'],['https://t.co\xe2\x80\xa6']
+254,898649916398063616,2,2,2017-08-18 20:56:50,Golfe du St-Laurent : voici la zone dans laquelle les navires de plus de m doivent ralentir à nœuds max. 1d D,[],"['https://t.co/0ID1EsLX', 'https://t.co/NMQbJ5TVr']"
+255,898602085528330240,1,0,2017-08-18 17:46:47,": Selon vous, quelles activités d'application de la loi devrait-on améliorer en priorité?",[],"['https://t.co/Nl4Loejsqq', 'https://t.co/s\xe2\x80\xa6']"
+256,898198511275081728,8,0,2017-08-17 15:03:07,: Une conversation porte sur les façons d'aider nos baleines en péril. Jetez un coup d’œil et partagez vos idées!,[],['https://t.co/\xe2\x80\xa6']
+257,897890836310085632,3,0,2017-08-16 18:40:32,: La navigation sera interdite dans la zone entourant les dès h ce soir! Pour plus de détails :,['#GrandsFeuxQc'],['https://t.co\xe2\x80\xa6']
+258,897851975399813120,1,0,2017-08-16 16:06:06,: L’ingénieur du MPO John Ells elique comment l’hydrographie aide à définir les frontières &amp; limites de notre pays https:/…,[],[]
+259,897515452716523520,0,0,2017-08-15 17:48:53,"Le éluga du Saint-Laurent est en péril. Évitez de le déranger, gardez vos distances!","['#b', '#beluga400m']","['https://t.co/lVk3Pt4NX', 'https://t.co/59Ql5U8oNT']"
+260,897174124459642887,0,0,2017-08-14 19:12:34,"Si vous cueillez des mollusques, assurez-vous de respecter la réglementation. Votre santé en dépend!",[],"['https://t.co/talIJSrOh4', 'https://t.co/zYu8pRjAKE']"
+261,897097344063340544,4,0,2017-08-14 14:07:28,: Nos recommandations visant les secteurs pour aider trois espèces emblématiques de baleines sont disponibles :,[],['https://t.co\xe2\x80\xa6']
+262,896437278914080777,3,0,2017-08-12 18:24:36,: La navigation sera interdite dans la zone entourant les dès h ce soir! Pour plus de détails :,['#GrandsFeuxQc'],['https://t.co\xe2\x80\xa6']
+263,896399405456261120,6,0,2017-08-12 15:54:07,: Les navires de plus de m doivent désormais réduire leur vitesse à nœuds max. dans le golfe du St-Laurent :,[],['https://t.co/T\xe2\x80\xa6']
+264,896076988074541056,0,0,2017-08-11 18:32:56,Plus que quelques jours pour vivre l’eérience du tourisme scientifique à l’Institut Maurice-Lamontagne! Réservez vos places: -775-0500.,[],['https://t.co/NmQgpStVEn']
+265,896070938424365058,48,0,2017-08-11 18:08:54,": Pour éviter la mort des baleines noires, un ralentissement temporaire est mnt requis dans le Golfe du St-Laurent",[],['https://t.co/\xe2\x80\xa6']
+266,896052570900152320,8,0,2017-08-11 16:55:55,: . et : limitations de vitesse obligatoires pour protéger les baleines écuritéMaritime https://…,['#S'],['https://\xe2\x80\xa6']
+267,895981994554929152,2,0,2017-08-11 12:15:28,": NGCC Amundsen, navire de recherche de pointe apparait sur les billets de $ en polymère-Elorez ce billet ici",['#LSV'],['https://t\xe2\x80\xa6']
+268,895660299570655233,0,0,2017-08-10 14:57:10,"Afin de vous assurer de cueillir des mollusques dans les zones ouvertes, consultez fréquemment les avis du MPO! 8C",[],"['https://t.co/talIJSJp', 'https://t.co/PhpRPA0UPl']"
+269,895649293503213569,6,0,2017-08-10 14:13:26,: La GCC suit une formation continue afin d'être toujours prête à intervenir en cas d'incident sur l'eau,[],['https://t.co/kuuaba0Ylw']
+270,895379866325004289,1,0,2017-08-09 20:22:50,": Condamnations en vertu de la Loi sur les pêches, Gaspésie-Bas-Saint-Laurent",[],['https://t.co/P9SFfOzvmZ']
+271,895365486082478081,1,0,2017-08-09 19:25:41,: La navigation sera interdite dans la zone entourant les dès h ce soir! Pour plus de détails :,['#GrandsFeuxQc'],['https://t.co\xe2\x80\xa6']
+272,895024044508164096,4,0,2017-08-08 20:48:55,: Mobilisation en ligne est désormais lancée! Donnez votre avis pour aider baleines au Canada,['#ParlonsBaleines'],['https://t.co/B1\xe2\x80\xa6']
+273,895023963738386436,9,0,2017-08-08 20:48:36,": Hé, Canada ! Certaines de nos baleines sont menacées. Comment pouvez-vous aider?",['#Parlonsbaleines'],['https://t.co/U60sUqSN94']
+274,894969710973988864,3,0,2017-08-08 17:13:01,: ? Il faut avoir un ou par personne à bord,"['#LSV', '#GiletDeSauvetage', '#VFI']","['https://t.co/o1y6vAVfr7', 'https://t.co/ZKcV0gsP1h']"
+275,894934911190265858,1,1,2017-08-08 14:54:44,Le banc des Américains en ésie est caractérisé par la diversité de ses habitats et des espèces qui y vivent!,['#Gasp'],"['https://t.co/Skpjl1SLyj', 'https://t.co/m5zXMfIJSe']"
+276,894636960115032064,1,0,2017-08-07 19:10:47,"Le MPO prend très au sérieux le rétablissement, la protection et la conservation des : .",['#BaleinesNoires'],"['https://t.co/fRjAmNjXFr', 'https://t.co/48jBVpOMKk']"
+277,893560866766979072,1,0,2017-08-04 19:54:46,: ère de partager sa passion et ses connaissances des eaux cdns avec des cadets de la Marine royale canadienne tout aussi…,['#GCCFi'],[]
+278,893457538796204033,4,0,2017-08-04 13:04:11,: Le ministre LeBlanc dans un vol de surveillance dans le golfe du Saint-Laurent avant le point de presse sur les baleines noire…,[],[]
+279,893183900230529024,1,1,2017-08-03 18:56:51,Faites comme visiteurs avant vous et profitez des visites guidées gratuites de l’IML! Réservez vos places : -775-0500.,[],['https://t.co/wPfWUIRBAk']
+280,893161576395673600,4,0,2017-08-03 17:28:08,: Le point de presse sur les baleines noires est maintenant terminé. Consultez notre site Web pour plus de détails :,[],['https://t.c\xe2\x80\xa6']
+281,893161563468820481,3,0,2017-08-03 17:28:05,: Difficile de repérer une baleine d'un gros navire avec radar. Nos vols réguliers de surveillance aérienne - meilleur moyen pou…,[],[]
+282,893161542484717569,3,0,2017-08-03 17:28:00,: Trop tôt pour spéculer sur la question de savoir si la présence accrue des baleines noires dans le golfe du St-Laurent est per…,[],[]
+283,893146668132163584,4,0,2017-08-03 16:28:54,": Nous travaillons vites avec nos partenaires pour analyser les résultats des labos sur les nécropsies, qui une fois définitifs…",[],[]
+284,893146350493339650,5,0,2017-08-03 16:27:38,": Min LeBlanc ""Toute option pour protéger les baleines noires est posée. Nous y travaillons avec les chercheurs, partenaires et…",[],[]
+285,893146335955881984,4,0,2017-08-03 16:27:35,": Le ministre LeBlanc: ""Nous collaborons étroitement avec l'industrie maritime &amp; des pêches pour réduire les effets sur les bale…",[],[]
+286,893146324039856128,7,0,2017-08-03 16:27:32,: . contactera tout navire s'approachant des sites préoccupants pour qu'ils réduisent leur vitesse à noeuds.,[],[]
+287,893146307526881280,5,0,2017-08-03 16:27:28,: Le GdC oeuvre sur les recommendations pour reprendre le sauvetage des baleines noires de façon responsable et sécuritaire.,[],[]
+288,893146296600678400,6,0,2017-08-03 16:27:25,": Ministre LeBlanc: ""Nous faisons tout notre possible pour protéger ces animaux et assurer leur rétablissement à long terme.""",[],[]
+289,893146276770054144,9,0,2017-08-03 16:27:20,": Min. LeBlanc: ""Nous collaborons avec pour préparer le départ des baleines noires du golfe de St-Laurent.""",[],[]
+290,893128610810404864,3,0,2017-08-03 15:17:09,": Ministre LeBlanc et des eerts mettent les médias à jour sous peu à Moncton, NB, sur les baleines noires de l’Atlantique Nord.",[],[]
+291,892805131313524741,3,0,2017-08-02 17:51:45,: La navigation sera interdite dans la zone entourant les dès h ce soir! Pour plus de détails:,['#GrandsFeuxQc'],['https://t.co/\xe2\x80\xa6']
+292,892805076204613632,4,0,2017-08-02 17:51:32,": Avec votre brevet d’officier et votre eérience en navigation, devenez coordonnateur de sauvetage maritime!",[],['https://t.co/3z0d\xe2\x80\xa6']
+293,892445348312080384,1,0,2017-08-01 18:02:06,Avez-vous consulté les prévisions et avertissements maritimes en vigueur avant d’aller sur l’eau? 9,[],"['https://t.co/dyObK9P2aE', 'https://t.co/Ubflrg28j']"
+294,892119952492290050,5,0,2017-07-31 20:29:06,: Il y a anguille sous roche! tous ensemble pour réviser la Loi sur les pêches! u,['#ParlonsHabitatDuPoisson'],['https://t.co/YjMcPgknw']
+295,891021908086599685,0,0,2017-07-28 19:45:51,"Pendant vos vacances, alliez écouverte et plaisir avec une visite guidée gratuite de l’Institut Maurice-Lamontagne!","['#VendrediAmusant', '#d']",['https://t.co/X2dnrmcLfb']
+296,890631532108406784,0,0,2017-07-27 17:54:39,Il n’y a pas d’âge pour commencer à s’intéresser à la êche récréative!,['#p'],"['https://t.co/nbJ7mDmrSt', 'https://t.co/p5XxnA5Tvo']"
+297,890284960808148992,0,0,2017-07-26 18:57:30,"Acte de braconnage, de destruction de l’habitat du poisson ou de dérangement de mammifères marins? Rapportez-le: -800-463-9057.",[],['https://t.co/U6x7EbNWFG']
+298,889906434737147910,1,1,2017-07-25 17:53:22,Mettez vos cartes et documents nautiques à jour grâce aux Avis aux navigateurs du Service hydrographique du Canada. 2,[],"['https://t.co/O2shvYrfe', 'https://t.co/56CGIunrkW']"
+299,889905485842972674,9,0,2017-07-25 17:49:36,": Ensemble, protégeons les poissons et leur habitat! êches 8","['#ParlonsHabitatDuPoisson', '#LoiSurLesP']",['https://t.co/MKzATENvy']
+300,889830948350676993,3,0,2017-07-25 12:53:25,": L’aiguillat commun est petit mais il nage en banc de cent, et même de milliers de requins! 🦈",['#SemaineRequin'],['https://t.co/dD5T4\xe2\x80\xa6']
+301,889567528846069762,1,1,2017-07-24 19:26:40,Le MPO doit protéger le milieu marin tout en tenant compte des besoins de ses différents utilisateurs.,['#LSV'],"['https://t.co/WyjZgQMEwY', 'https://t.co/vWpcqnn3cQ']"
+302,888407069518331906,1,1,2017-07-21 14:35:25,"C’est la saison des naissances chez les élugas du St-Laurent. Si vous naviguez, gardez vos distances!","['#b', '#beluga400m']","['https://t.co/lVk3Pt4NX', 'https://t.co/KC8oNvgn1a']"
+303,888145934584090633,1,0,2017-07-20 21:17:46,": L'anguille peut vivre en eau douce &amp; salée, faisant d'elle le poisson aux habitats les plus divers au monde.",[],['https://t.co/Szvu\xe2\x80\xa6']
+304,888102700994490368,0,0,2017-07-20 18:25:58,La êche récréative en mer vous intéresse? Donnez-nous votre avis sur la proposition de permis d’ici le août.,['#p'],"['https://t.co/nNiYfUpq1H', 'https://t.co/py1WNCwspQ']"
+305,887324857972789249,0,0,2017-07-18 14:55:06,Vous allez sur l'eau? Évitez les mauvaises surprises: consultez les Tables des marées et des courants du Canada 9d,[],"['https://t.co/B4CYUoNw', 'https://t.co/CaUGY0AVoX']"
+306,886996130260713472,0,1,2017-07-17 17:08:51,"Cet été, l’Institut Maurice-Lamontagne est ouvert au public de h à h en semaine. Réservez votre visite guidée gratuite : -775-0500.",[],['https://t.co/j70QQtqgsP']
+307,885961663178002432,0,0,2017-07-14 20:38:15,Vous naviguez dans l’estuaire du St-Laurent? Les élugas aussi!,['#b'],"['https://t.co/a0m7Y3BnK7', 'https://t.co/05IIUwSGDA']"
+308,885613214389743617,1,0,2017-07-13 21:33:38,: Le MPO fait une mise à jour sur la situation des baleines noires dans le golfe du Saint-Laurent,[],['https://t.co/WJboN5CeDB']
+309,885607845173104641,5,0,2017-07-13 21:12:18,: .: Nouveau règlement sur la écuritéMaritime des petits de pêche en vigueur aujourd’hui. https…,"['#S', '#bateaux']",[]
+310,885572998153084928,0,0,2017-07-13 18:53:50,Les du Québec sont des témoins exceptionnels de notre histoire maritime. N’hésitez pas à aller les voir! 0,['#phares'],"['https://t.co/Y632vA0MY', 'https://t.co/0xJ2HWqwgX']"
+311,885553823296696322,1,0,2017-07-13 17:37:38,Le de Cap-des-Rosiers est de nouveau ouvert aux visiteurs. Allez le visiter à Gaspé; c’est le plus haut du Canada!,['#phare'],['https://t.co/hTWYOK1ETm']
+312,885235405930602496,1,0,2017-07-12 20:32:22,êcheurs : Vous avez subi des pertes de revenus en raison des glaces printanières? Consultez le programme d’aide.,['#P'],"['https://t.co/WOMuN5ceJt', 'https://t.co/UVPHi4OTr7']"
+313,885153366044798976,4,0,2017-07-12 15:06:22,: Nous parcourons les eaux canadiennes d’un océan à l’autre sur notre nouvelle page Facebook. Suivez-nous :,[],['https://t.co/byarJkb\xe2\x80\xa6']
+314,884841427687133184,3,1,2017-07-11 18:26:50,"Cet été, vivez au rythme des marées! Consultez les Tables des marées et des courants du Canada . 9d",[],"['https://t.co/B4CYUoNw', 'https://t.co/EWAY27DtsP']"
+315,884772351342149632,0,0,2017-07-11 13:52:21,Visitez virtuellement l’Institut Maurice-Lamontagne et quelques-uns de ses labos :,[],['https://t.co/UMg0zjPH8m']
+316,884444379733250049,12,0,2017-07-10 16:09:06,: Nous sommes maintenant sur Facebook! Plongez dans notre contenu,[],"['https://t.co/OJT3P4n0mm', 'https://t.co/KmWYAwJUVT']"
+317,883391353064796160,2,0,2017-07-07 18:24:45,: Le pèlerin est le e plus grand poisson au monde. Il peut faire jusqu’à m &amp; sa bouche près d’1 m! 🦈,['#requin'],['https://t.co/TcM\xe2\x80\xa6']
+318,883016639696052224,0,0,2017-07-06 17:35:47,êche à la fascine à Saint-Irénée (Charlevoi en . Cette ancienne technique de pêche tend à se faire plus rare.,"['#JeudiRetro', '#P']",['https://t.co/4xHLZKoh0K']
+319,882960327385776129,2,0,2017-07-06 13:52:01,: Notre recueil de projets de recherche et développement en pour est disponible: h…,['#aquaculture'],['https://t.co/Qhftom1e0X']
+320,882625665274712064,0,0,2017-07-05 15:42:11,êcheurs : vérifiez si vous êtes admissibles au Programme d’urgence d’aide liée aux conditions des glaces.,['#P'],['https://t.co/WOMuN5ceJt']
+321,882594646840496129,1,0,2017-07-05 13:38:56,L’événement de mortalité multi-espèces lié à la marée rouge de est eliqué en profondeur pour la ère fois. 1,[],"['https://t.co/Cq5d2g2WHO', 'https://t.co/o5tcMCy9M']"
+322,882347177238028289,2,0,2017-07-04 21:15:34,: Joignez-vous au Collège GCC pour une excitante carrière avec la Garde côtière canadienne!,[],"['https://t.co/3ZMeFRUFGb', 'https://t.co\xe2\x80\xa6']"
+323,882258577326518273,0,0,2017-07-04 15:23:31,"Seul centre de recherche francophone du MPO, l’Institut Maurice-Lamontagne fête cette année ses ans d’existence.",[],"['https://t.co/vkRKAAZOSk', 'https://t.co/v0OHpuL2Ym']"
+324,882256086010613761,2,0,2017-07-04 15:13:37,: Suivez la banquise et apprenez-en plus sur notre collaboration internationale en matière de cond. océanographiques: https:…,[],[]
+325,881909881015607296,4,0,2017-07-03 16:17:55,: Vous avez aperçu une espèce aquatique envahissante comme cette carpe asiatique? Voici comment la signaler :,[],['https://t.co/V\xe2\x80\xa6']
+326,881178846166437892,0,0,2017-07-01 15:53:03,"ans de pêches et d’océans, c’est aussi ça le Canada! êteduCanada",['#F'],['https://t.co/L6GHw5x76q']
+327,881112759370428416,5,0,2017-07-01 11:30:26,: Visitez éroglisseur Mamilossa du juin au juillet à pendant,"['#a', '#Canada150']",['https://t.co/WAhaOTjb9\xe2\x80\xa6']
+328,880858507825885184,1,0,2017-06-30 18:40:08,: Qualification des pêcheurs québécois : MPO prolonge période de chevauchement vers une harmonisation avec le Québec htt…,[],[]
+329,880851206326951936,3,0,2017-06-30 18:11:07,: Peter Mitchell fut le premier ministre des Pêches en et un ardent défenseur des droits de pêche,['#Canada150'],['https://t.co/C\xe2\x80\xa6']
+330,880547448837386240,6,0,2017-06-29 22:04:06,: Retrouvez nos plus récentes mises à jour sur la mort des baleines franches de l'Atlantique Nord ici: h…,[],['https://t.co/vG0wpgN84Z']
+331,880517874946682880,2,0,2017-06-29 20:06:35,: NGCC Des Groseilliers – chargement de provisions du navire et de carburant pour livraison à la station Eureka et du camp Tanqu…,[],[]
+332,880485905076760576,0,0,2017-06-29 17:59:33,Pas de doute : les moyens de ont radicalement changé depuis le début des années … U,"['#JeudiRetro', '#communication']",['https://t.co/MhT0bOI3Q']
+333,880434242886488066,3,0,2017-06-29 14:34:15,": Vous naviguez dans l’estuaire du Saint-Laurent? Les bélugas aussi! Si vous en apercevez, gardez vos distances. ht…",['#400m'],[]
+334,880399199518457856,2,0,2017-06-29 12:15:00,: MPO et partenaires effectuent nécropsies sur baleines noires pour déterminer cause de décès,[],['https://t.co/bM4PKi1IuM']
+335,880164461587431424,1,0,2017-06-28 20:42:14,"Protégé par la Loi sur les espèces en péril, le phoque commun des lacs des Loups Marins est unique au monde.",[],"['https://t.co/CepzihzAnn', 'https://t.co/CQW6X3z2vi']"
+336,880151986536161280,0,0,2017-06-28 19:52:40,Les baleines bleues font-elles des choix optimaux lorsqu’elles plongent pour s’alimenter dans le St-Laurent?,[],"['https://t.co/GfmqHikOrY', 'https://t.co/LVMOQQyHzP']"
+337,879799754133303296,3,0,2017-06-27 20:33:01,: Gardez nos numéros d’urgence à portée de main et signalez ce que vous voyez ou entendez sur l’eau,['#SoyezPrudent'],['https://t.co/2\xe2\x80\xa6']
+338,879682062189555712,4,0,2017-06-27 12:45:21,": Pour , visitez éroglisseur Mamilossa à , du juin au juillet Détails ici","['#Canada150', '#a', '#Gatineau']",['https://t.co\xe2\x80\xa6']
+339,879407364062969856,2,0,2017-06-26 18:33:48,": Yann Côté-Nadeau, hydrographe du MPO à bord de , utilise l’hydroballon pour cartographier notre fond marin https…",[],[]
+340,879366581800898563,2,0,2017-06-26 15:51:45,": ,5 M$ des gouvernements du Canada et du Québec pour préserver et promouvoir le .",['#FleuveStLaurent'],['https://t.co/J3Hmbb\xe2\x80\xa6']
+341,879363546311790592,2,0,2017-06-26 15:39:41,: La durabilité des stocks de poisson est notre responsabilité. Apprenez-en plus: u,[],"['https://t.co/4b3XiqGGk', 'https://t.co/vAwpDH9Hyt']"
+342,878631149727297538,0,0,2017-06-24 15:09:24,"Pêches et Océans Canada, région du Québec, souhaite une bonne à tous les Québécois et Québécoises!",['#SaintJeanBaptiste'],[]
+343,878361164018720768,0,0,2017-06-23 21:16:35,Les québécoises de ont enregistré des hausses significatives en .,"['#exportations', '#ProduitsMarins']","['https://t.co/cFQxS3LgPZ', 'https://t.co/VZJ0oOcdXl']"
+344,878341775458357248,0,0,2017-06-23 19:59:32,Infocéans : l'édition juin-juillet de notre bulletin est en ligne! Venez nous lire! U 8,[],"['https://t.co/NfPbgJ0N6', 'https://t.co/NPjDPyaJ4']"
+345,878310343428132866,3,3,2017-06-23 17:54:38,"Vous naviguez dans l’estuaire du Saint-Laurent? Les bélugas aussi! Si vous en apercevez, gardez vos distances.",['#400m'],"['https://t.co/lVk3PtmoOL', 'https://t.co/gEL6tieIvH']"
+346,877911048296177664,2,0,2017-06-22 15:27:59,: La Garde côtière canadienne est responsable du plus grand littoral au monde… km de côtes plus précisément! è…,"['#LSV', '#GCCFi']",[]
+347,877884149477949440,3,0,2017-06-22 13:41:06,: L’aéroglisseur Mamilossa sera à &amp; ouvert au public durant le week-end de la êteduCanada. Restez à l’affut pou…,"['#LSV', '#Gatineau', '#F']",[]
+348,877584658384515072,1,0,2017-06-21 17:51:01,"/2 Annie Biron travaille au Service hydrographique du Canada (SHC), de Pêches et Océans Canada",[],['https://t.co/u8RpxIEHVO']
+349,877584535462039558,1,0,2017-06-21 17:50:32,/2 Annie Biron elique comment cartographier les voies navigables du Canada éeMondialeHydrographie,['#Journ'],['https://t.co/0QrzIzG8Vj']
+350,877569804185546752,1,2,2017-06-21 16:52:00,Pêches et Océans Canada souhaite une très belle Journée nationale des Autochtones aux Premières Nations,['#JNACanada'],['https://t.co/v7OK1nLJUj']
+351,877566955238023168,6,0,2017-06-21 16:40:41,": Nous répondons à vos questions sur les modifications proposées aujourd’hui en anglais, de h à h HE",[],['https://t.co/CYY8lNia\xe2\x80\xa6']
+352,877297953756635137,3,0,2017-06-20 22:51:46,: Demain &amp; jeudi se tiennent des séances d’info publique sur les modifications proposées à la Loi sur les océans,[],['https://t.co/CY\xe2\x80\xa6']
+353,877233261424017408,6,0,2017-06-20 18:34:42,": Recherchées: noires mortes à la dérive dans le golfe . Si observées, appelez -877-7baleine http…","['#baleines', '#Stlaurent']",[]
+354,877210593794588672,5,3,2017-06-20 17:04:38,"Des membres de l’eédition ont visité l’Institut Maurice-Lamontagne, centre de recherche du MPO, lors de leur escale lundi.",[],['https://t.co/aJOQL2nTcX']
+355,876914531326406658,4,1,2017-06-19 21:28:11,"/2 Yann Côté-Nadeau travaille au Service hydrographique du Canada (SHC), de Pêches et Océans Canada",[],['https://t.co/u8RpxIEHVO']
+356,876913440262164480,5,2,2017-06-19 21:23:51,/2 L’hydrographe Yann Côté-Nadeau monte à bord du aujourd’hui pour partager ses connaissances. Il y sera pendant jours.,[],['https://t.co/cayUnwTq1T']
+357,876898003138863105,0,0,2017-06-19 20:22:30,"Bilan de l’opération conformité aux Îles-de-la-Madeleine les -16 juin : bateaux arraisonnés, infractions et avertissements écrits",[],['https://t.co/LrFVVzISEI']
+358,876451114723487745,0,0,2017-06-18 14:46:44,"La êche, quelle belle activité à pratiquer père-fils-fille! En manque d’inspiration? . Bonne êteDesPères!","['#p', '#F']","['https://t.co/9EDGotKM0M', 'https://t.co/bO4sZAgyya']"
+359,875822666917326850,3,0,2017-06-16 21:09:30,": GCC bien représentée au Joint Women's leadership symposium Norfolk, Virginie, CA Julie Gascon a prononcé un discours inspirant…",[],[]
+360,875776879680212993,12,0,2017-06-16 18:07:33,: Le béluga de Nepisiguit a été remis à l'eau hier à h54. Voici les images de sa remise à l'eau …,"['#sauvetagebeluga', '#grea']",[]
+361,875742846069993477,0,1,2017-06-16 15:52:19,/2 Un avion de surveillance et plusieurs embarcations sont utilisés par les agents des pêches pour mener cette opération,[],['https://t.co/lcTiaQt6Hi']
+362,875742362282184704,0,2,2017-06-16 15:50:24,"/2 Agents des pêches à l’œuvre, les et juin, pour vérifier la conformité des activités de êche au aux Îles-de-la-Madeleine","['#p', '#homard']",['https://t.co/2RJolUqzOX']
+363,875495236583161861,0,0,2017-06-15 23:28:24,Véronique Lesage + son équipe de l’Institut Maurice-Lamontagne ont pris part à l’opération de réintégration du jeune béluga,['#sauvetagebeluga'],[]
+364,875466605781815297,19,0,2017-06-15 21:34:38,: Le éluga sera transporté vers un troupeau de bélugas du Saint-Laurent dans les prochaines minutes puis relâché …,"['#b', '#sauv']",[]
+365,875463630824902656,9,0,2017-06-15 21:22:49,": Le béluga est arrivé au port de Cacouna, l'intervention suit son court Photo …","['#sauvetagebeluga', '#greatbelugarescue']",[]
+366,875434544580763651,2,0,2017-06-15 19:27:14,: Un résumé de la situation à ce jour,['#sauvetagebeluga'],['https://t.co/TY0OEIWw7p']
+367,875433353188716544,5,0,2017-06-15 19:22:30,: Le éluga est déplacé en camion sur l’autoroute sous escorte policière pour se rendre au port de Gros-Cacouna. …,"['#b', '#sa']",[]
+368,875431900759949312,2,0,2017-06-15 19:16:44,: Le béluga est arrivé à Rivière-du-Loup et les spécialistes le sortent de l'avion h…,"['#sauvetagebeluga', '#greatbelugarescue']",[]
+369,875430855371616257,4,0,2017-06-15 19:12:35,: Les vétérinaires confirment que le jeune béluga est un mâle! Il est en direction de RDL où le récupèrera sous…,[],[]
+370,875426935505133569,1,0,2017-06-15 18:57:00,: La première étape est complétée!,['#sauvetagebeluga'],['https://t.co/XXLhf707Dr']
+371,875392567172632576,17,0,2017-06-15 16:40:26,: Nous proposons de modifier la Loi sur les océans. Découvrez ce que cela signifie pour nos éans d9c,['#oc'],['https://t.co/fPkQMPe']
+372,875349832570941441,7,0,2017-06-15 13:50:37,": Bonne Semaine nationale de la fonction publique! Joignez-vous à l’équipe du MPO-GCC, nous embauchons",['#SNFP'],['https://t.co/qeedOU\xe2\x80\xa6']
+373,875078071740747776,2,1,2017-06-14 19:50:45,L’eédition fait escale à Québec pour jours. Apprenez-en plus sur ce projet Signature de .,"['#CanadaC3', '#Canada150']","['https://t.co/cnctotpwHG', 'https://t.co/5nUzXdckrM']"
+374,875021452101201920,4,0,2017-06-14 16:05:45,": Nos scientifiques participent à plusieurs segments du voyage , restez à l’affût des prochaines recherches! https…",[],[]
+375,874674191756382208,2,0,2017-06-13 17:05:52,: Qu’est-ce qu’un estuaire? C’est une vaste étendue d’eaux saumâtres qui relie les èresAucéans,['#Rivi'],['https://t.co/Ja9BykSl2\xe2\x80\xa6']
+376,874671737346064384,6,0,2017-06-13 16:56:07,: Vous comptez aller observer les cet été? Suivez ces conseils pour éviter de les perturber ou les stresser:,['#baleines'],['https://t\xe2\x80\xa6']
+377,874646829769646080,2,0,2017-06-13 15:17:09,": MPO investit ,6M$ dans des projets de conservation des pêches récréatives êcréc",['#p'],"['https://t.co/RAmaP7kWjP', 'https://t.co/3xMVpe\xe2\x80\xa6']"
+378,874362036750307330,1,4,2017-06-12 20:25:29,"L’Institut Maurice-Lamontagne a officiellement ouvert ses portes il y a ans, le juin . Joyeux e!",['#LSV'],"['https://t.co/OdbjcxgnpG', 'https://t.co/qz5tnjrEZM']"
+379,874358526558298112,2,0,2017-06-12 20:11:32,": Béluga dans la rivière Népisiguit, au NB: Les préparatifs sont en cours pour sa relocalisation",[],['https://t.co/LAHP3m5UNk']
+380,873343166186958848,0,3,2017-06-10 00:56:51,/2 Ces véhicules permettront d’accroître la qualité et la quantité de données recueillies. Un gain pour la sécurité de la navigation!,[],['https://t.co/PFArJBAVbR']
+381,873342765651906560,1,3,2017-06-10 00:55:15,/2 Le MPO a acquis véhicules hydrographiques de surface autonomes de type catamaran pour aider le Service hydrographique du Canada.,[],['https://t.co/9P2ysNLnv3']
+382,873341256172261377,0,3,2017-06-10 00:49:16,"Grâce à un octroi de $ du MPO, bouées s’ajouteront aux récemment acquises pour recueillir des données océanographiques.",[],['https://t.co/sm4wS6XDrr']
+383,873334492571865090,1,3,2017-06-10 00:22:23,"Amateur de technologie, le ministre LeBlanc apprécie les bouées océanographiques développées grâce à l’Institut Maurice-Lamontagne.",[],['https://t.co/Bi15PPMa4Q']
+384,873332998283939843,0,1,2017-06-10 00:16:27,"La venue à Mont-Joli du ministre des Pêches, des Océans et de la Garde côtière canadienne Dominic LeBlanc a suscité beaucoup d’intérêt.",[],['https://t.co/suLc8IAWzk']
+385,873323609351213058,0,1,2017-06-09 23:39:08,"Le ministre LeBlanc en compagnie du député Rémi Massé et du directeur par intérim de l’Institut Maurice-Lamontagne, Serge Gosselin",[],['https://t.co/yHWnb0QzK3']
+386,873321124087701505,0,2,2017-06-09 23:29:16,"Le personnel de l’Institut Maurice-Lamontagne, de Pêches et Océans Canada, fier d’accueillir le ministre Dominic LeBlanc D",[],['https://t.co/lbKJ9pqKK']
+387,873319225091395584,6,0,2017-06-09 23:21:43,: Le MPO investit M$ dans l’amélioration de la capacité scientifique de l’Institut Maurice-Lamontagne,[],['https://t.co/Oum9iv\xe2\x80\xa6']
+388,873314471346884608,0,1,2017-06-09 23:02:50,Le min. LeBlanc annonce l’octroi de fonds en appui aux programmes scientifiques de l’Institut Maurice-Lamontagne,[],"['https://t.co/Hr1Z14I1pj', 'https://t.co/14Z90Y7KOx']"
+389,873261203082039296,1,0,2017-06-09 19:31:09,: investit en science à l’Institut Maurice-Lamontagne,['#MPO'],['https://t.co/2I1PhTJowi']
+390,873234473445404672,1,0,2017-06-09 17:44:57,: Étudiants joignez-vous au Collège de la GCC et embarquez dans une grande aventure avec la GCC. Postulez ici :,['#'],['https://t.co/1g\xe2\x80\xa6']
+391,873198837124517888,5,0,2017-06-09 15:23:20,": Les zones de protection marine préservent nos éansCdn, qui définissent notre patrimoine, culture &amp; économie",['#Oc'],['https://t.co/r5\xe2\x80\xa6']
+392,872932837565059072,0,0,2017-06-08 21:46:21,Nos océans produisent la moitié de l'oxygène que nous respirons. Prendre soin d’eux doit être une priorité. éeMondialeOcéans,['#Journ'],['https://t.co/1tSreNcd1s']
+393,872904584607432705,0,1,2017-06-08 19:54:05,Prenons conscience de ce que les éans signifient pour nous et de ce qu’ils ont à offrir éeMondialeOcéans,"['#oc', '#Journ']","['https://t.co/iyaXd38xMN', 'https://t.co/Gi7CIPF7vH']"
+394,872892322769510400,2,0,2017-06-08 19:05:21,: Médias invités : Le min. LeBlanc à Mont-Joli pour investir dans la science à l’IML – juin à h15 ht…,[],[]
+395,872873511580315648,0,0,2017-06-08 17:50:37,Les éans sont importants : protégeons-les et préservons-les pour les générations futures éeMondialeOcéans,"['#oc', '#Journ']","['https://t.co/iyaXd38xMN', 'https://t.co/uVOHpNC1Ey']"
+396,872832035446034432,4,0,2017-06-08 15:05:48,: Joyeuse éeMondialeOcéans! Merci à tous les scientifiques du MPO qui chaque jour aident à préserver nos éans https…,"['#Journ', '#oc']",[]
+397,872828449387360257,4,0,2017-06-08 14:51:33,: Lisez la liste de mesures de gestion des pêches qui répondent à nos objectifs de marine,['#conservation'],['https://t.co/wfw4D7RUYN\xe2\x80\xa6']
+398,872597846704488448,2,0,2017-06-07 23:35:13,: Le -MPO souligne les nouvelles mesures pour atteindre les objectifs de conservation marine du Canada,[],['https://t.co/\xe2\x80\xa6']
+399,872587906090717184,3,0,2017-06-07 22:55:43,: Messages importants du ministre LeBlanc lors de la Conférence des Nations Unies sur l'océan (anglais seulement),[],['https://t.co/0\xe2\x80\xa6']
+400,872458605911568390,2,0,2017-06-07 14:21:55,: Le ministre LeBlanc appuie les pêches durables et le rôle de leadership du Canada pour la conservation marine https://…,[],['https://\xe2\x80\xa6']
+401,872188323124715520,10,0,2017-06-06 20:27:55,": Enseignants, vous cherchez du contenu éducatif pour discuter de la éeMondialeOcéans? Consultez notre page!",['#Journ'],['https://t.co/\xe2\x80\xa6']
+402,872091645457698819,2,0,2017-06-06 14:03:45,: Le ministre LeBlanc accueille la Classe de au sein de la ère,['#GCCFi'],"['https://t.co/JFGpq8gtRo', 'https://t.co/iCMVHviqE7']"
+403,871830364943265792,8,0,2017-06-05 20:45:31,: Augmenter nos ressources avec le éans pour mieux protéger l’environnement. ôtes éeMondialedel…,"['#PlandeProtectiondesOc', '#NosC', '#Journ']",[]
+404,871382920648413184,1,0,2017-06-04 15:07:32,: Préparez-vous avant de naviguer! Cliquez ici pour une liste de vérification avant le départ,[],"['https://t.co/0vStINkAov', 'https://t.\xe2\x80\xa6']"
+405,870754374187978752,5,0,2017-06-02 21:29:55,: Toute personne qui conduit un bateau motorisé au a besoin d’une preuve de compétence. …,"['#Canada', '#S']",['https://t.co/nDFIfBvKEt']
+406,870729277544726529,5,0,2017-06-02 19:50:11,: Faites votre part pour protéger nos éans pour la éeMondialeOcéans le juin en participant au nettoyage d’une plage!…,"['#oc', '#Journ']",[]
+407,870715037266173952,5,0,2017-06-02 18:53:36,: Découvrez qui peut postuler et quels projets sont admissibles au financement du Fonds pour la restauration côtière,[],['https://t.c\xe2\x80\xa6']
+408,870362739826446336,3,0,2017-06-01 19:33:42,: Apprenez-en plus sur les éans ici éeMondialeOcéans: 1,"['#oc', '#Journ']","['https://t.co/A8j4ldxNgR', 'https://t.co/xyYZyEbNx']"
+409,870330579845345280,1,0,2017-06-01 17:25:54,: Fermeture de la cueillette des mollusques dans plusieurs secteurs de la Côte-Nord,[],['https://t.co/gnOIkH7Y5H']
+410,870330564372570112,1,0,2017-06-01 17:25:51,: Fermeture de la cueillette des mollusques dans plusieurs secteurs de la Gaspésie,[],['https://t.co/lPVZa0Qrl6']
+411,870330548643868672,1,0,2017-06-01 17:25:47,: Fermeture de la cueillette des mollusques dans un secteur des Îles-de-la-Madeleine,[],['https://t.co/DRqK8KJkr7']
+412,870017142074331136,5,0,2017-05-31 20:40:25,: Les officiers CCG recevront une formation spécialisée d’intervention environnementale éans ôtes htt…,"['#PlandeProtectiondesOc', '#NosC']",[]
+413,869977663489933312,5,0,2017-05-31 18:03:33,": éans: Avec nos partenaires, nous prenons des mesures dans secteurs pour protéger ôtes htt…","['#PlanDeProtectionDesOc', '#NosC']",[]
+414,869956591394721792,12,0,2017-05-31 16:39:49,: Min. Garneau annonce un programme pour enlever les bateaux abandonnés sur ôtes. éans https://…,"['#NosC', '#PlanDeProtectionDesOc']",['https://\xe2\x80\xa6']
+415,869948012524646400,9,0,2017-05-31 16:05:43,: Fiers d’annoncer l’investissement de M$ pour la restauration et la protection des côtes du Canada! ôtes,['#NosC'],['https://t.c\xe2\x80\xa6']
+416,869590003889917953,9,0,2017-05-30 16:23:07,": ? Selon , noyades sur seraient évitées par le port du .","['#LeSaviezVous', '#GiletDeSauvetage']",['https://t.co/YilOiO\xe2\x80\xa6']
+417,869281273709293570,1,0,2017-05-29 19:56:20,: Nouvelles condamnations en vertu de la Loi sur les pêches sur la Côte-Nord.,[],['https://t.co/A1d94VOqSQ']
+418,869224745409146881,2,0,2017-05-29 16:11:43,: Le système multifaisceaux offre des images du fond marin &amp; trace nos eaux pour assurer la sécurité des navigateurs. https:…,[],[]
+419,868534910503530496,3,0,2017-05-27 18:30:33,: On recrute des chercheurs. Venez au MPO où votre cerveau est le bienvenu!,['#SciCAN'],"['https://t.co/ICqW7Bdtvj', 'https://t.co/aWi\xe2\x80\xa6']"
+420,868109907010228224,5,0,2017-05-26 14:21:45,: Vous irez vous promenez sur l’eau en fin de semaine? Tenez vos proches au courant de votre . écuritéN…,"['#PlanDeNavigation', '#S']",[]
+421,867818993008222208,3,0,2017-05-25 19:05:45,: /2 La Garde côtière canadienne souhaite bon voyage à l’équipage et aux scientifiques à bord du NGCC Amundsen ère …,['#GCCFi'],[]
+422,867818962448416768,2,0,2017-05-25 19:05:38,: /2 Le NGCC Amundsen quitte le quai de la Reine à Québec avec le signal sonore habituel en guise d’au revoir ère …,['#GCCFi'],[]
+423,867753967475970048,1,0,2017-05-25 14:47:22,: /2 NGCC Amundsen : les employés de la GCC et les participants sont à pied d’œuvre pour partir à temps! ère h…,['#GCCFi'],[]
+424,867753507801243648,1,0,2017-05-25 14:45:32,: /2 NGCC Amundsen : beaucoup de préparatifs en vue du grand départ pour les missions annuelles dans l’Arctique ère …,['#GCCFi'],[]
+425,867439122109149184,5,0,2017-05-24 17:56:17,: Le brise-glace de recherche quittera son port d’attache de Québec demain pour une e eédition au cœur de l’…,['#NGCCAmundsen'],[]
+426,867439080505831429,4,0,2017-05-24 17:56:07,: C’est reparti pour de nouvelles missions dans l’Arctique – Le NGCC quittera Québec demain ère https…,"['#Amundsen', '#GCCFi']",[]
+427,865671410198265860,2,0,2017-05-19 20:52:02,: Découvrez comment on surveille les effets de l'aquaculture sur les espèces comme le homard,['#OdySci'],['https://t.co/0L6A6K84OD\xe2\x80\xa6']
+428,865661880974442496,0,0,2017-05-19 20:14:10,Jeunes amateurs de sciences : pensez faire carrière au MPO. Les possibilités sont nombreuses et variées.,['#OdySci'],"['https://t.co/taP3yw3zQq', 'https://t.co/InT4sePYNh']"
+429,865611885303009280,3,0,2017-05-19 16:55:30,: Long weekend en vue. GCC travaille /7 pour servir les Canadiens et les navigateurs. 1,['#SoyezPrudent'],['https://t.co/NrpJMisAe']
+430,865310085974831104,1,0,2017-05-18 20:56:15,Merci à nos scientifiques pour leur engagement envers l’amélioration de la santé de nos éans et de nos voies navigables.,"['#oc', '#OdySci']",['https://t.co/qEhcUhsXhK']
+431,865299737171415042,2,0,2017-05-18 20:15:08,: Utilisez notre carte interactive pour accéder aux renseignements nécessaires à la planification de votre navigation.,[],['https://t\xe2\x80\xa6']
+432,865276249387798528,0,0,2017-05-18 18:41:48,"étro Les engins de êche ont beaucoup changé au fil du temps. Ici, de vieux casiers à en Gaspésie. C1","['#JeudiR', '#p', '#homard']",['https://t.co/AAQYNKLG']
+433,865208447901605889,5,0,2017-05-18 14:12:23,: Vous préparez votre bateau pour la saison? Assurez-vous d’avoir l’équipement de sauvetage nécessaire:,[],['https://t.co/RLbFY\xe2\x80\xa6']
+434,864847282298028032,1,0,2017-05-17 14:17:14,: Souvenez-vous de porter vos en tout temps sur l’eau. GCC toujours prête &amp; à votre service. …,"['#giletsdesauvetage', '#vingtquatresept']",[]
+435,864836388964970497,0,0,2017-05-17 13:33:57,Vous avez vu rouler le capelan? Signalez vos observations dans notre registre en ligne : 0,[],"['https://t.co/COWR3NqNG', 'https://t.co/eQamB92dca']"
+436,864571851623804929,2,0,2017-05-16 20:02:47,: notre er navire en construction à se nommera NGCC Baie de Plaisance? ère http…,"['#LSV', '#SAR', '#ApprodesnaviresGCC', '#GCCFi']",[]
+437,864494515578712064,2,0,2017-05-16 14:55:28,: À voir : reportage de Radio-Canada sur le travail de l’aéroglisseur NGCC . Ne manquez pas la vidéo!,['#Sipumuin'],['https://t.co/KJc1\xe2\x80\xa6']
+438,864483015661150208,0,0,2017-05-16 14:09:46,en milieu aquatique : le MPO dresse un bilan de ses travaux,['#ChangementsClimatiques'],"['https://t.co/4PbgSxvJdv', 'https://t.co/qtMGECv6wI']"
+439,864194100454621185,1,0,2017-05-15 19:01:44,"Pratiquée pour le plaisir, la pêche récréative ne requiert aucun permis. Pour tous les détails : 1",[],"['https://t.co/9EDGotKM0M', 'https://t.co/DrlPSDoDF']"
+440,864159868579663872,3,0,2017-05-15 16:45:42,: Montez à bord! Allez voir toutes nos offres d’emploi ici :,[],"['https://t.co/jetBHhZuT5', 'https://t.co/II74fxYhrW']"
+441,863103199024218112,2,0,2017-05-12 18:46:52,: Vous avez une formation en soins infirmiers? La GCC recrute des officiers de santé. …,['#SemaineDesSoinsI'],['https://t.co/AhqyLTT8oQ']
+442,863064332200009728,0,1,2017-05-12 16:12:26,"Après plusieurs reports en raison de la météo, c’est demain que s’ouvrira enfin la êche au aux Îles-de-la-Madeleine.","['#p', '#homard']",['https://t.co/E3derk8mMZ']
+443,862784814763692033,1,0,2017-05-11 21:41:44,": étro quand nous avons annoncé ,1M$ pour les sciences des océans et de l'eau douce au",['#JeudiR'],['https://t.\xe2\x80\xa6']
+444,862754788068532227,1,1,2017-05-11 19:42:25,La recherche des officiers pour être ses yeux et ses oreilles. Un travail exigeant mais passionnant! 1,[],"['https://t.co/siAe6DZUj', 'https://t.co/jaW6RoEqKp']"
+445,862684207797202944,0,0,2017-05-11 15:01:57,étro Le phare de Rivière-à-la-Martre (vers ) : un bâtiment unique au Québec et possiblement au Canada,['#JeudiR'],"['https://t.co/XWBu0fk9E6', 'https://t.co/TyMV7orEoe']"
+446,862415005324644352,11,0,2017-05-10 21:12:14,": Pour , nous célébrons la vie marine du Canada de l'Atlantique, au Pacifique, à l'Arctique! https://…","['#MotherOceanDay', '#Canada150']",['https://\xe2\x80\xa6']
+447,862361849131618308,1,0,2017-05-10 17:41:01,: Fermeture de la cueillette des mollusques pour toxicité dans un secteur des Îles-de-la-Madeleine,[],['https://t.co/n9pNMycB\xe2\x80\xa6']
+448,862356896904355840,1,0,2017-05-10 17:21:20,: Le Canada a erté pour plus de millions $ de crevettes en . éenationaledescrevettes 2 ht…,['#journ'],['https://t.co/5BkwOb5S7']
+449,862322055274004480,1,3,2017-05-10 15:02:53,"Selon la saison, le Sipu Muin peut effectuer plusieurs types de tâches, dont le balisage U",[],"['https://t.co/uFVk4mILG', 'https://t.co/6TQrjMAZN4']"
+450,862055312156700673,1,0,2017-05-09 21:22:57,Pose par GCC des bouées sur chenaux plaisance retardée dû aux niveaux d’eau élevés. Consultez pour état d'avancement,[],['https://t.co/HAM9uhx1qz']
+451,862029600037195781,0,0,2017-05-09 19:40:47,L’équipe du MPO sur la Côte-Nord participe à l’épanouissement des minorités anglophones au Québec,[],"['https://t.co/q5bifPBCEh', 'https://t.co/PRxA9Wrx5s']"
+452,862026502019436546,8,0,2017-05-09 19:28:28,: Limites de vitesse sur la entre Kingston et l’est de L’Île d’Orléans,"['#VoieMaritimeDuSaintLaurent', '#QC', '#YGK', '#MTL']",[]
+453,862000790533263361,4,0,2017-05-09 17:46:18,: Percer les secrets de l'Arctique grâce à un remarquable laboratoire flottant …,['#FC'],['https://t.co/o65TtGmOIF']
+454,861975919229120513,5,0,2017-05-09 16:07:28,: Vos cartes marines sont à jour? Voici comment faire : D écuritéMaritime https:…,"['#SoyezPrudent', '#S']",['https://t.co/MnyoW9qWo']
+455,861687567032479745,1,1,2017-05-08 21:01:40,Les travaux d’entretien majeurs subis récemment par le Sipu Muin allongeront sa vie utile d’environ ans U,[],"['https://t.co/rNPgPAO0k', 'https://t.co/CHrUksedFF']"
+456,861611681683734529,3,0,2017-05-08 16:00:07,: Plus qu'un mois avant la Journée Mondiale Océans! Découvrez l'impact mondial des études océaniques du MPO:,[],['https://t.co/xb\xe2\x80\xa6']
+457,861606142711037952,5,0,2017-05-08 15:38:06,": Besoin d'information sur le niveau des mers, la météo, la vitesse des vents etc. Trouvez tout ça ici:",[],['https://t.co/QXZoGfITea\xe2\x80\xa6']
+458,860592683919736832,0,0,2017-05-05 20:30:59,Infocéans : l'édition avril-mai de notre bulletin est en ligne! Venez nous lire! 1 0,[],"['https://t.co/E8v5iWAvV', 'https://t.co/pUD6RACE3']"
+459,860177447752527877,7,0,2017-05-04 17:00:59,: Tenté par la carrière d’agent des pêches? Ce questionnaire vous aidera à en avoir le cœur net!,[],['https://t.co/5mHtz7GHfj']
+460,860171410639073280,0,0,2017-05-04 16:37:00,Le phoque commun des lacs des Loups marins (Qc) est maintenant protégé par la Loi sur les ècesEnPéril,['#Esp'],"['https://t.co/afBkzFOg8X', 'https://t.co/u0n3sOLIRP']"
+461,860167130960080897,0,0,2017-05-04 16:19:59,ècesEnPéril : La population de bélugas de l’estuaire du St-Laurent est maintenant classée en voie de disparition,['#Esp'],"['https://t.co/808ukUe5LN', 'https://t.co/h8yjk7WXbI']"
+462,859845737961705474,5,0,2017-05-03 19:02:53,: La recrute des Officiers mécaniciens pour des postes à bord de ses navires de l'Ontario et du Québec. Postulez: https:…,['#GCC'],[]
+463,859824897173880832,3,0,2017-05-03 17:40:04,: Voyez comment le Service hydrographique du Canada assure la sécurité des marins en cartographiant notre fond marin: https:…,[],[]
+464,859799344224055296,6,0,2017-05-03 15:58:32,: ajoute/reclasse espèces aquatiques sur la liste en vertu de la LEP,['#GC'],['https://t.co/rfVYwV5MFW']
+465,859455131049394176,10,0,2017-05-02 17:10:45,: éans du Canada: présence de la en tout temps pour protéger ôtes.,"['#PlanDeProtectionDesOc', '#NosC']",['https://t.co/oylhm\xe2\x80\xa6']
+466,859452291761524736,1,0,2017-05-02 16:59:28,: Nouvelles condamnations en vertu de la Loi sur les pêches aux Îles-de-la-Madeleine,[],['https://t.co/3D53DgpjoH']
+467,859136774223912960,2,0,2017-05-01 20:05:43,: Nos scientifiques mesurent les animaux microscopiques tels le grâce au balayage acoustique,"['#krill', '#SciCdn']",['https://t.co/wt2\xe2\x80\xa6']
+468,859135736582479873,5,0,2017-05-01 20:01:36,: Découvrez comment le Canada protège ses écosystèmes grâce aux zones de protection marine:,[],"['https://t.co/uxZl2um4JB', 'https://t.co\xe2\x80\xa6']"
+469,858011423443742722,6,0,2017-04-28 17:33:59,: Vous avez les yeux sur un nouveau ? Voici les étapes pour l’acheter: D écuritéNautique ht…,"['#bateau', '#S']",['https://t.co/J5UQrvLBZ']
+470,858008845876162561,4,0,2017-04-28 17:23:44,": Aujourd’hui nous rendons hommage à nos collègues qui ont été blessés ou qui sont décédés, sur le lieu de leur travail …",['#JourdeD'],[]
+471,857950382278029315,1,0,2017-04-28 13:31:25,: L’Institut Maurice-Lamontagne fête ans de leadership en marines au Canada htt…,"['#sciences', '#SciCdn']",['https://t.co/nlhlKo7NCG']
+472,857949010270851072,8,0,2017-04-28 13:25:58,: L'agent des pêches assure l’application de la loi sur les pêches pour préserver les ressources et les milieux marins,[],['https://t\xe2\x80\xa6']
+473,857696984467165184,1,0,2017-04-27 20:44:30,Les ministres LeBlanc et Lebouthillier étaient aux Îles-de-la-Madeleine dans le cadre d’une annonce liée au SS Corfu Island.,[],['https://t.co/YECF7zzluE']
+474,857696724005117952,2,0,2017-04-27 20:43:28,: Notre travail vise à responsabiliser davantage les propriétaires lors d’abandon de navires &amp; d’épaves ôtes,['#NosC'],['https://t.co/W\xe2\x80\xa6']
+475,857672422216130560,2,0,2017-04-27 19:06:54,: Reporté en raison des intempéries : Min. LeBlanc à Mont-Joli pour des investissements en sciences http…,[],[]
+476,857667898847965184,3,0,2017-04-27 18:48:56,Min. LeBlanc annonce la réalisation d’une étude pour régler le cas du navire abandonné aux Îles-de-la-Madeleine 210,[],"['https://t.co/9Wcjejb', 'https://t.co/t5rmOcrRJm']"
+477,857603929760309248,2,0,2017-04-27 14:34:45,Gaspé : min. LeBLanc avec le DG rég.; le PDG du chantier naval Forillon et son épouse; un superviseur de Conservation et protection du,['#MPO'],['https://t.co/7RwT7JxdUf']
+478,857354638042988545,2,0,2017-04-26 22:04:09,"La venue à Gaspé du min. des Pêches, des Océans et de la Garde côtière canadienne D. LeBlanc a suscité beaucoup d’intérêt",[],['https://t.co/d7w45HLW4J']
+479,857336508268851200,4,0,2017-04-26 20:52:06,: Min. LeBlanc et Lebouthillier aux IDM : Étude technique pour une solution à long terme du SS Corfu Island htt…,[],[]
+480,857315477097414656,1,0,2017-04-26 19:28:32,Gaspé : le ministre LeBlanc est heureux de la livraison du er bateau classe Baie de recherche et sauvetage 1,[],"['https://t.co/m6azrGF4p', 'https://t.co/EiYlK3Q29T']"
+481,857265645741903876,3,0,2017-04-26 16:10:31,: Ministre LeBlanc en Gaspésie: livraison prochaine du premier bateau recherche sauvetage construit à Gaspé htt…,[],[]
+482,857253526128517120,1,0,2017-04-26 15:22:22,: Médias invités : Min. LeBlanc à Mont-Joli pour des investissements en sciences – avril à h30 http…,[],[]
+483,856932161848565763,2,0,2017-04-25 18:05:23,: Médias invités : Ministre LeBlanc aux IDM pour le SS Corfu Island – avril à h30,[],['https://t.co/gORpSzE6Un']
+484,856932043514675200,2,0,2017-04-25 18:04:54,: Médias invités : Ministre LeBlanc à Gaspé pour une annonce SAR – avril à h20,[],['https://t.co/ufKECA3Gii']
+485,856873897190457344,2,0,2017-04-25 14:13:51,: Les océans couvrent plus de % de la surface de la Terre. Apprenez comment on étudie les nôtres:,[],['https://t.co/If0aMTFXmD\xe2\x80\xa6']
+486,856588048833937409,2,0,2017-04-24 19:18:00,: Comment mesurer une cible mobile? Découvrez la qui compte les poissons! 0,"['#science', '#SciCdn']","['https://t.co/239swAcYT', 'https://t\xe2\x80\xa6']"
+487,856557528116801538,2,0,2017-04-24 17:16:43,: Êtes-vous un navigateur ou un plaisancier intéressé à aider les autres? Devenez un bénévole maritime,['#SAR'],['https://t.co/DOpKCKp\xe2\x80\xa6']
+488,855126388080291841,3,0,2017-04-20 18:29:53,: Gardez nos numéros d’urgence à portée de main et signalez ce que vous voyez ou entendez sur l’eau ûretéMaritime,['#S'],['https://t.c\xe2\x80\xa6']
+489,854742269202661376,4,0,2017-04-19 17:03:31,: éans : Gérer les principales menaces pour la faune marine le long de ôtes,"['#PlanDeProtectionDesOc', '#NosC']",['https://t.co/mZgwi3\xe2\x80\xa6']
+490,854714913121603585,2,0,2017-04-19 15:14:49,: Les gradués en navigation du ègeGCC ont l’option de se spécialiser en après leur grad? Postulez,"['#LSV', '#Coll', '#SAR']",['https://t.co/I\xe2\x80\xa6']
+491,854393184805433346,3,0,2017-04-18 17:56:23,: Les agents des pêches suivent une formation leur permettant d’intervenir dans une grande diversité de situations,[],['https://t.co/\xe2\x80\xa6']
+492,854056467212759041,1,0,2017-04-17 19:38:24,": Le Québec est le seul endroit au monde où il est possible de retrouver le chevalier cuivré, apprenez en plus:",[],['https://t.co/OwG\xe2\x80\xa6']
+493,854013518043074561,3,0,2017-04-17 16:47:44,: Les bélugas peuvent plonger jusqu’à un kilomètre de profondeur.,[],"['https://t.co/PpEdMvfluX', 'https://t.co/y2VD4cgnxS']"
+494,853987194318487553,4,0,2017-04-17 15:03:08,: pendant journée moyenne la GCC coordonne la réponse de cas dans lesquels pers reçoivent de l’aide &amp; vies…,"['#LSV', '#SAR']",[]
+495,852631769744539648,1,0,2017-04-13 21:17:09,: Ne confondez pas les mollusques avec le chocolat! Soyez prudent lors de la cueillette de mollusques,[],['https://t.co/IQvbw\xe2\x80\xa6']
+496,852596648555532288,0,0,2017-04-13 18:57:36,Pêcheurs de crabes : aidez au rétablissement des loups en les manipulant et remettant à l’eau adéquatement.,[],"['https://t.co/5OJEsFs85a', 'https://t.co/MFCjKXhozE']"
+497,852556589127147520,0,0,2017-04-13 16:18:25,Pêcheurs de crevettes : aidez au rétablissement des loups en les manipulant et remettant à l’eau adéquatement. U0,[],"['https://t.co/Phykc8qb', 'https://t.co/Y7XyEsHaGH']"
+498,852266793087496198,2,0,2017-04-12 21:06:52,": Les poissons ont des anneaux de croissance dans leur tête appelés “otolites”. Comme un arbre, ça indique l’âge.",[],['https://t.\xe2\x80\xa6']
+499,852248554789851138,1,0,2017-04-12 19:54:24,: Min LeBlanc – décision de gestion pr pêche du du golfe pour l'accès accru des Autochtones à la pêche http…,['#CrabeNeiges'],[]
+500,852237270459527168,0,0,2017-04-12 19:09:33,"Riverains du Saint-Laurent, soyez alertes! Rapportez tout mammifère marin mort ou en difficulté au -877-7baleine",[],"['https://t.co/HTzQUCHDdF', 'https://t.co/IR7rc04BBj']"
+501,852228076335505414,1,0,2017-04-12 18:33:01,: Nos scientifiques utilisent des rosettes pour tester l'eau et comprendre nos éans. Plongez dans la science!,['#oc'],['https://t.c\xe2\x80\xa6']
+502,851785491334737921,4,0,2017-04-11 13:14:21,": éanÀLautre Le éans, un système de écurité parmi les meilleurs au monde. ôtes https://…","['#DunOc', '#PlanDeProtectionDesOc', '#s', '#NosC']",['https://\xe2\x80\xa6']
+503,851527234225676289,2,0,2017-04-10 20:08:07,": Il y a près de flotteurs dérivant dans les océans, relayant des données en temps réel sur l’état des éans https://…",['#oc'],['https://\xe2\x80\xa6']
+504,850364308269740032,1,0,2017-04-07 15:07:04,: Merci d'avoir joué! Le rorqual bleu n'a pas de dents,"['#JourduMensonge', '#TellALieDay']","['https://t.co/HNiOFsgNoE', 'https://t.co/oPw\xe2\x80\xa6']"
+505,850339777605844992,4,6,2017-04-07 13:29:36,Contrôle des inondations : la Garde côtière est à l’œuvre sur les rivières avec ses aéroglisseurs.,[],['https://t.co/aDnPWZRfFe']
+506,850083454293245952,2,0,2017-04-06 20:31:03,/2 Soumettez votre candidature aux SCTM au plus tard le avril,[],['https://t.co/hvMsXsyNsB']
+507,850083318150422528,4,1,2017-04-06 20:30:31,/2 Devenez les yeux et les oreilles du trafic maritime! Garde côtière recrute des officiers pour ses centres,['#GCC'],"['https://t.co/hvMsXsyNsB', 'https://t.co/EdoSJnJv24']"
+508,850056631606030336,2,0,2017-04-06 18:44:28,"/3 Suivez le programme de balisage de la Garde côtière sur MarInfo, mis à jour quotidiennement.",[],['https://t.co/HAM9uhx1qz']
+509,850056176175894531,1,0,2017-04-06 18:42:40,/3 Le baliseur NGCC Edward Cornwallis installe les bouées prioritaires entre Grondines et Montréal.,[],[]
+510,850056035134038016,2,0,2017-04-06 18:42:06,/3 La Garde côtière canadienne a débuté le balisage des bouées prioritaires sur le St-Laurent.,[],['https://t.co/2owCvYwTjE']
+511,849985266911768576,1,0,2017-04-06 14:00:54,: Jouons à ! Lequel de ces faits est faux? La baleine bleue…,['#JourduMensonge'],[]
+512,849702263413231617,1,0,2017-04-05 19:16:20,: L'aiguillat commun est un petit requin qui vit en bancs composés de centaines ou de milliers d'individus.,[],['https://t.co/2v42QSw\xe2\x80\xa6']
+513,849693784636108800,1,0,2017-04-05 18:42:39,: Nouvelles condamnations en vertu de la Loi sur les pêches sur la Côte-Nord,[],['https://t.co/hOdxptMydW']
+514,849693770195111936,1,0,2017-04-05 18:42:36,: Nouvelles condamnations en vertu de la Loi sur les pêches en Gaspésie et au Bas-Saint-Laurent,[],['https://t.co/5nUGYcClkr']
+515,849683940592017408,1,0,2017-04-05 18:03:32,": Notre catalogue-bibliothèque, VAGUES, fait partie de la NOUVELLE bibliothèque scientifique fédérale!",[],['https://t.co/tRKZDeAd\xe2\x80\xa6']
+516,849261792568238080,2,2,2017-04-04 14:06:04,Les nouvelles bouées océanographiques du ont récemment été livrées à l’,"['#MPO', '#IML']","['https://t.co/XoK7eYrHuK', 'https://t.co/BrLwJbualW']"
+517,849000255572111363,2,0,2017-04-03 20:46:49,": Avec l’arrivée du beau temps, la glace commence à fondre. Soyez vigilant. , êt https://…","['#SoyezPrudent', '#SoyezPr', '#Hypothermie', '#SAR']",['https://\xe2\x80\xa6']
+518,848919365735129088,2,0,2017-04-03 15:25:23,: Le rorqual bleu est le plus gros animal de la planète et le plus gros à avoir jamais existé.,[],"['https://t.co/mLY6TwwFyH', 'https://t\xe2\x80\xa6']"
+519,847914816509530112,2,0,2017-03-31 20:53:40,souhaite une excellente saison à tous les pêcheurs!,"['#MPO', '#SoyezPrudent']",[]
+520,847914491526381568,1,0,2017-03-31 20:52:22,C’est maintenant au tour de la êche à la de rouvrir pour la belle saison. Les bateaux prendront le large dès demain. U,"['#p', '#crevette', '#MPO']",['https://t.co/p718QfmaZ']
+521,847871237217026050,5,0,2017-03-31 18:00:30,: La mer vous passionne? Faites-en votre carrière. GCC formation en cours d’emploi/diplôme inclus au ègeGCC,['#Coll'],['https://t.co/Ao\xe2\x80\xa6']
+522,847500593560145924,2,0,2017-03-30 17:27:41,Soyez les yeux et les oreilles du trafic maritime! Garde côtière recrute des officiers pour ses centres 9,"['#SCTM', '#GCC']","['https://t.co/hvMsXsQok', 'https://t.co/asISAjQS0P']"
+523,847153175882817536,0,0,2017-03-29 18:27:11,L’arrivée du printemps rime avec l’ouverture de la saison de la êche au des neiges. Des casiers sont déjà à l’eau!,"['#p', '#crabe', '#MPO']",['https://t.co/6C5qlN351z']
+524,846798612722057216,0,2,2017-03-28 18:58:16,"Malgré la neige, nos embarcations de recherche et sauvetage sont prêtes pour leur mise à l’eau pour la saison","['#IML', '#GCC']",['https://t.co/G7ma2gh6T6']
+525,846792078306762752,1,0,2017-03-28 18:32:18,: L’installation du tube d'étambot est en cours sur le er navire de sauvetage à ère…,"['#SAR', '#ApprodesnaviresGCC', '#GCCFi']",[]
+526,846782532469305345,3,1,2017-03-28 17:54:22,Devenez les yeux et les oreilles du trafic maritime! Garde côtière recrute des officiers pour ses centres,"['#SCTM', '#GCC']","['https://t.co/hvMsXsyNsB', 'https://t.co/ImYPt9QA5l']"
+527,846512214832009220,1,0,2017-03-28 00:00:14,: Les bases saisonnières de recherche et sauvetage de la Garde côtière canadienne au Québec rouvrent,['#GCC'],['https://t.co/w\xe2\x80\xa6']
+528,844196680337690624,6,0,2017-03-21 14:39:07,": Le Canada erte pour près de ,3 milliards de $ en poissons et fruits de mer aux États-Unis - plus que dans tout autre…",['#LSV'],[]
+529,844172622355161088,2,0,2017-03-21 13:03:31,: Eérimentez ce qui se passe sur un homardier canadien dans le confort de votre foyer,['#SENA17'],['https://t.co/3QTw3cIC2k']
+530,842791728495169538,0,0,2017-03-17 17:36:21,Pour connaître les conditions océanographiques physiques qui ont eu cours dans le golfe du en :,"['#StLaurent', '#MPO']","['https://t.co/cPQczkFxZV', 'https://t.co/BAIYuw4QnK']"
+531,842771457285459969,3,0,2017-03-17 16:15:48,": MPO fait des recherches sur la biodiversité, les océans, l’habitat du poisson et les espèces envahissantes",[],['https://t.co/zM\xe2\x80\xa6']
+532,842447169202323456,1,0,2017-03-16 18:47:11,Le temps doux a limité fortement la formation du de mer dans le golfe du en .,"['#couvertdeglace', '#StLaurent']","['https://t.co/cPQczkFxZV', 'https://t.co/GLcfHog7ja']"
+533,842396503981322240,12,0,2017-03-16 15:25:52,: Connaître les prédictions des marées et courants peut sauver votre vie. Consultez en ligne ou achetez un des volumes,[],['https://t\xe2\x80\xa6']
+534,842388416876670976,15,0,2017-03-16 14:53:44,: Le Canada a le plus long littoral au monde. ôtes sont exceptionnelles!,"['#LSV', '#NosC']",['https://t.co/F1FL7FMlvg']
+535,842386094507343872,1,0,2017-03-16 14:44:30,: La GCC embauche au . Actuellement employé par la fonction publique? Joignez-vous à nous! …,"['#Canada', '#Jeveu']",['https://t.co/MwmkA85HSb']
+536,842083352459001857,1,0,2017-03-15 18:41:31,: Le Canada et autres pays font partie de l’Organisation pour la conservation du saumon de l’Atlantique Nord.,[],['https://t.co/R2\xe2\x80\xa6']
+537,842058441011130369,5,0,2017-03-15 17:02:31,: Vous avez un pied marin? Pensez à vous joindre à la Garde côtière canadienne,[],"['https://t.co/Vz9wPpP9dZ', 'https://t.co/N4tBcWdMXP']"
+538,841719566174691328,17,0,2017-03-14 18:35:57,": Ceci pourrait être votre lieu de travail! Ne manquez pas le bateau, regardez les possibilités d’emplois à la GCC ici",[],['https://t\xe2\x80\xa6']
+539,841389789781872644,7,0,2017-03-13 20:45:32,": Un accueil chaleureux à notre nouveau Commissaire, Jeffery Hutchinson qui prend le commandement de la GCC aujourd’hui. https:/…",[],[]
+540,841370733930516481,6,0,2017-03-13 19:29:49,: Vous aimez l’aventure? Pensez à une ère à la GCC. Apprenez davantage sur les programmes du Collège GCC ici,['#carri'],['https://t.co/\xe2\x80\xa6']
+541,839949222552154112,1,0,2017-03-09 21:21:14,: Membres de l’équipe d’océanographie physique +biologique pensent que le Canada a besoin de plus de https:…,['#FemmesEnScience'],[]
+542,839856656087412736,4,0,2017-03-09 15:13:25,: Faites carrière à la ! Voyez nos possibilités d’emploi actuelles et ne manquez pas le bateau!,"['#GCC', '#Jeveuxtravailler']",['https://t.\xe2\x80\xa6']
+543,839584808078569475,1,0,2017-03-08 21:13:11,: eliquent ce qui les a inspirées à opter pour le changement et devenir scientifiques,['#FemmesEnScience'],['https://t.co/N1zqmB\xe2\x80\xa6']
+544,839579137027244032,1,0,2017-03-08 20:50:39,: Jeanne Sauvé devient la première femme ministre du MPO en ? ÉgalitéCompte,"['#LSV', '#', '#JIF2017']",[]
+545,839563845756719108,2,0,2017-03-08 19:49:53,: Merci aux qui aident à préserver la sécurité et la santé des Canadiens et de nos eaux. ÉgalitéC…,"['#FemmesEnScience', '#IWD2017', '#']",[]
+546,839493458393980928,7,0,2017-03-08 15:10:12,": Aujourd'hui, nous célébrons toutes les femmes qui travaillent à la ! Fierté à bord ère L'ÉgalitéCompte htt…","['#GCC', '#GCCFi', '#JIF2017', '#']",[]
+547,839237623055024130,3,0,2017-03-07 22:13:36,: SVAM: lI reste moins que semaines pour poser une candidature pour l'eédition ! Postulez ici :,['#CanadaC3'],['https://t.co/64k\xe2\x80\xa6']
+548,839218537961041921,2,0,2017-03-07 20:57:46,: églaçage printanier de la rivière Saguenay : soyez prêts!,"['#D', '#GCC']",['https://t.co/fTrmtdR7Lg']
+549,839207393158389764,3,0,2017-03-07 20:13:28,: Inscrivez-vous dès maintenant pour mettre les voiles sur les trois littoraux du Canada grâce ! https:/…,['#Canada150'],[]
+550,839185607695953920,0,0,2017-03-07 18:46:54,"Au Qc, la , le et le sont tjrs les principales espèces débarquées et ertées 1 D","['#crevette', '#crabedesneiges', '#homard', '#MPO']","['https://t.co/Fmp4QQ0ye', 'https://t.co/nGWO0A6yq']"
+551,839138760973500416,1,0,2017-03-07 15:40:45,: Amy Glass &amp; Cheryl Denton effectuent des relevés à bord d’un dragueur à pétoncles …,['#FemmesenScience'],['https://t.co/6DzIgf1tLj']
+552,838842979020337152,0,1,2017-03-06 20:05:25,La Ville de Gaspé fait l’acquisition des infrastructures portuaires de L’Anse-au-Griffon,['#MPO'],"['https://t.co/LWfscp3a6k', 'https://t.co/1gLODN5jRT']"
+553,838831013061144579,2,0,2017-03-06 19:17:52,": Combinaison de plongée, sarrau, gilet de sauvetage! Vêtements (et emplois!) aux Sciences du MPO sont variés:",[],['https://t.co/\xe2\x80\xa6']
+554,838770457788747776,0,0,2017-03-06 15:17:15,Consultez le bilan du Forum sur les êches mi’gmaques et malécites en Gaspésie et au Bas-Saint-Laurent,"['#p', '#MPO']","['https://t.co/SDolHR6iuA', 'https://t.co/GOo6nwRyba']"
+555,838124075654516740,2,0,2017-03-04 20:28:45,: Vous pourriez travailler dans un bureau aussi génial que celui de ces techniciennes en science aquatique,[],['https://t.co/Tf7p\xe2\x80\xa6']
+556,837793046175629313,1,0,2017-03-03 22:33:22,": Nellie Gagné elique son travail, qui vise à déceler les maladies des animaux aquatiques",['#FemmesenScience'],['https://t.co/M5\xe2\x80\xa6']
+557,837791226904657920,1,0,2017-03-03 22:26:08,": Pam Emery, technicienne du MPO, aide à garer l’avion après avoir participé au levé aérien des mammifères marins …",['#FemmesEnS'],[]
+558,837748311503355904,1,0,2017-03-03 19:35:36,: Lindsay Beazley adore son travail car elle est la première à voir ce qui vit sur le fond marin,['#FemmesenScience'],['https://t.\xe2\x80\xa6']
+559,837739976011956225,0,0,2017-03-03 19:02:29,accroît sa capacité d'étudier l’environnement marin grâce à l’achat de nouvelles ées océanographiques,"['#MPO', '#bou']","['https://t.co/XoK7eYrHuK', 'https://t.co/PSSnx3nERf']"
+560,837665095316566016,0,0,2017-03-03 14:04:56,Le tient des consultations pour la mise en place de mesures de conservation pour les et les éponges 2,"['#MPO', '#coraux', '#']","['https://t.co/GwmBWPsu5', 'https://t.co/Rn8ywvj0Wg']"
+561,837412108870483968,0,0,2017-03-02 21:19:39,Renouvellement de permis pour titulaires de permis de êche de la région du Québec maintenant en ligne dans SNEPL 90d,['#p'],"['https://t.co/A0xQrsS', 'https://t.co/fOzYYGV8wm']"
+562,837408092287553538,1,0,2017-03-02 21:03:42,: /3 Retrait permanent du : est sur la bonne voie - les travaux débuteront cet été.,['#KathrynSpirit'],[]
+563,837408071819341825,1,0,2017-03-02 21:03:37,: /3 continue de travailler avec la communauté de Beauharnois et de vous mettre à jour sur la progression des travaux.,['#GCC'],[]
+564,837408044304715776,1,0,2017-03-02 21:03:30,": /3 Le février, la construction du batardeau pour le a été complété, plus vite que prévu, selon le budget. h…",['#KathrynSpirit'],[]
+565,837358706908094464,5,0,2017-03-02 17:47:27,": Un agent des pêches applique la Loi sur les pêches en patrouillant - terre, mer &amp; ciel. Postulez aujourd’hui!",[],['https://t.co/tgB\xe2\x80\xa6']
+566,837053574978940928,4,0,2017-03-01 21:34:58,": Une semaine nos agents des pêches cadets travaillent sur le terrain et la prochaine, en salle de classe. Postulez:",[],['https://t.c\xe2\x80\xa6']
+567,837046217737662473,0,0,2017-03-01 21:05:44,: année marquée par hausse des températures des eaux et diminution du couvert de glace dans le golfe c,['#StLaurent'],"['https://t.co/cPQczkFxZV', 'https://t.co/PkjF4rfE3']"
+568,837040351504396288,1,0,2017-03-01 20:42:25,Bilan préliminaire des êches commerciales : nouveau record pour la valeur des ébarquements au Québec 1,"['#p', '#d']","['https://t.co/Fmp4QQ0ye', 'https://t.co/DtPz8yUmmR']"
+569,837015660899217409,2,0,2017-03-01 19:04:19,: Un de nos aéroglisseurs en action. Canada est le seul pays à les utiliser pour le églaçage!,['#d'],['https://t.co/e51wWPkX0A']
+570,836954974357762050,4,0,2017-03-01 15:03:10,": Selon le éans, il sera interdit d’abandonner des bateaux dans les voies navigables.",['#PlanDeProtectionDesOc'],['https://t.co/M\xe2\x80\xa6']
+571,836954942925602817,4,0,2017-03-01 15:03:02,: Les bateaux abandonnés peuvent présenter des risques pour la sécurité et l’ sur ôtes. (1/2),"['#environnement', '#NosC']",['https://t\xe2\x80\xa6']
+572,836683533737426950,12,0,2017-02-28 21:04:33,: La conservation marine et l’application de la loi vous intéressent? Postulez pour devenir agent des pêches!,[],['https://t.co/CbThx\xe2\x80\xa6']
+573,835243938978095105,0,0,2017-02-24 21:44:07,Infocéans : l'édition février-mars de notre bulletin est en ligne! Venez nous lire!,"['#MPO', '#GCC']","['https://t.co/kLgjsimnxP', 'https://t.co/7Fb3SqoICB']"
+574,835237680996827136,1,0,2017-02-24 21:19:15,": Condamnations en vertu de la Loi sur les pêches, les Îles-de-la-Madeleine",[],['https://t.co/sY293uidLt']
+575,835237653561868288,1,0,2017-02-24 21:19:09,": Condamnations en vertu de la Loi sur les pêches, Gaspésie-Bas-Saint-Laurent",[],['https://t.co/ssSC1MCS0i']
+576,835237600612974593,1,0,2017-02-24 21:18:56,": Condamnations en vertu de la Loi sur les pêches, Côte-Nord",[],['https://t.co/d1wNqROeVR']
+577,835133526295052288,2,0,2017-02-24 14:25:23,: Terralynn Lander délaisse un moment ses échantillons pour se photographier sous l’eau …,['#FemmesenSci'],['https://t.co/8pvaPCmVBp']
+578,834895685883396104,1,0,2017-02-23 22:40:17,: Avis d’intérêt public-églaçage printanier sur le lac Saint-Louis,"['#D', '#GCC']",['https://t.co/Eoll8EpF6o']
+579,834798163240304645,4,0,2017-02-23 16:12:46,: Avis d’intérêt public-églaçage printanier sur le lac Saint-Pierre,"['#D', '#GCC']",['https://t.co/u1TYzDSEIf']
+580,834784223261253632,3,0,2017-02-23 15:17:23,: Vous aimez les baleines mais avez du mal à les différencier? Nous avons une vidéo pour vous! https://…,[],"['https://t.co/KPZMEs7Hbe', 'https://\xe2\x80\xa6']"
+581,834778616395341824,2,0,2017-02-23 14:55:06,: de nos engagées à créer un monde meilleur et changer les choses ‍,"['#Fiers', '#FemmesDesSciences', '#OptezScience']",['https://t.co/119\xe2\x80\xa6']
+582,834419039225131008,1,0,2017-02-22 15:06:16,: Apprenez comment la scientifique du MPO Nancy Shackell surveille les effets du changement climatique sur le flétan https:/…,[],[]
+583,834415977236484097,2,0,2017-02-22 14:54:06,: Le ègeGCC recrute présentement. Postulez maintenant pour une carrière excitante avec la ! ht…,"['#Coll', '#GCC']",['https://t.co/iQDZwYEe1j']
+584,834124541186211844,3,1,2017-02-21 19:36:02,Vous carburez aux défis et à l’aventure? Joignez-vous à la en devenant technicien aides maritimes (électricien) ucc,['#GCC'],"['https://t.co/Z2ZTT37Nhb', 'https://t.co/4uibe0O']"
+585,834065312874115072,5,0,2017-02-21 15:40:41,: L’hydrographe Julie Larrivée assure la sécurité nautique sur le Saint-Laurent.,['#FemmesenScience'],['https://t.co/Rb8NvxNg7Z']
+586,833799630676697088,7,0,2017-02-20 22:04:57,: Avis d’intérêt public-églaçage printanier autour de Repentigny,"['#D', '#GCC']",['https://t.co/A014Jh9qZx']
+587,833740343749332993,2,0,2017-02-20 18:09:22,": ère d’avoir un navire nommé en son honneur, NGCC . Apprenez-en davantage ici : https://…","['#GCCFi', '#Amundsen']","['https://t.co/xsUC0Y0Pex', 'https://\xe2\x80\xa6']"
+588,833714295783452673,1,0,2017-02-20 16:25:52,Vous aimez l’aventure et le monde maritime? Joignez-vous à nous en devenant technicien aides maritimes (électricien),[],"['https://t.co/Z2ZTT37Nhb', 'https://t.co/wWxaH5GvQ6']"
+589,833014693581172737,15,0,2017-02-18 18:05:54,: Joyeuse Journée mondiale des ! Voici l’occasion de tout connaître sur ces créatures stupéfiantes,['#baleines'],['https://t.co/zPtIVBq\xe2\x80\xa6']
+590,833005002213961728,1,0,2017-02-18 17:27:23,": /3 La maintient sa capacité d’intervention dans le pour assurer la sécurité et la circulation, et éviter les…","['#GCC', '#StLaurent']",[]
+591,833004980663640065,1,0,2017-02-18 17:27:18,": /2 La priorise les opérations visant à répondre au besoin en matière de sécurité et d’enviro. pour les Canadiens, inclua…",['#GCC'],[]
+592,833004894118354945,1,0,2017-02-18 17:26:57,: /3 Le NGCC a complété l’escorte du navire commercial au Port-Alfred et escortera deux autres navire dans le Saguenay,['#EarlGrey'],[]
+593,832673638390317056,0,0,2017-02-17 19:30:40,Vous carburez aux défis et à l’aventure? Soyez des nôtres : poste ouvert de technicien aides maritimes (électricien),[],"['https://t.co/Z2ZTT37Nhb', 'https://t.co/7vla6NUvFb']"
+594,832354446935994373,1,0,2017-02-16 22:22:19,Vous aimez l’aventure et le monde maritime? Soyez des nôtres: poste ouvert&gt; technicien aides maritimes (électricien),[],"['https://t.co/Z2ZTT37Nhb', 'https://t.co/QyebN0j87m']"
+595,832298643285823488,4,0,2017-02-16 18:40:34,": Techniciens de la entretiennent toujours les opérations de nos &amp; de l'alimentation, on recrute https:…","['#GCC', '#AidesNavigation']",[]
+596,831942332366909440,3,2,2017-02-15 19:04:43,"Le jour du drapeau est célébré partout au pays, même à bord des aéroglisseurs de la GCC","['#DrapeauCanadien', '#JourDuDrapeau', '#Canada150', '#GCC55']",['https://t.co/dHRHKGhOxy']
+597,831876044361781248,2,1,2017-02-15 14:41:19,L’équipe de la Garde côtière canadienne à Montréal tient fièrement l’unifolié 9,"['#DrapeauCanadien', '#JourDuDrapeau', '#Canada150', '#GCC55']",['https://t.co/FvL28nH5X']
+598,831590723967385601,2,0,2017-02-14 19:47:33,: Apprenez comment Diane Lavoie analyse les effets du climat sur les écosystèmes marins,"['#FemmesenScience', '#cdnsci']",['https://t.c\xe2\x80\xa6']
+599,831563722229440514,2,0,2017-02-14 18:00:15,: Intéressés par les effets du changement climatique sur les écosystèmes planctoniques? Tout comme Diane Lavoie,[],['https://t.co\xe2\x80\xa6']
+600,831542275796828160,2,0,2017-02-14 16:35:02,": Pour la Saint-Valentin, voyez ce que les Sciences du MPO nous enseignent sur la grossesse du béluga:",[],['https://t.co/oGYHSOJA\xe2\x80\xa6']
+601,831204988672159744,4,0,2017-02-13 18:14:46,": , apprenez bcp, ayez du plaisir et obtenez un super emploi! Joignez-vous au ègeGCC maintenant :","['#TravaillezDur', '#Coll']",['https://t.c\xe2\x80\xa6']
+602,831187641282465792,3,0,2017-02-13 17:05:51,: Le Canada a besoin de ! Apprenez-en plus sur les emplois en science du MPO : 0 …,"['#FemmesenScience', '#Jour']",['https://t.co/ki999i6AQ']
+603,830065819950383104,3,0,2017-02-10 14:48:08,: à tous ceux qui ont contribué au succès des opérations de l’incident du MV Thorco Crown. ère htt…,"['#BravoZulu', '#Partenaires', '#GCCFi']",[]
+604,830056002162679810,2,0,2017-02-10 14:09:07,": Le MV Thorco Crown a été remorqué au de Sydney, N.-É. avec succès. Le navire est amarré. Aucune pollution.",['#port'],[]
+605,829754595345825792,3,4,2017-02-09 18:11:26,"À voir : reportage de Radio-Canada sur le travail du NGCC , de la","['#briseglace', '#DesGroseilliers', '#GCC']","['https://t.co/RK5keSsSov', 'https://t.co/7AoPUakOcb']"
+606,829722482047385602,3,0,2017-02-09 16:03:49,: /4 Aucune pollution observée.,[],[]
+607,829722461562363906,3,0,2017-02-09 16:03:44,": /4 Ils se dirigent vers le de Sydney, N.-É. Ils sont à environ MN de leur destination.",['#port'],[]
+608,829722437357072388,3,0,2017-02-09 16:03:39,: /4 Le remorquage a été transféré avec succès au remorqueur privé ce matin.,[],[]
+609,829722406264643584,3,0,2017-02-09 16:03:31,: /4 Le NGCC a réussi à sécuriser le MV Thorco Crown avec une ligne de remorquage pendant la nuit.,['#SirWilliamAlexander'],[]
+610,829453729560682498,2,0,2017-02-08 22:15:54,: /3 Le NGCC reste sur place. Aucune pollution observée.,['#SirWilliamAlexander'],[]
+611,829453712967946241,2,0,2017-02-08 22:15:50,: /3 Les tentatives de remorquage ont été ratées dues aux conditions météorologiques. Nous attendons la prochaine fenêtre dispo…,[],[]
+612,829453689114890240,2,0,2017-02-08 22:15:44,": /3 La continue de surveiller le navire cargo désemparé, MV Thorco Crown, au nord-ouest de Cap Ray, TNL.",['#GCC'],[]
+613,829377596106428418,1,0,2017-02-08 17:13:22,": Notre e nouvel hélicoptère se fait préparer pour une évaluation début février à à Mirabel, Québec.…",['#GCC'],[]
+614,829045659210747905,3,0,2017-02-07 19:14:22,: /4 Les propriétaires du navire ont organisé le remorquage du M/V Thorco pour demain.,[],[]
+615,829045638201487361,3,0,2017-02-07 19:14:17,: /4 Le NGCC est sur place. L’équipe d’intervention environnementale de la surveille la situation.,"['#SirWilliamAlexander', '#GCC']",[]
+616,829045613748744194,3,0,2017-02-07 19:14:11,": /4 Il n’y a aucun danger immédiat pour l’équipage, le navire ou l’environnement.",[],[]
+617,829045588968763393,3,0,2017-02-07 19:14:05,": /4 La surveille un navire cargo désemparé à MN de Port aux Basques, TNL.",['#GCC'],[]
+618,827567441979006977,4,0,2017-02-03 17:20:28,: Le ègeGCC offre un prog. de ans en navigation maritime et en génie mécanique de marine. Postulez maintenant :,['#Coll'],['https://t\xe2\x80\xa6']
+619,827227704504283137,4,0,2017-02-02 18:50:28,: éans: Investir dans des améliorations ciblées visant la écuritéMaritime le long de ôtes htt…,"['#PlanDeProtectionDesOc', '#S', '#NosC']",[]
+620,826891038765830145,3,0,2017-02-01 20:32:41,: Vous cherchez un emploi en ? embauche des biologistes à ébec. Postulez :,"['#sciences', '#Qu']",['https://t.co/HovIDm16e4']
+621,826539240431443969,2,0,2017-01-31 21:14:45,: Publication de l'Étude Canada-É.-U. sur le risque posé par la carpe de roseau dans les Grands Lacs,[],['https://t.co/x4vY9e\xe2\x80\xa6']
+622,826150881527726081,1,0,2017-01-30 19:31:33,: . reçoit k$ pour trouver les facteurs écologique influant sur la productivité du sébaste Atlantique,[],['https://t\xe2\x80\xa6']
+623,825086709457154048,4,2,2017-01-27 21:02:55,Le commandant Alain Lacerte prend sa retraite après ans de service. ère! Voyez le reportage de Radio-Canada,['#GCCFi'],"['https://t.co/LJkM9n1SMr', 'https://t.co/ZJMA3I6Kzo']"
+624,825074662015123456,2,0,2017-01-27 20:15:03,: Organisme sans but lucratif reçoit k$ pr étudier l’élimination de tuniciers des engins de conchyliculture https…,['#Merinov'],[]
+625,825034829666324481,1,0,2017-01-27 17:36:46,: L'aquarium du reçoit k$ pour continuer ans de recensement des poissons de l’estuaire du St-Laurent,['#Qc'],['https://t.co/S\xe2\x80\xa6']
+626,825025222118039552,1,0,2017-01-27 16:58:35,": Condamnations en vertu de la Loi sur les pêches, Gaspésie 1C",[],['https://t.co/u874ZtHy']
+627,824707304192929794,13,0,2017-01-26 19:55:18,": éanÀLautre Le éans, un système de écurité parmi les meilleurs au monde. ôtes https://…","['#DunOc', '#PlanDeProtectionDesOc', '#s', '#NosC']",['https://\xe2\x80\xa6']
+628,824680357844975621,2,0,2017-01-26 18:08:13,: finance projets de recherche collaborative pour soutenir les pêches au Québec,['#MPO'],['https://t.co/nDfGpe3aDz']
+629,824326412630945793,0,0,2017-01-25 18:41:46,De combien le prix moyen du homard au débarquement s’est-il accru en au Québec? %? %? %? %? Réponse:,[],"['https://t.co/bKY5RfsBgO', 'https://t.co/XLRrVEFEn4']"
+630,824018847728594944,5,0,2017-01-24 22:19:37,: Temps doux et forts vents : évitez de vous aventurer sur la glace entre Québec et Montréal https:/…,['#GCC'],[]
+631,822200158461038597,3,0,2017-01-19 21:52:48,: Nos nouvelles recrues font leurs er pas dans une carrière d’agent des pêches: la formation – à en user leurs bottes,[],['https://t\xe2\x80\xa6']
+632,822109981336014848,1,0,2017-01-19 15:54:28,Temps doux : adoptez des comportements sécuritaires lors des activités de églaçage de la,"['#d', '#GCC']","['https://t.co/AiZciav6Cj', 'https://t.co/7ckIn0AHSM']"
+633,821745419956944896,2,0,2017-01-18 15:45:50,: Temps doux : adoptez des comportements sécuritaires lors d'activités de églaçage de la,"['#d', '#GCC']",['https://t.co/wt0LtGN2iV']
+634,821101485320708098,0,0,2017-01-16 21:07:04,Le Quotidien s’inspire d’un article paru dans le dernier numéro d’Infocéans élugas,"['#b', '#fjordduSaguenay', '#MPO']",['https://t.co/RXnHAsLaSj']
+635,820011703601598465,0,0,2017-01-13 20:56:39,Reprise par des propos du chercheur Peter Galbraith de sur les conditions océaniques ayant prévalu dans le en,"['#MPO', '#StLaurent']",['https://t.co/QQ0OKmu74K']
+636,819917625505488897,2,1,2017-01-13 14:42:49,La saison de la êcheblanche dans le s’ouvre demain. Pour en savoir plus et bien en profiter:,"['#p', '#fjordduSaguenay', '#MPO']","['https://t.co/NBtRiiLJkx', 'https://t.co/VDABxP0MYp']"
+637,819291874410328066,3,0,2017-01-11 21:16:19,: Le batardeau représente la première phase visant à retirer définitivement le des rives de . https:/…,"['#KathrynSpirit', '#Beauharnois']",[]
+638,819291640644960257,3,0,2017-01-11 21:15:23,: Début de la construction du batardeau pour stabiliser le pour l’hiver. La continue de surveiller l’opérati…,"['#KathrynSpirit', '#GCC']",[]
+639,819201868744327168,6,0,2017-01-11 15:18:40,: Je suis fier que ait été choisi comme un des meilleurs employeurs de jeunes au Canada htt…,[],['https://t.co/PzWEnejPak']
+640,818543537537118209,2,1,2017-01-09 19:42:41,Martin Castonguay du est associé à l'une des découvertes de l’année . Votez pour «L’anguille dans la botte de foin»!,['#MPO'],['https://t.co/34Po4Zy2Oj']
+641,818486799316226050,2,0,2017-01-09 15:57:14,: Il vous reste jours pour postuler au prog d’embarcations de sauvetage côtier . Postulez maintenant :,['#ESC'],['https://t.co/TUFxO2\xe2\x80\xa6']
+642,817441667829600256,0,0,2017-01-06 18:44:15,"Retour sur la saison de la êche au au Québec, la e meilleure année de l’histoire après et","['#p', '#homard']","['https://t.co/bKY5RfsBgO', 'https://t.co/ITprnwKN3Y']"
+643,817399275596484610,0,2,2017-01-06 15:55:48,Une équipe à l’écoute du et de ses élugas,"['#fjordduSaguenay', '#b', '#MPO']","['https://t.co/2B3Pm93FkW', 'https://t.co/t1aLrnkFbR']"
+644,817372710380720128,1,2,2017-01-06 14:10:14,"Peter Galbraith, du , est l’un des co-auteurs de l'étude dont il est question dans cet article du Soleil","['#MPO', '#vagues']",['https://t.co/QALBYxXnQb']
+645,817084433828290566,1,1,2017-01-05 19:04:44,Cinq scientifiques de l’ dressent le portrait de l’état du marin,"['#IML', '#SaintLaurent']","['https://t.co/Pl4QLavOGW', 'https://t.co/wW9RWq0JNz']"
+646,816712272433315840,7,0,2017-01-04 18:25:54,: Jody Thomas célèbre son e anniversaire en tant que re femme Commissaire de la . ère,"['#GCC', '#Forte', '#GC2020', '#GCCFi']",['https://t.co/Jq\xe2\x80\xa6']
+647,816308248244523009,2,2,2017-01-03 15:40:27,Le NGCC en escorte à Québec le jour de l’an pour un petit navire/chaland de m de long et de cv de force motrice. 1,['#DesGroseilliers'],['https://t.co/Vuh7nJG1b']
+648,815684554233184256,1,0,2017-01-01 22:22:07,: Vous voudriez connaître l’état des pêches? Consultez les ouvertures et fermeture ici :,[],['https://t.co/QZVfIZoXQf']
+649,814479953647517696,2,0,2016-12-29 14:35:27,Nourrir la mer… pour lutter contre l’érosion des berges grâce à la technique du rechargement de plage érosion,['#'],"['https://t.co/YrD094J6jT', 'https://t.co/s9D3IvdK03']"
+650,812397349435752448,1,2,2016-12-23 20:39:56,Rappelez-vous! La pêche blanche dans le fjord du Saguenay débutera le janvier! C,"['#MPO', '#pecheblanche', '#fjordsaguenay']","['https://t.co/NBtRiiLJkx', 'https://t.co/6DT7Pj0NZ']"
+651,812056425614680064,1,0,2016-12-22 22:05:13,: investit $ dans un projet de,['#PPCPR'],['https://t.co/iaPRpilobb']
+652,812022532215808000,2,0,2016-12-22 19:50:32,"Nos meilleurs vœux pour la nouvelle année, de Pêches et Océans Canada et de la Garde côtière canadienne","['#MPO', '#GCC']","['https://t.co/cvvAwoEfVZ', 'https://t.co/s6X0O7Lo1y']"
+653,812005655049596929,0,0,2016-12-22 18:43:29,Infocéans : l'édition décembre -janvier de notre bulletin est en ligne! Venez nous lire!,"['#MPO', '#GCC']","['https://t.co/FtvdZzqXSf', 'https://t.co/FcnCmhPPIq']"
+654,811673199628918785,1,0,2016-12-21 20:42:25,": Condamnations en vertu de la Loi sur les pêches, Gaspésie",[],['https://t.co/SwG9d6C99S']
+655,811673182533013505,1,0,2016-12-21 20:42:21,": Condamnations en vertu de la Loi sur les pêches, Côte-Nord",[],['https://t.co/rqRdUVKmFb']
+656,811666274484965378,3,2,2016-12-21 20:14:54,"Daniel Côté, maire, et l’hon. Diane Lebouthillier annoncent la cession du port l’Anse-au-Griffon à la Ville de Gaspé",[],"['https://t.co/f317wkebjq', 'https://t.co/u3h4qT6iuw']"
+657,811665868660867073,2,0,2016-12-21 20:13:17,: . transfert le port de L'Anse-au-Griffon à la municipalité de Gaspé,[],['https://t.co/LNiVo5kuHo']
+658,811326317757075457,1,0,2016-12-20 21:44:02,"Jacques St-Pierre, Multi-Électronique, et Rémi Massé, député, annoncent l’achat de bouées scientifiques par",['#MPO'],"['https://t.co/9LKqJZt0DS', 'https://t.co/8GgmV0Xrlr']"
+659,811324868180459522,5,0,2016-12-20 21:38:16,: achète nouvelles bouées scientifiques pour observer les océans 0,['#MPO'],['https://t.co/XEB8aPJzs']
+660,811008220839952385,1,0,2016-12-20 00:40:02,: annonce le dessaisissement de l'infrastructure portuaire de l'Anse-au Griffon,['#MPO'],['https://t.co/hJcG54yNVx']
+661,810959321664286720,1,0,2016-12-19 21:25:43,: annonce un investissement pour améliorer la capacité de monitorage de l'environnement marin,['#MPO'],['https://t.co/sVSl4AbN\xe2\x80\xa6']
+662,810930173612818433,2,0,2016-12-19 19:29:54,: Soyez prêts! La pêche blanche dans le fjord du Saguenay débutera le janvier! http…,"['#MPO', '#pecheblanche', '#fjordsaguenay']",[]
+663,810265203120160769,2,0,2016-12-17 23:27:33,: Soyez prêt…seulement ! Ne manquez pas toutes les activités pendant l’année. Suivez èreDêt…,"['#15JoursAvant', '#2017', '#GCCFi']",[]
+664,810195770137833472,2,3,2016-12-17 18:51:38,"L’équipe de la égionCentreetArctiqueGCC à Montréal avec la commissaire adjointe, Julie Gascon","['#R', '#Fiers', '#15JoursAvant', '#2017']",['https://t.co/X4Tzu51e8e']
+665,810170900511424512,3,0,2016-12-17 17:12:49,": D'un océan à l'autre, sur l'eau et jusqu'à la terre ferme, des biens aux personnes, de célébrer …","['#NousSommesFiers', '#Canada150']",[]
+666,809867149246418944,3,2,2016-12-16 21:05:49,"Avec la fumée de mer et la glace ce matin à Québec, la saison de déglaçage est sur le point de commencer pour les brise-glace de la ! u0",['#GCC'],['https://t.co/7h9iiIBB']
+667,809438451808563200,1,0,2016-12-15 16:42:20,: Signalez un mammifère marin en détresse ici :,[],"['https://t.co/39xGe9tzTp', 'https://t.co/OJ0gzc45zt']"
+668,808798288346497024,1,2,2016-12-13 22:18:33,Les travaux des chercheurs de l’Institut Maurice-Lamontagne font l’objet d’un reportage à l’émission Découverte,['#baleinebleue'],['https://t.co/vokIXlTyko']
+669,808009748188725248,1,0,2016-12-11 18:05:10,": Nos amis à Victoria, en C.-B., égiondelOuestGCC ont tout fait pour réaliser notre projet . 8","['#R', '#Canada150']",['https://t.co/QpK9WWhyn']
+670,807992484433395712,1,0,2016-12-11 16:56:34,: Devinez ce que sera la phase de notre compte à rebours pour le projet ? vendredi égiondelOuestG…,"['#Canada150', '#MontreEtRaconte', '#R']",[]
+671,807653780636450816,4,0,2016-12-10 18:30:41,: Visionnez la vidéo suivante qui vous montrera la réalisation du numéro « » dans la égionCentreetArctiqueGCC …,"['#R', '#Canada150']",[]
+672,807634973595340800,6,0,2016-12-10 17:15:57,": Regardez cette beauté! Malgré les intempéries, nous avons réussi. La phase du project est terminée! h…",['#Canada150'],[]
+673,807355237015097344,1,0,2016-12-09 22:44:23,": Hé oui, il s'agit d'un navire! Mais c'est aussi une question de perception… Nous voyons le chiffre « » …",['#Canada150'],[]
+674,807352157234139137,1,0,2016-12-09 22:32:08,: Fermeture de la cueillette de mollusques dans un secteur de la Gaspésie,[],['https://t.co/8ck06n5URm']
+675,807349496489345024,1,0,2016-12-09 22:21:34,: Que montre cette photo à votre avis? égionAtlantiqueGCC,"['#Canada150', '#R']",['https://t.co/bX85Y752wz']
+676,806982782702460933,11,0,2016-12-08 22:04:23,: les mouvements circulaires de nos aéroglisseurs créent des vagues qui cassent la glace d’un mètre d’épaisseur?,['#SVQ'],['https://t.\xe2\x80\xa6']
+677,806571190034825223,3,0,2016-12-07 18:48:51,: Professionnels des centres de sauvetage de Trenton &amp; Québec ont coordonné plus de incidents maritimes cette année! …,['#Cana'],[]
+678,804051999545237509,0,2,2016-11-30 19:58:29,Travailler comme superviseur de projets d'ingénierie au Service hydrographique du Canada à Mont-Joli!,"['#MPO', '#SHC', '#GdC']","['https://t.co/clYMaPPHV6', 'https://t.co/16tsNJUKsG']"
+679,802255077239099393,1,0,2016-11-25 20:58:10,Devenez agent de projets immobiliers à Pêches et Océans Canada,"['#MPO', '#emploi']",['https://t.co/dkCwNYvlYz']
+680,802249419026526208,4,1,2016-11-25 20:35:41,Traversées de cours d’eau : Laisser le libre passage aux poissons est essentiel pour protéger les êches.,['#p'],"['https://t.co/2MDcjaVNoT', 'https://t.co/PzWYK7GKij']"
+681,802247018424963073,2,0,2016-11-25 20:26:08,: Fermeture annuelle des bases saisonnières de recherche et sauvetage de la au Québec,['#GCC'],['https://t.co/dLnL7KOTRI']
+682,802240162373603328,2,0,2016-11-25 19:58:54,Retour du bar rayé dans le fleuve Saint-Laurent : un succès pour la é!,['#biodiversit'],"['https://t.co/SQ46QuqF4G', 'https://t.co/VzAUuUITZJ']"
+683,802214025165672448,1,0,2016-11-25 18:15:02,Le nouveau pont sur le Saint-Laurent : agir pour protéger les êches C,"['#p', '#pontChamplain']","['https://t.co/1oPI2XfP2j', 'https://t.co/2ElTGDssI']"
+684,802194143724314624,6,3,2016-11-25 16:56:02,L’hydrographie au service de l’éologie sous-marine : découverte d’épaves…,"['#arch', '#', '#SHC']","['https://t.co/bvjH5rZCqQ', 'https://t.co/AYb8622qCZ']"
+685,801432195479064576,1,0,2016-11-23 14:28:19,Infocéans : l'édition octobre-novembre de notre bulletin d'information est en ligne! Venez nous lire!,"['#MPO', '#GCC']","['https://t.co/vViw8b3uA7', 'https://t.co/MIxu77sK7s']"
+686,801110307791892485,2,0,2016-11-22 17:09:15,: Nouv : Zones de fraie &amp; d'alimentation pour poissons dans les rapides http…,"['#pontChamplain', '#environnementsain']",[]
+687,798994646273769473,0,1,2016-11-16 21:02:22,"Devenez agent en délivrance de permis de pêche au , secteurs maritimes du Québec.","['#MPO', '#Emplois', '#IlesdelaMadeleine']",['https://t.co/wcx6L1YPEG']
+688,798994451901333505,5,0,2016-11-16 21:01:36,: Donnez votre opinion sur la êches dès maintenant et jusqu'au novembre. parlonshabitatdupoisson.ca https:…,['#LoiSurLesP'],[]
+689,798271663540502528,1,2,2016-11-14 21:09:30,"souligne avec DN au NCSM Donnacona – CA Gascon, commandant Dufresne &amp; chef-mécanicien Duchesne du NGCC Des Groseilliers","['#GCC', '#JourDuSouvenir']",['https://t.co/SUpn2pHEy6']
+690,796806796597989376,4,0,2016-11-10 20:08:38,: Voyez les scientifiques du à l’œuvre en quête de données vitales sur la composition de l’eau en haute mer …,"['#MPO', '#ScienceCAN']",[]
+691,796792745515974656,2,1,2016-11-10 19:12:48,Construction d’un batardeau dès décembre pour isoler du fleuve,"['#KathrynSpirit', '#GCC']","['https://t.co/dtfqFbc97B', 'https://t.co/jMX32dBpPB']"
+692,796792352631324672,1,0,2016-11-10 19:11:15,": NGCC porte le nom du Cpl Joseph Kaeble VC, mort en ayant repoussé une attaque à lui seul https:/…","['#Kaeble', '#Nelesoubliezpas']",[]
+693,796784784802512900,1,0,2016-11-10 18:41:10,La commissaire adjointe de la Julie Gascon elique les détails de la prochaine étape des travaux pour le navire,"['#GCC', '#KathrynSpirit']",['https://t.co/0Bsccthwzj']
+694,796780088062787584,5,0,2016-11-10 18:22:31,: Min.Garneau: Nous prenons mesures pour isoler du fleuve et agirons pour le démanteler et le retirer des r…,['#KathrynSpirit'],[]
+695,796779073926266881,1,0,2016-11-10 18:18:29,Min.Garneau et C-A Gascon annoncent première phase pour retirer de,"['#KathrynSpirit', '#Beauharnois']","['https://t.co/dtfqFbc97B', 'https://t.co/GTUKVgYAsZ']"
+696,796736327786106880,2,0,2016-11-10 15:28:37,: La et s'engagent à stabiliser et à retirer le navire de,"['#GCC', '#Transports_GC', '#GC', '#KathrynSpirit', '#Beauharnois']",['https://t.\xe2\x80\xa6']
+697,793140052545208320,2,0,2016-10-31 17:18:19,": ère d’Isabelle St-Denis, reconnue cette année pour son dévouement à la formation de nouveaux agents des de Québec…","['#GCCFi', '#SCTM']",[]
+698,792419658339065856,2,0,2016-10-29 17:35:43,/3 est une formation de la sur et conduite d’embarcations à haute vitesse par météo défavorable,"['#RHIOT', '#GCC', '#SAR']",['https://t.co/og7D2oO4ls']
+699,792419377740181504,2,0,2016-10-29 17:34:36,/3 À l’équipe des enquêtes sur la sûreté maritime de la,"['#GRC', '#GCC', '#RHIOT']",['https://t.co/Miq5Enoimn']
+700,792419224471891969,2,0,2016-10-29 17:34:00,/3 donne la formation opérateurs d’embarcations pneumatiques à coque rigide à Tadoussac cette semaine u,"['#GCC', '#RHIOT']",['https://t.co/6ACeghPTS']
+701,792030553847566336,3,0,2016-10-28 15:49:33,: La mer vous appelle? embauche des membres de navire de sauvetage. …,"['#jeveuxtravailler', '#emplo']",['https://t.co/oxlTQIsONK']
+702,791355264238845952,1,0,2016-10-26 19:06:12,": Condamnations en vertu de la Loi sur les pêches, Îles-de-la-Madeleine",[],['https://t.co/Q1u3Anrekz']
+703,791355243455979520,1,0,2016-10-26 19:06:07,": Condamnations en vertu de la Loi sur les pêches, Gaspésie Bas-Saint-Laurent",[],['https://t.co/t5xA6FgDx5']
+704,791355223071653888,1,0,2016-10-26 19:06:02,": Condamnations en vertu de la Loi sur les pêches, Côte-Nord",[],['https://t.co/hdRWP5L4DE']
+705,791291560549871616,3,0,2016-10-26 14:53:04,: prend des mesures pour renforcer la durabilité à long terme de nos pêches,['#GC'],['https://t.co/qTA8mXrGNR']
+706,790978812964110336,7,0,2016-10-25 18:10:19,: Le NGCC Île Saint-Ours (Sorel-Tracy) fait du balisage sur la rivière des Outaouais àlanavigation ère,"['#Aides', '#GCCFi']",['https://t.\xe2\x80\xa6']
+707,790919758434697216,2,0,2016-10-25 14:15:39,NGCC Des Groseilliers est de retour à Québec après son voyage annuel en,"['#Arctique', '#GCC']",['https://t.co/GIcfIgODTW']
+708,789475869798563840,4,0,2016-10-21 14:38:09,: Consultation en ligne sur la jusqu'au nov parlonshabitatdupoisson.ca https…,"['#LP', '#ParlonsHabitatDuPoisson', '#LoiPourLesPoissons']",[]
+709,789475839012462592,8,0,2016-10-21 14:38:02,: ! Le consulte pour la êches. Participez sur !,"['#ParlonsHabitatDuPoisson', '#GC', '#LoiSurLesP']","['https://t.co/wroOHx20IJ', 'https://t.co/xRUBn\xe2\x80\xa6']"
+710,789187803338780674,4,0,2016-10-20 19:33:29,: Les demandes de financement sont maintenant acceptées pour la ronde du PPCPR êcheRécréative,['#P'],['https://t.co/\xe2\x80\xa6']
+711,788822326246866944,2,1,2016-10-19 19:21:12,Infocéans : l'édition août-septembre de notre bulletin d'information est en ligne!,[],"['https://t.co/Bc3tEN5Rkf', 'https://t.co/AbYm7cjKg3']"
+712,788409009267179520,3,0,2016-10-18 15:58:50,Le s’apprête à consulter sur la êches. Nous voulons vous entendre.,"['#GC', '#LoiSurLesP', '#ParlonsHabitatDuPoisson']",[]
+713,786927000472739840,0,0,2016-10-14 13:49:51,RV St-Laurent marin : Les faits sur les espèces aquatiques envahissantes dans le St-Laurent marin au Québec.,[],"['https://t.co/cUsr2MykCW', 'https://t.co/fPf9FiuCdx']"
+714,786915958849933312,0,0,2016-10-14 13:05:59,Rendez-vous St-Laurent marin : Le point sur le statut de la population de béluga du Saint-Laurent. Aujourd'hui h,[],"['https://t.co/cUsr2MykCW', 'https://t.co/G9dyxm0uKx']"
+715,786914007160610816,0,0,2016-10-14 12:58:14,Rendez-vous St-Laurent marin : Faits sur le dév. d’indicateurs écosystémiques pour le secteur marin du St-Laurent. 8,[],"['https://t.co/cUsr2MykCW', 'https://t.co/tcz83UhGP']"
+716,786664988526206976,0,0,2016-10-13 20:28:43,RV St-Laurent marin. Les tendances des conditions océano. chimiques et biologiques de l'estuaire/golfe du St-Laurent,[],"['https://t.co/cUsr2MykCW', 'https://t.co/Oj7W3UaYJt']"
+717,786658379028656128,0,0,2016-10-13 20:02:27,Venez rencontrer nos recruteurs du ège de la aujourd’hui au Salon national de l'Éducation de Montréal!,"['#Coll', '#GCC']",['https://t.co/3kKfNnxItb']
+718,786657783961837568,0,0,2016-10-13 20:00:05,Rendez-vous St-Laurent marin : Faits sur les tendances des conditions physiques de l’estuaire/golfe du St-Laurent,[],"['https://t.co/cUsr2MykCW', 'https://t.co/c5dQTJWJKN']"
+719,779393070378942464,2,0,2016-09-23 18:52:43,: La station de sauvetage à est à nouveau opérationnelle ! Un gros merci à la communauté !,"['#SAR', '#Kegaska']",[]
+720,776083736232337408,0,1,2016-09-14 15:42:36,"Sylvain Gaumond, gardien du port de reçoit le Prix national de","['#SteAnnedesMonts', '#PortspourPetitsBateaux']",['https://t.co/wEIAYJBHJZ']
+721,775739382842159104,8,0,2016-09-13 16:54:16,": Min LeBlanc : Fier du rôle de , , nos partenaires &amp; la communauté inuite du dans de…","['#SHC', '#Nunavut', '#MissionErebusTerror']",[]
+722,771787633638998016,3,0,2016-09-02 19:11:25,Dernière chance de postuler : Coordonnateur de sauvetage maritime/Officier des opérations de déglaçage,"['#GCC', '#Emploi']",['https://t.co/YkdDmoVxAN']
+723,769158278903463936,5,0,2016-08-26 13:03:18,: Commentez notre plan d’action proposé/baleine noire de l’Atlantique Nord,['#Especesenperil'],"['https://t.co/3rZLoPcTUE', 'https://t.co/\xe2\x80\xa6']"
+724,768467450564374528,3,0,2016-08-24 15:18:12,– Postulez comme Coordonnateur de sauvetage maritime / Officier des opérations de déglaçage à la GCC,['#Emploi'],['https://t.co/YkdDmoVxAN']
+725,768467064180838400,3,0,2016-08-24 15:16:40,: Fermeture de la cueillette de mollusques dans des secteurs de la Moyenne-Côte-Nord,[],['https://t.co/Gpduc34ZwI']
+726,768120230879105029,7,0,2016-08-23 16:18:28,: Les conditions environnementales du Saint-Laurent affectent les espèces commerciales. Denis Chabot du MPO elique,[],['https://t.c\xe2\x80\xa6']
+727,768118354057977857,1,0,2016-08-23 16:11:01,": Condamnations en vertu de la Loi sur les pêches, Côte-Nord",[],['https://t.co/0Fru8kosWM']
+728,768118325792612352,1,0,2016-08-23 16:10:54,": Condamnations en vertu de la Loi sur les pêches, Gaspésie",[],['https://t.co/S1fq9kXP7h']
+729,766712886269968384,0,0,2016-08-19 19:06:11,"élugas et navigation : Venez nous rencontrer à la Fête des chants de marins de St-Jean-Port-Joli, demain août.",['#B'],['https://t.co/mQeMhNR5Eg']
+730,766305114122489856,0,0,2016-08-18 16:05:51,"élugas et plaisanciers : venez nous rencontrer à la Fête des chants de marins de St-Jean-Port-Joli, samedi août",['#B'],['https://t.co/5LszUbYHel']
+731,763788549170814976,5,1,2016-08-11 17:25:55,– Postulez comme Coordonnateur de sauvetage maritime / Officier des opérations de déglaçage à la GCC,['#Emploi'],['https://t.co/YkdDmoVxAN']
+732,763426842028216320,0,0,2016-08-10 17:28:37,Plaisanciers : Venez nous voir à la marina de aujourd’hui de h à h. On parle élugas et navigation.,"['#Rimouski', '#b']",['https://t.co/lVk3Pt4NX']
+733,761614194139619328,0,0,2016-08-05 17:25:48,intéressant dans le secteur des pêches : gestionnaire de la ressource. Postulez ici uUc,['#Emploi'],"['https://t.co/fHnqgwB', 'https://t.co/Q0WC4xkFU7']"
+734,761269720976855042,1,0,2016-08-04 18:36:59,élugas et plaisanciers : patrouilles de sensibilisation sur le Saint-Laurent les et août,['#B'],['https://t.co/L8k7wQfpJI']
+735,761259917294657536,0,0,2016-08-04 17:58:02,Bonne chance aux athlètes olympiques et paralympiques canadiens à,"['#Rio2016', '#lepaysavecvous']",['https://t.co/5BtiLkRCnX']
+736,761253867422117889,2,0,2016-08-04 17:34:00,élugas et plaisanciers : découvrez les bonnes pratiques de navigation sur le St-Laurent!,['#B'],"['https://t.co/lVk3Pt4NX', 'https://t.co/WgVC9vU0dM']"
+737,760891691578626052,4,11,2016-08-03 17:34:50,élugas et plaisanciers : patrouilles de sensibilisation sur le Saint-Laurent les et août u,['#B'],['https://t.co/4wb6hVFEJ']
+738,760859279574175744,0,1,2016-08-03 15:26:02,élugas et plaisanciers: connaissez-vous les bonnes pratiques de navigation sur l'estuaire?,['#B'],"['https://t.co/lVk3PtmoOL', 'https://t.co/TuMzir3BqP']"
+739,759078435650174977,2,5,2016-07-29 17:29:36,élugas et plaisanciers : patrouilles de sensibilisation sur le Saint-Laurent du au juillet c,['#B'],['https://t.co/tcooWI79G']
+740,759006059948232706,2,3,2016-07-29 12:42:00,élugas et plaisanciers : patrouilles de sensibilisation sur le Saint-Laurent du au juillet,['#B'],['https://t.co/62qNY814hs']
+741,758745178421112834,1,1,2016-07-28 19:25:21,élugas et plaisanciers : bonnes pratiques de navigation sur le Saint-Laurent,['#B'],"['https://t.co/lVk3PtmoOL', 'https://t.co/tLauHD7C97']"
+742,756519571776045056,7,0,2016-07-22 16:01:36,": Regarder Diane Lavoie, scientifique du MPO, eliquer son travail qui vise à mieux comprendre l’écosystème marin",[],['https://t.co/\xe2\x80\xa6']
+743,756157306337947648,6,2,2016-07-21 16:02:05,Partenariats sur le terrain pour des pêches récréatives durables 89,[],"['https://t.co/3r5SdQ2f', 'https://t.co/4sLVl6pbHk']"
+744,756156911272202240,0,0,2016-07-21 16:00:31,Travaillez en application de la loi au comme CHEF DE SECTEUR à Sept-Îles! Postulez avant le juillet,"['#MPO', '#Emploi']",['https://t.co/oT7ENAAsGB']
+745,756156672331120640,0,0,2016-07-21 15:59:34,Travaillez en application de la loi au comme SUPERVISEUR à Sept-Îles! Postulez jusqu’au juillet.,"['#MPO', '#Emploi']",['https://t.co/tuCb2h6lVt']
+746,753652299789168640,0,0,2016-07-14 18:08:05,Travaillez en application de la loi au comme SUPERVISEUR à Sept-Îles! Postulez ici : jusqu’au juillet,['#MPO'],['https://t.co/tuCb2h6lVt']
+747,753651706999734276,0,0,2016-07-14 18:05:43,Travaillez en application de la loi au comme CHEF DE SECTEUR à Sept-Îles! Postulez avant le juillet,"['#MPO', '#EMPLOI']",['https://t.co/oT7ENAAsGB']
+748,753609832008130560,3,2,2016-07-14 15:19:20,"Sylvain Vézina est le nouveau directeur régional des programmes, Garde côtière canadienne",[],"['https://t.co/IEKZ40xt5i', 'https://t.co/RyMpMw1ErZ']"
+749,753593608020848648,1,0,2016-07-14 14:14:51,: Le harmonise sa politique avec le Québec afin de reconnaître le statut professionnel des pêcheurs,['#MPO'],['https://t.co/kT\xe2\x80\xa6']
+750,753241642019225601,1,0,2016-07-13 14:56:16,Harrington Harbour : le charme à l’anglaise… trottoirs de bois et produits de la mer,[],"['https://t.co/ijzwORPAD5', 'https://t.co/gUeE0Zqx4g']"
+751,751137996548767746,2,0,2016-07-07 19:37:08,Travaillez en application de la loi au comme chef de secteur à Sept-Îles! Postulez avant le juillet,['#MPO'],['https://t.co/oT7ENAAsGB']
+752,751137923433652224,2,0,2016-07-07 19:36:51,Travaillez en application de la loi au comme superviseur à Sept-Îles! Postulez ici : jusqu’au juillet,['#MPO'],['https://t.co/tuCb2h6lVt']
+753,750309458019028992,3,0,2016-07-05 12:44:49,: Le groupe de travail en séance aujourd’hui afin de discuter des prochaines étapes concernant le .,['#KathrynSpirit'],['https://t.co/A\xe2\x80\xa6']
+754,748251514494410752,2,0,2016-06-29 20:27:17,: FERMETURE DE LA CUEILLETTE DE MOLLUSQUES DANS UN SECTEUR DU BAS-SAINT-LAURENT,[],['https://t.co/OtYCd7VKFS']
+755,747440645338365952,1,0,2016-06-27 14:45:11,": Condamnations en vertu de la Loi sur les pêches, les Îles-de-la-Madeleine 2",[],['https://t.co/HPSmfQuCh']
+756,747171206864973824,3,0,2016-06-26 20:54:32,et prête sur le Lac Saint-Louis. Aucune pollution observée,"['#GCCsurplace', '#KathrynSpirit']",['https://t.co/0z3ImUhczG']
+757,746749643757862912,3,0,2016-06-25 16:59:23,Lac Saint-Louis- ainsi que de l’équipement d'intervention env. pendant l'évaluation du,"['#GCCsurplace', '#KathrynSpirit']",['https://t.co/4MrttqrImJ']
+758,746455845790158849,1,0,2016-06-24 21:31:56,Énoncé de la Commissaire adjointe Julie Gascon concernant le .,['#KathrynSpirit'],['https://t.co/grlh0gl65R']
+759,746075259242188800,1,0,2016-06-23 20:19:37,": Condamnations en vertu de la Loi sur les pêches, Côte-Nord",[],['https://t.co/i4jvaKx9TS']
+760,746066489472589825,1,0,2016-06-23 19:44:46,Infocéans : l'édition juin-juillet de notre bulletin d'information est en ligne! d,[],"['https://t.co/A5yAydcji', 'https://t.co/HFcaHLxCsq']"
+761,745625483690254336,5,1,2016-06-22 14:32:23,Le NGCC Pierre Radisson quitte Québec aujourd’hui pour ses missions annuelles en,"['#Arctique', '#GCC']",['https://t.co/vOhFp8hqq7']
+762,745348680031604737,1,0,2016-06-21 20:12:27,: Gouvernement du Canada améliore infrastructures pour pêcheurs GaspésieÎles-de-la-Madeleine ht…,['#Portspourpetitsbateaux'],[]
+763,745307603387940864,2,0,2016-06-21 17:29:14,: Regardez l’hydrographe du Julie Larrivée discuter de son travail dans le fleuve Saint-Laurent.,"['#SHC', '#hydrographie']",['https://t.co\xe2\x80\xa6']
+764,745282652303921152,0,0,2016-06-21 15:50:05,Le sera présent au lancement du site Journée mondiale,"['#SHC', '#hydrographie']","['https://t.co/LFPaEtHqYy', 'https://t.co/NL5elP0yet']"
+765,745252961442496512,6,0,2016-06-21 13:52:06,: Aujourd’hui est la Journée mondiale de l’. Apprenez-en plus sur cette science,['#hydrographie'],"['https://t.co/BTC9uYkl9g', 'https://t.c\xe2\x80\xa6']"
+766,744994098931769344,0,0,2016-06-20 20:43:29,Avis aux médias: Ministre Lebouthillier annonce investissements ports pour petits bateaux au Québec le juin ://,['#MPOhttp'],['bit.ly/28JHtoT']
+767,744984567363346432,2,0,2016-06-20 20:05:36,": La devise du : « Les cartes marines protègent la vie, la propriété et l'environnement marin »","['#SHC', '#hydrographie']",['https://t.co/\xe2\x80\xa6']
+768,744983955422777344,13,0,2016-06-20 20:03:10,: Le gouvernement lance un examen des processus environnementaux/réglementaires pour rétablir la confiance du public htt…,[],[]
+769,744983740682747908,8,0,2016-06-20 20:02:19,: Donnez votre avis sur la protection du poisson et de son habitat êches,"['#Act4fish', '#Loisurlesp']",['https://t.co/PmDdrjs1oS']
+770,743541867896254464,2,0,2016-06-16 20:32:50,": Une variation de la qualité de l’eau peut contaminer le de bactéries, biotoxines ou virus",['#mollusque'],['https://t.co/0kfzIev72Y']
+771,743541813693284352,2,0,2016-06-16 20:32:37,": Salubrité des : gardez-les toujours au froid, soit entre O*C et *C",['#mollusques'],['https://t.co/Kuls97Xfct']
+772,743541717173936129,2,0,2016-06-16 20:32:14,": Déranger les animaux marins est illégal. Pour leur sécurité et la vôtre, laissez-les.","['#MPO', '#beluga', '#baleine']",['https://t.co/BHF\xe2\x80\xa6']
+773,743503801500508160,2,0,2016-06-16 18:01:34,Sécurité à bord des homardiers : l’IRSST lance une vidéo fort utile C,[],"['https://t.co/TcvRHErRoZ', 'https://t.co/54G4L2T5G']"
+774,743158010214776832,2,0,2016-06-15 19:07:31,: Mise à jour de l'application é. Partez à la découverte de diverses espèces:,['#Biodiversit'],"['https://t.co/RcuZLDL7vv', 'https://t.co\xe2\x80\xa6']"
+775,743156871637368833,0,0,2016-06-15 19:03:00,Nouvelle directrice générale régionale associée pour Pêches et Océans Canada au Québec,[],"['https://t.co/IqaXX6gjuS', 'https://t.co/w4VVw3TLxx']"
+776,743088102269460480,1,0,2016-06-15 14:29:44,: Vous pouvez aussi inscrire vos observations de sur l'outil de saisie de l'OGSL:,['#capelan'],"['https://t.co/WPqA2y7K8l', 'https://t.c\xe2\x80\xa6']"
+777,742808906087473152,2,2,2016-06-14 20:00:18,Stratégie pour la conservation des et des éponges de l’est du Canada,"['#coraux', '#']","['https://t.co/4KFkVO9WVi', 'https://t.co/npp2emGXRX']"
+778,742790445042794496,1,0,2016-06-14 18:46:57,"Pêcheurs de ébaste, les loups sont en péril! Aidez à leur rétablissement","['#s', '#especesenperil']","['https://t.co/eUJGn6i78V', 'https://t.co/wGAyCyGUuY']"
+779,742449644735631360,4,0,2016-06-13 20:12:44,: La pêche à la jetée ouest… pour le suivi des passes à poissons,['#SemEnviro'],"['https://t.co/Je4Zs3yqnw', 'https://t.co/CFDEtQg\xe2\x80\xa6']"
+780,741322632604356608,3,0,2016-06-10 17:34:23,Commentez le plan de gestion du rorqual commun de l’Atlantique ècesenpéril 1,['#esp'],"['https://t.co/EdgIaIF0P', 'https://t.co/pZCzaORop7']"
+781,740985935333064704,3,1,2016-06-09 19:16:28,"La accueille nouveaux officiers du collège au Québec – avec Julie Gascon, commissaire adjointe ère","['#GCC', '#GCCfi']",['https://t.co/WJ5raXjhUo']
+782,740643801413341184,1,2,2016-06-08 20:36:57,"À Havre-St-Pierre, visitez le Cap Rozier juin h à h éeMondialeOcéans","['#NGCC', '#Journ']","['https://t.co/yfpvGZzepj', 'https://t.co/mbSjy0cc6K']"
+783,740629395556204544,0,0,2016-06-08 19:39:42,A. LeBlanc ouvre ses portes au quai de é juin h à h éeMondialeOcéans,"['#NGCC', '#Gasp', '#Journ']","['https://t.co/yfpvGZzepj', 'https://t.co/V8M8qH0r6H']"
+784,740625851616792576,0,0,2016-06-08 19:25:37,"Gens de , visitez le Cap De Rabast – juin h à h éeMondialeOcéans","['#Kegaska', '#NGCC', '#Journ']","['https://t.co/yfpvGZzepj', 'https://t.co/kMh47tRyQi']"
+785,740625639254937600,0,0,2016-06-08 19:24:47,"Portes ouvertes du Cap Tourmente au bassin Louise à ébec – juin, de h à h éeMondialeOcéans","['#NGCC', '#Qu', '#Journ']",['https://t.co/yfpvGZzepj']
+786,740620659726942210,0,0,2016-06-08 19:05:00,FCG Smith vous attend port de Trois-Rivières juin h à h éeMondialeOcéans,"['#NGCC', '#Journ']","['https://t.co/yfpvGZzepj', 'https://t.co/vT7VJTbjDj']"
+787,740620028974862336,0,0,2016-06-08 19:02:29,"À , Cap Percé ouvre ses portes juin h à h éeMondialeOcéans","['#Tadoussac', '#NGCC', '#Journ']","['https://t.co/yfpvGZzepj', 'https://t.co/0svtyVQtdL']"
+788,740618133401145344,1,0,2016-06-08 18:54:57,": Le banc des Américains, un monde à découvrir, une richesse à préserver Regardez : éansCdn",['#Oc'],"['https://t.co/Uj649y8iEY', 'https://t\xe2\x80\xa6']"
+789,740606725103988736,0,0,2016-06-08 18:09:37,"À Rivière-au-Renard, Cap D’Espoir sera ouvert à la population juin h à h éeMondialeOcéans","['#NGCC', '#Journ']",['https://t.co/yfpvGZzepj']
+790,740574119981420544,1,0,2016-06-08 16:00:04,Venez visitez le Creed au port de juin h à h éeMondialeOcéans,"['#NGCC', '#Rimouski', '#Journ']","['https://t.co/yfpvGZzepj', 'https://t.co/PqxOFloEqt']"
+791,740554874274873344,0,0,2016-06-08 14:43:35,Cap-aux-Meules ouvre ses portes aux IDM – juin h à h éeMondialeOcéans,"['#NGCC', '#Journ']","['https://t.co/yfpvGZzepj', 'https://t.co/2gsAj0n4eA']"
+792,740554204994015232,9,0,2016-06-08 14:40:55,: AROC réunit les eerts océanographes du Can. pour collaborer dans des domaines d'intérêt commun. Voici les membres!,[],['https://t\xe2\x80\xa6']
+793,740554176137166848,25,0,2016-06-08 14:40:49,: Min LeBlanc annonce la nouvelle Alliance de recherche océanique au Canada (AROC) éeMondialeOcéans,['#Journ'],['https://t.co/TsQBZAsZ\xe2\x80\xa6']
+794,740271824030814208,4,0,2016-06-07 19:58:51,juin - la ouvre les portes de plusieurs navires au Québec éeMondialeOcéans,"['#GCC', '#Journ']","['https://t.co/yfpvGZzepj', 'https://t.co/NMEPVvceI3']"
+795,740172217242296320,2,0,2016-06-07 13:23:02,: NGCC Amundsen entreprend un périple de jours en Arctique. Jetez un coup d’œil sur les photos de son départ,[],['https://t.co/\xe2\x80\xa6']
+796,740172198896406528,3,0,2016-06-07 13:22:58,: Vous pensez assister à une célébration de la éeMondialeOcéans? Partagez les photos de votre évènement avec nous! éans…,"['#Journ', '#Oc']",[]
+797,739841294726533120,6,0,2016-06-06 15:28:04,: Apprenez-en plus sur nos évènements et activités régionaux pour célébrer la éeMondialeOcéans ici éansCdn,"['#Journ', '#Oc']",['https://t.co\xe2\x80\xa6']
+798,738780900599685120,3,7,2016-06-03 17:14:27,Le NGCC quitte Québec cet après-midi pour sa mission annuelle dans l'Arctique,"['#Amundsen', '#GCC', '#ArcticNet']",['https://t.co/1dbuKQIsIM']
+799,738731341097865216,4,0,2016-06-03 13:57:31,: Apprenez-en plus sur la façon dont les Zones de Protection Marine aident à conserver et à protéger les éansCdn,['#Oc'],['https://t.co\xe2\x80\xa6']
+800,738730891233611777,1,0,2016-06-03 13:55:44,Reprise des activités saisonnières de recherche &amp; sauvetage de la au Québec,['#GCC'],"['https://t.co/HYJHsb1RrO', 'https://t.co/yjVFmru9Ei']"
+801,737632514538414080,3,0,2016-05-31 13:11:10,: Changer les attitudes est l’un des objectifs de la éeMondialeOcéans En savoir plus sur cette célébration,['#Journ'],['https://t.co/\xe2\x80\xa6']
+802,737307776863592448,6,0,2016-05-30 15:40:47,": MPO se prépare pour la éeMondialeOcéans! Près ou loin des rives, célébrez dans votre communauté 1c",['#Journ'],['https://t.co/eQ0XzSwX']
+803,737307736430542848,1,0,2016-05-30 15:40:37,: Le juin est la éeMondialeOcéans Il existe bien des façons d’y participer. Pour en savoir plus:,['#Journ'],['https://t.co/YB1j0A2Q\xe2\x80\xa6']
+804,736217080710725632,3,0,2016-05-27 15:26:44,: Dernière chance pour postuler au programme français de formation des officiers du Collège . Ne la manquez pas!,['#GCC'],['https://t.c\xe2\x80\xa6']
+805,735559287041298433,1,0,2016-05-25 19:52:54,Pêcheurs à la palangre! Vous pouvez aider au rétablissement des loups! ècesEnPéril 8,['#Esp'],"['https://t.co/ftjMnPJp5', 'https://t.co/BE1fqSSgg3']"
+806,735535935262236672,0,0,2016-05-25 18:20:07,Condamnations en vertu de la Loi sur les êches en ésie,"['#p', '#Gasp']",['https://t.co/B86yzF7BDs']
+807,735113668342493185,13,0,2016-05-24 14:22:10,: Les emplois sont affichés! Répandez la nouvelle!,['#PlusScience'],"['https://t.co/hUWKlkVJF5', 'https://t.co/SQMgrBXhtV']"
+808,733299557992386560,0,0,2016-05-19 14:13:33,Pêcheurs au filet maillant! Vous pouvez aider au rétablissement des loups! ècesEnPéril,['#Esp'],"['https://t.co/nk1iLAEeFf', 'https://t.co/2cv7QGDmcs']"
+809,732602795195408384,2,0,2016-05-17 16:04:52,Arrêté sur l’habitat essentiel du béluga du Saint-Laurent affiché pour commentaires pour jours ècesEnPéril,['#Esp'],['https://t.co/nX5S1PR8rn']
+810,732579038292758528,8,4,2016-05-17 14:30:28,Voyez l’habitat essentiel du béluga du Saint-Laurent désigné dans le programme de rétablissement ècesEnPéril C,['#Esp'],['https://t.co/TV0oVmJHG']
+811,732237371706646529,7,4,2016-05-16 15:52:48,"Nourrir un équipage, sans faim ni pertes… Lorsqu’un navire va en u","['#GCC', '#Arctique', '#Logistique']","['https://t.co/hsvoHaqxvi', 'https://t.co/BDxJIvryg']"
+812,731211790382714882,0,1,2016-05-13 19:57:30,Prix de distinction régional remis à Sylvain Gaumond de l'adm. portuaire de Ste-Anne-des-Monts élicitations! u,['#F'],['https://t.co/NHJGIbkg4']
+813,730751191311892480,2,0,2016-05-12 13:27:15,Infocéans : l'édition avril-mai de notre bulletin d'information est en ligne!,[],"['https://t.co/3JqmuWb13o', 'https://t.co/HmCEb8cZht']"
+814,728682226305646592,11,0,2016-05-06 20:25:55,: Nous avons prévu un événement intéressant! Encerclez la date dans votre calendrier!,['#OdySci'],"['https://t.co/051sapH2nW', 'https://t.\xe2\x80\xa6']"
+815,725714311981707264,14,0,2016-04-28 15:52:29,": Le Canada et l'Union européenne u8 ensemble pour lutter contre la pêche illicite, non déclarée et non rég…",[],['https://t.co/IjDd5eKq']
+816,725714042162155520,10,0,2016-04-28 15:51:25,: Le Canada travaille fort pour que ses pêches continuent à être durables,['#SEG16'],"['https://t.co/8lYjlHRRYT', 'https://t.co/b9xllcq1pX']"
+817,725031115107536896,7,0,2016-04-26 18:37:42,: . va en Belgique pour promouv. 'indust. can. des prod. de la mer au salon,"['#MinTootoo', '#l', '#SEG16']",['https://t.co/aIJ\xe2\x80\xa6']
+818,724959739369631746,3,0,2016-04-26 13:54:05,Combien de temps un loup de mer peut-il survivre hors de l’eau? Pour le savoir… 8U,[],"['https://t.co/7cQcvtut', 'https://t.co/EbZRbX2b5z']"
+819,723595674869239813,9,0,2016-04-22 19:33:47,: Joyeux ! Voyez comment le MPO protège nos océans : U,['#JourDeLaTerre'],['https://t.co/Kvrrql3g3']
+820,723595647862116352,9,0,2016-04-22 19:33:40,: C’est le ! Voici l’oppor-thon-ité d’en savoir plus sur la protection des eaux canadiennes par le MPO,['#JourDeLaTerre'],['https://t.c\xe2\x80\xa6']
+821,723595249583529984,8,0,2016-04-22 19:32:05,: Heureux !,['#Jourdelaterre'],['https://t.co/FJ8fDsoPse']
+822,717382260379484169,7,0,2016-04-05 16:03:53,: Les agents des fournissent un des er services aux navires en détresse. Nous embauchons à l’échelle nationale,['#SCTM'],['https://t.\xe2\x80\xa6']
+823,715660070114181120,3,1,2016-03-31 22:00:31,Pêcheurs de crevettes! Contribuez au rétablissement des loups! 9,[],"['https://t.co/248w7rhQnL', 'https://t.co/3WYwhz7ER']"
+824,715596349278973952,11,3,2016-03-31 17:47:19,Mise à l'eau des navires de recherche et sauvetage ce matin à Mont-Joli.,['#GCC'],"['https://t.co/j5wKuJa7ns', 'https://t.co/4SdecqITs7']"
+825,714890666170523649,8,0,2016-03-29 19:03:11,: . embarque pour l'Odyssée des sciences. Restez à l'écoute pour plus de détails.,['#OdySci'],['https://t.co/x6cZjdwAHj']
+826,714834987971977216,2,1,2016-03-29 15:21:56,Les bases saisonnières de recherche et sauvetage du Québec rouvrent 9D 00,['#GCC'],"['https://t.co/giVrrfmI', 'https://t.co/RvfN76z7']"
+827,714120197754454016,1,1,2016-03-27 16:01:37,Postulez ici ! Poste de conseiller en communications à Pêches et Océans Canada à Mont-Joli.,[],"['https://t.co/2TGlMAJcjP', 'https://t.co/mcneuY9GOl']"
+828,713087907091902465,2,3,2016-03-24 19:39:40,Ne confondez pas les mollusques avec le chocolat! Prudence lors de la cueillette,[],"['https://t.co/xLGrAOmEQG', 'https://t.co/aZDT1kb44h']"
+829,713073985043505152,4,0,2016-03-24 18:44:20,Postulez ici ! Poste de conseiller en communications à Pêches et Océans Canada à Mont-Joli. D,[],"['https://t.co/2TGlMAJcjP', 'https://t.co/zVYxf127p']"
+830,713068114175459328,8,0,2016-03-24 18:21:01,: Le invite tous les groupes autochtones à postuler au,"['#minTootoo', '#PPCPR']",['https://t.co/ky5Cr4NZZZ']
+831,713060954070773761,1,2,2016-03-24 17:52:34,Nouvelle édition Carte Chenal du havre de la Grande Entrée bouées et profondeurs à jour,[],"['https://t.co/IpYudPLL0k', 'https://t.co/fV9V3EnAMy']"
+832,712397292393910274,15,0,2016-03-22 21:55:24,: Investir pour faire bénéficier les Autochtones de la prospérité du Canada. 1,['#Budget2016'],['https://t.co/HoPMqNnkJ']
+833,712389026502852608,28,0,2016-03-22 21:22:34,: Le vise à stimuler la capacité d'innovation et la croissance de notre économie.,['#Budget2016'],['https://t.co/v0ejI7jiSq']
+834,712388073137565697,24,0,2016-03-22 21:18:46,: Le réinvestit massivement dans l'infrastructure d'un océan à l'autre.,['#Budget2016'],['https://t.co/HAeJVLaLUf']
+835,710949098745159680,1,0,2016-03-18 22:00:48,Pêcheurs de crabe! Contribuez au rétablissement des loups!,[],"['https://t.co/lQVltZw5jV', 'https://t.co/OrTzAqLOLW']"
+836,710190007223459840,4,5,2016-03-16 19:44:27,En route vers une batture de glace détachée du côté nord du Lac St-Pierre à bord du Sipu Muin,['#GCC'],['https://t.co/Or2XNvb2jo']
+837,710188521332600837,2,0,2016-03-16 19:38:32,Pêcheurs de crabe! Vous pouvez contribuer au rétablissement des loups! 02,[],"['https://t.co/LhOKSXuJ', 'https://t.co/KSBlXTQzcB']"
+838,709722466021670912,9,0,2016-03-15 12:46:36,: La embauche maintenant pour les Services de communications et de trafic maritimes . Postulez ici:,['#SCTM'],['https://t.co/B\xe2\x80\xa6']
+839,709362634391482369,5,2,2016-03-14 12:56:46,érique : votre avis sur l’inscription de cette espèce en péril avant le mars,['#AnguilledAm'],"['https://t.co/EocGKysE8a', 'https://t.co/TCO3ccxAAV']"
+840,708396160474615810,4,0,2016-03-11 20:56:20,: Partagez un souper gastronomique avec les membres de l'équipe de l'Amundsen …,[],['https://t.co/gUbCPjyB8Z']
+841,708297676941627392,7,2,2016-03-11 14:25:00,Venez rencontrer nos agents des pêches au Salon Eert Chasse Pêche et Camping! Kiosque,[],"['https://t.co/nOOco8KxGx', 'https://t.co/ksnRuzDk1A']"
+842,708019338465386496,5,15,2016-03-10 19:58:59,", vous connaissez? La l'utilise pour suivre signaux satellites en Arctique c","['#RaspberryPi', '#GCC']","['https://t.co/ZunVHtD3rh', 'https://t.co/sUtgtxVhh']"
+843,707949387490725888,8,0,2016-03-10 15:21:01,: Consultez notre galerie de photos du ministre Tootoo à la à Boston 0 d,['#SENA16'],"['https://t.co/QxRLLge0e', 'https://t.co/4kShoWfOn']"
+844,707666100230692867,3,0,2016-03-09 20:35:20,: Des scientifiques du ont validé un modèle pour étudier le bruit sous-marin,['#MPO'],"['https://t.co/MxtKJwdmyv', 'https://t.co/rHUqS\xe2\x80\xa6']"
+845,707310457468657664,2,1,2016-03-08 21:02:08,NGGC Mamilossa de retour à la base de Trois-Rivières pour inspection,['#GCC'],[]
+846,707296469510914054,1,0,2016-03-08 20:06:33,Équipe de lutte contre incendie du NGCC Des Groseilliers et chef-mécanicien des aéroglisseurs sur place pour évaluer la situation.,[],[]
+847,707296208855961600,5,4,2016-03-08 20:05:31,Incendie maîtrisé dans un compartiment à moteur de l’aéroglisseur Mamilossa de la Garde côtière. Aucun blessé. 1,[],['https://t.co/J2SLfZ2Dy']
+848,707272353621868544,5,2,2016-03-08 18:30:44,L'autonomisation des femmes d'après Andréanne Demers du,"['#MPO', '#JIF2016']",['https://t.co/LPbv5XUw5i']
+849,707257219016998912,3,1,2016-03-08 17:30:35,L'autonomisation des femmes d'après Lydia Marquis du u,"['#MPO', '#JIF2016']",['https://t.co/2BKlZseB6']
+850,707252884698693632,2,1,2016-03-08 17:13:22,"Bilan préliminaire des pêches commerciales, saison .",[],"['https://t.co/1MvOkruRst', 'https://t.co/TfCIwKcGo7']"
+851,707249758021226498,2,0,2016-03-08 17:00:57,L’autonomisation des femmes d’après Julie Gascon de la éedelafemme,"['#GCC', '#Journ']",['https://t.co/zlGDM354rj']
+852,707234584128307204,2,0,2016-03-08 16:00:39,"L'autonomisation des femmes, d'après Marie-Hélène Giasson de la Garde côtière canadienne éedelafemme","['#Journ', '#GCC']",['https://t.co/rFYuUQKCLf']
+853,707223988611715072,6,5,2016-03-08 15:18:33,L’autonomisation des femmes d’après Maryse Lemire du éedelafemme,"['#MPO', '#Journ']",['https://t.co/SMLnN3MuPP']
+854,706880724008304640,6,0,2016-03-07 16:34:32,: tiendra une conférence de presse aujourd'hui à la d,"['#MinTootoo', '#SENA16']",['https://t.co/iPgeAcRZY']
+855,706556267964268544,7,0,2016-03-06 19:05:16,: Notre personnel répondra à vos questions sur la pêche canadienne au stand,['#SENA16'],[]
+856,706258563581284357,6,0,2016-03-05 23:22:17,: vous invite demain à h HE à l’ouverture du pavillon du Canada atlantique,"['#MinTootoo', '#SENA16']",[]
+857,706257617832828932,5,0,2016-03-05 23:18:32,: À demain pour la journée d’ouverture de la,['#SENA16'],[]
+858,706223161872932864,10,0,2016-03-05 21:01:37,: Canadiens gagnent leur vie grâce à la êche ou aux activités connexes êcheEnBref,"['#p', '#P']",[]
+859,706221867590422528,7,0,2016-03-05 20:56:28,: Le flétan de l’Atlantique a les deux yeux sur le côté droit du corps. Il ne voit rien du côté gauche. êcheEnBref,['#P'],[]
+860,705919154872836096,7,0,2016-03-05 00:53:36,: dirige la délégation canadienne au + important salon de fruits de mer en Amérique du Nord https://…,['#MinTootoo'],['https://\xe2\x80\xa6']
+861,705834707917922305,1,2,2016-03-04 19:18:02,Brume de mer pendant que le NGCC Des Groseilliers est à l'oeuvre sur le Lac St-Pierre églaçage,"['#GCC', '#D']",['https://t.co/lm1LTqeLd7']
+862,705824630121046017,6,0,2016-03-04 18:38:00,: Dernière chance! L'échéance pour présenter une demande d'Agent(e) des pêches stagiaire c'est AUJOURD'HUI!,[],['https://t.co/zzulcoE\xe2\x80\xa6']
+863,705767253275504640,5,3,2016-03-04 14:50:00,Commandante d'aéroglisseur pour la Garde côtière canadienne : un métier passionnant!,['#GCC'],"['https://t.co/BHfeP2vYhk', 'https://t.co/LlT6FP8X7Q']"
+864,705407653321842692,5,3,2016-03-03 15:01:05,Une plus saine grâce à un nouveau règlement. C,['#aquaculture'],"['https://t.co/Tn4sF1UbM', 'https://t.co/drfEzooQNs']"
+865,705394433857077248,2,4,2016-03-03 14:08:33,églaçage printanier du : soyez prêts!,"['#D', '#Saguenay', '#GCC']","['https://t.co/jjdWFbK5gM', 'https://t.co/CbUDUHDQsL']"
+866,704744641384587264,2,0,2016-03-01 19:06:30,Renouvellement de permis pour les titulaires de permis de la Région du Québec maintenant en ligne dans le SNEPL 90d,[],['https://t.co/A0xQrsS']
+867,704732596224331776,2,0,2016-03-01 18:18:38,Décompte des morses du haut des airs.,[],"['https://t.co/EENV25pMRK', 'https://t.co/3XHhbqAlwK']"
+868,704707063583211520,4,1,2016-03-01 16:37:11,Faites-vite! postes d'agent des êches vous attendent! Postulez avant mars! c,"['#p', '#emplois']","['https://t.co/PEsMkJUP4x', 'https://t.co/XOzgQTe5T']"
+869,704036364787064832,3,3,2016-02-28 20:12:04,Brise-glace et aéroglisseur à l'oeuvre sur le Lac St-Pierre le février,[],['https://t.co/s0Z6hfIzDi']
+870,704036056014954496,6,2,2016-02-28 20:10:50,La Garde côtière canadienne à l'oeuvre ce dimanche sur le Lac St-Pierre. Beaucoup de glace,[],['https://t.co/hJCG0BqWNI']
+871,703308220127944704,2,1,2016-02-26 19:58:41,Des scrutent le banc des Américains à la loupe,['#plongeurs'],"['https://t.co/sXSApKJUDg', 'https://t.co/etJCc9B8eL']"
+872,702991658401529856,4,1,2016-02-25 23:00:46,postes d'Agent(e) des êches vous attendent! Postulez ici avant le mars!,"['#p', '#emplois']","['https://t.co/jnzK3rBEmY', 'https://t.co/flOMH6eGmG']"
+873,702970062412640256,4,3,2016-02-25 21:34:58,Avis d'intérêt public - églaçage printanier sur le lac Saint-Louis,"['#D', '#GCC']","['https://t.co/HRbHw5aOCl', 'https://t.co/nG8WLF9zXE']"
+874,702969259257892864,3,0,2016-02-25 21:31:46,Avis d'intérêt public - églaçage printanier autour de Repentigny,"['#D', '#GCC']","['https://t.co/fvxhq18R1L', 'https://t.co/pwgMbFBv1k']"
+875,702968232521699330,3,0,2016-02-25 21:27:41,Avis d'intérêt public églaçage printanier sur le lac Saint-Pierre,"['#D', '#GCC']","['https://t.co/mrz1WltKnF', 'https://t.co/aeBMpUddQ5']"
+876,702246853526560768,5,4,2016-02-23 21:41:11,"Le NGCC Des Groseilliers en action près de Trois-Rivières. Capté lors d’une patrouille de glace, février.",[],['https://t.co/lzZsi0eMnM']
+877,702221625513668609,3,3,2016-02-23 20:00:56,Quatre nouveaux venus au Québec pour servir les Canadiens élicoptère éedelaviation C,"['#GCC', '#h', '#journ']",['https://t.co/lPEckSND6']
+878,702213991733600257,2,1,2016-02-23 19:30:36,Ils sont arrivés! élicoptères 8,"['#GCC', '#h']",['https://t.co/YH4eole3O']
+879,702191332618539008,3,3,2016-02-23 18:00:34,Les avez-vous vus dans un ciel près de chez vous?,[],['https://t.co/fDjrmm3b5X']
+880,702183585030213632,3,1,2016-02-23 17:29:47,Les avez-vous entendus? 2,[],['https://t.co/LkAhlFwAp']
+881,701856951609774081,3,3,2016-02-22 19:51:51,églaçage printanier du Saguenay : Soyez prêts! c,"['#D', '#GCC']","['https://t.co/em3EgOONty', 'https://t.co/vhZeeaGrs']"
+882,700788008270876672,4,2,2016-02-19 21:04:15,Infocéans : l'édition février-mars de notre bulletin d'information est en ligne!,[],"['https://t.co/kbHDNiq63Q', 'https://t.co/1e77fV9gaE']"
+883,700439740835872769,14,5,2016-02-18 22:00:22,postes d'Agent(e) des êches vous attendent! Postulez ici avant le mars!,"['#p', '#emplois']","['https://t.co/3HoQxdwEXl', 'https://t.co/Utg4MBOuPO']"
+884,699321294215630848,2,2,2016-02-15 19:56:03,Le drapeau de la flotte fièrement au côté de celui du Canada,"['#GCC', '#Drapeaucanadien', '#Jourdudrapeau']",['https://t.co/Opzu0a3CXv']
+885,698930199212253184,0,0,2016-02-14 18:01:59,Bonne !,['#SaintValentin'],['https://t.co/OMnshWz8v4']
+886,697884311261999104,9,0,2016-02-11 20:46:00,: Nellie Gagné fait la recherche sur les maladies d'animaux aquatiques vidéo:,['#Femmesdescience'],"['https://t.co/sVVHtKklLF', 'https://t\xe2\x80\xa6']"
+887,697529988241887236,3,2,2016-02-10 21:18:03,Le NGCC Desgroseilliers capté par la caméra d’une aide à la navigation dans la courbe de Louiseville !,[],['https://t.co/F3wd1Iztoo']
+888,696780537768370176,7,0,2016-02-08 19:40:00,: finance projets de recherche supplém. sur les polluants. Voici tous les projets :,['#MPO'],"['https://t.co/mO2xquDiEO', 'https://t.co\xe2\x80\xa6']"
+889,695700971746422784,1,1,2016-02-05 20:10:11,Avantages du service d'abonnement gratuit pour les Avis aux navigateurs d,['#SalondubateauMontreal'],['https://t.co/QyorQh2PK']
+890,695366743250726914,3,0,2016-02-04 22:02:05,Pour tout savoir sur les services d'information sur les ées et les stand,"['#mar', '#niveauxdeau', '#SALONDUBATEAUMONTREAL']",['https://t.co/OHPNk0QCVV']
+891,695276260881203201,1,0,2016-02-04 16:02:32,Vos cartes marines sont-elles à jour? Parlez-en avec nos hydrographes au au stand,['#SALONDUBATEAUMONTREAL'],['https://t.co/BgU0YUTtxN']
+892,692814458209570821,1,0,2016-01-28 21:00:13,": Ce soir20H, scientifique Véronique Lesage dans Call of the Baby Beluga (anglais)","['#MPO', '#CBC']","['https://t.co/dw7pYgfh45', 'https://t.c\xe2\x80\xa6']"
+893,692423409016381441,1,1,2016-01-27 19:06:19,Les béluga et la chercheuse du MPO Véronique Lesage prennent l'affiche jeudi h à (anglais seulement). 8,['#CBCTNoT'],['https://t.co/TzD9neeqy']
+894,692400481361117184,1,0,2016-01-27 17:35:13,Agents de projets en : des emballants pour vous au MPO. Postulez ici,"['#immobiliers', '#emplois']","['https://t.co/Jlx87CDMVe', 'https://t.co/bl6djMUiPl']"
+895,692392999016361985,2,0,2016-01-27 17:05:29,Chargés de projets en : des emballants pour vous au MPO. Postulez ici,"['#immobiliers', '#emplois']","['https://t.co/0bmmHtw3Iw', 'https://t.co/hxnG4PzJLk']"
+896,692104870640357377,4,1,2016-01-26 22:00:34,Agents des pêches d'un jour : jeunes de la Gaspésie en ont fait l'eérience! 0,[],"['https://t.co/wyek7HPAT', 'https://t.co/uOCXEHGoyi']"
+897,691802900159422465,1,0,2016-01-26 02:00:39,intéressants à Québec : Chargés de projets en . Postulez ici u,"['#Emplois', '#immobiliers']","['https://t.co/6OBorvkxw', 'https://t.co/qrv519gcgv']"
+898,691795297232621569,1,0,2016-01-26 01:30:26,intéressants à Québec : Agents de projets en . Postulez ici,"['#Emplois', '#immobiliers']","['https://t.co/hfPHQnSC6a', 'https://t.co/KQlLsTksqQ']"
+899,691665641472954369,0,0,2016-01-25 16:55:14,intéressants à Québec : Agents de projets en . Postulez ici C,"['#Emplois', '#immobiliers']","['https://t.co/Au0qGAX2m', 'https://t.co/dTuxTlZFQX']"
+900,691650383014420485,1,0,2016-01-25 15:54:36,intéressants à Québec : Chargés de projets en . Postulez ici,"['#Emplois', '#immobiliers']","['https://t.co/3Wyr3u4nBN', 'https://t.co/Y9ggGUp4TY']"
+901,690626018370019328,2,1,2016-01-22 20:04:08,Même le crabe des neiges de Pêches et Océans Canada participe à la,['#journeedescalins'],['https://t.co/ZuuHrQRXU7']
+902,690616197008719877,4,0,2016-01-22 19:25:07,"MSC Monica, Garde côtière en attente du plan de renflouement du proprio qui sera analysé avec Canada.",[],['https://t.co/6lPSyLRvcE']
+903,690614946879541250,5,0,2016-01-22 19:20:08,"MSC Monica, Garde côtière n’observe aucune trace de pollution; confirmé par patrouille de glace en hélico.",[],['https://t.co/aBfiNkpg1W']
+904,690611680498311168,7,0,2016-01-22 19:07:10,"MSC Monica, Garde côtière suit la situation de près et est en contact avec tous les intervenants concernés.",[],['https://t.co/HFIPcW136L']
+905,690262702556581888,4,3,2016-01-21 20:00:27,Le mystère du parcours de l'anguille jusqu'à la mer des Sargasses est percé! U,[],"['https://t.co/HdPF3NLiSR', 'https://t.co/EMX2CICjw']"
+906,689457153065689088,9,2,2016-01-19 14:39:29,L'anguille d'Amérique est une espèce menacée. Article d'Infocéans sur cette espèce en péril. u2,[],"['https://t.co/f36V02PK', 'https://t.co/NWBtKSwTuz']"
+907,687709543057469440,4,0,2016-01-14 18:55:06,Saint-Laurent : les plus chaudes eaux profondes en ans d'après les études du MPO 8,[],"['https://t.co/Jj28saWXK', 'https://t.co/RLv4U1FR2o']"
+908,687636766996729856,3,1,2016-01-14 14:05:55,Connaissez-vous l'histoire du phare de l'Île aux Perroquets?,[],"['https://t.co/9POrF0Xh7K', 'https://t.co/RcJyaHIHtI']"
+909,687315712176685056,3,2,2016-01-13 16:50:10,technologique: voyez notre bouée scientifique Viking IML-4!,['#Innovation'],"['https://t.co/8WiP5tEtE5', 'https://t.co/1yTwmuOzxo']"
+910,685191350967480321,0,0,2016-01-07 20:08:42,Faites connaître votre opinion! 1,[],['https://t.co/MsL4ZPcd3']
+911,685087243225141248,0,0,2016-01-07 13:15:01,"Andrew Rowsell est le nouveau directeur du Secteur Côte-Nord du MPO, région du Québec",[],"['https://t.co/Ko8eJosEWG', 'https://t.co/IZNOcDDKhY']"
+912,684469247498665984,3,1,2016-01-05 20:19:20,Des chercheurs du MPO suivent la migration d'une baleine bleue. 1,[],"['https://t.co/jUIbIFc8v', 'https://t.co/t9cgZxxsha']"
+913,684396495349657601,6,0,2016-01-05 15:30:14,: Espèces en péril: Consultations sur l’’Amérique. Date limite: mars,['#anguilled'],['https://t.co/LtYSH6CIMT']
+914,684357202509959168,3,0,2016-01-05 12:54:06,"Maryse Lemire nommée directrice régionale de la Gestion des pêches du MPO, région du Québec 9 u",[],"['https://t.co/modpxJqTE', 'https://t.co/In3r6NPsT']"
+915,684053304733773824,2,0,2016-01-04 16:46:31,: Le scientifique du MPO Martin Castonguay parle d’une découverte récente sur la migration de l’anguille,['#fiers'],['https://t.co/zaH\xe2\x80\xa6']
+916,679318963407470592,1,1,2015-12-22 15:13:56,Tous les détails sur pêche récréative hivernale au poisson de fond dans le fjord du Saguenay,[],"['https://t.co/RY0YHyVMIV', 'https://t.co/OWzdprqqXW']"

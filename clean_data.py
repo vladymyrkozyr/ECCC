@@ -9,9 +9,17 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 
-
+#for twitter
 rootPath='tw/processed data/*.csv'
 rootResultPath='tw/cleaned data/'
+
+##for facebook
+#rootPath='fb/processed data/comments/*.csv'
+#rootResultPath='fb/cleaned data/comments/'
+
+##for instagram
+#rootPath='in/processed data/posts/*.csv'
+#rootResultPath='in/cleaned data/posts/'
 
 files = glob.glob(rootPath)  
 
@@ -25,7 +33,7 @@ for file, name in zip(files, names):
     
     hashtags_matched=[]
     urls_matched=[]
-    for text in accountInfo['full_text']: 
+    for text in accountInfo['full_text']: # specify column name containing the text to be cleaned
         hashtags=[]
         urls=[]
         
@@ -52,8 +60,8 @@ for file, name in zip(files, names):
             
         texts.append(p.clean((str(text)).encode('utf-8')))
 
-    accountInfo['full_text_cleaned']=texts
-    del accountInfo['full_text']
+    accountInfo['full_text_cleaned']=texts # specify new column name for cleaned text
+    del accountInfo['full_text'] # removing old uncleaned column 
         
     accountInfo['hashtags']=hashtags_matched
     accountInfo['urls']=urls_matched

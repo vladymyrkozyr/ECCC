@@ -17,16 +17,16 @@ from nltk.probability import FreqDist
 ### Choose a social media file path
 
 #======= Twitter =======
-rootPath='../tw/cleaned data/*.csv'
-COLUMN_NAME = 'full_text_cleaned'
+#rootPath='../tw/cleaned data/*.csv'
+#COLUMN_NAME = 'full_text_cleaned'
 
 #======= Facebook =======
-#rootPath='../fb/cleaned data/comments/*.csv'
-#COLUMN_NAME = 'comment_message_cleaned'
+#rootPath='../fb/cleaned data/statuses/*.csv'
+#COLUMN_NAME = 'status_message_cleaned'
 
 #======= Instagram =======
-#rootPath='../in/cleaned data/posts/*.csv'
-#COLUMN_NAME = 'caption'
+rootPath='../in/cleaned data/comments/*.csv'
+COLUMN_NAME = 'text_cleaned'
 
 
 outputDir = rootPath[:-5] + 'word_count/'

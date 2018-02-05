@@ -1,0 +1,14 @@
+token,tok_freq,tok_freq_perc,stemmer,stem_freq,stem_freq_perc
+nous,1,0.5,en,1,0.5
+en,1,0.5,techniqu,1,0.5
+belle,1,0.5,bell,1,0.5
+de,1,0.5,photo,1,0.5
+direct,1,0.5,de,1,0.5
+est,1,0.5,direct,1,0.5
+diffuser,1,0.5,est,1,0.5
+il,1,0.5,il,1,0.5
+raison,1,0.5,raison,1,0.5
+photo,1,0.5,nous,1,0.5
+impossible,1,0.5,diffus,1,0.5
+difficults,1,0.5,imposs,1,0.5
+techniques,1,0.5,difficult,1,0.5

@@ -1,9 +1,9 @@
 token,tok_freq,tok_freq_perc,stemmer,stem_freq,stem_freq_perc
-manage,1,1.0,manag,1,1.0
-starting,1,1.0,financ,1,1.0
-making,1,1.0,make,1,1.0
-learn,1,1.0,job,1,1.0
-job,1,1.0,learn,1,1.0
-finances,1,1.0,start,1,1.0
-budget,1,1.0,budget,1,1.0
+manage,1,1.0,make,1,1.0
+budget,1,1.0,financ,1,1.0
+job,1,1.0,budget,1,1.0
+learn,1,1.0,start,1,1.0
+making,1,1.0,job,1,1.0
+starting,1,1.0,learn,1,1.0
+finances,1,1.0,manag,1,1.0
 first,1,1.0,first,1,1.0

@@ -3,3 +3,8 @@
 - Also, when it exists, we removed the "\n\n" that appears - it was automatically generated after we converted the files format to .csv during the data extraction phase- in the text in the posts/tweets.
 - We used the following API: tweet-preprocessor in Python
 - Preprocessed data, cleaned from hashtags and links is located at '(social network name)/cleaned data/'
+
+
+_________________________________________________________
+
+STEP 2 Cleaning resulst are located in '(social network name)/filtered_data/'

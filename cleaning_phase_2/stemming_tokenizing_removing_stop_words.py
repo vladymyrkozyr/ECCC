@@ -16,16 +16,16 @@ from nltk.probability import FreqDist
 ### Choose a social media file path
 
 #======= Twitter =======
-#rootPath='../tw/cleaned data/*.csv'
-#COLUMN_NAME = 'full_text_cleaned'
+rootPath='../tw/filtered_data_spell_corrected/*.csv'
+COLUMN_NAME = 'text_original'
 
 #======= Facebook =======
-#rootPath='../fb/cleaned data/statuses/*.csv'
-#COLUMN_NAME = 'status_message_cleaned'
+#rootPath='../fb/filtered_data_spell_corrected/statuses/*.csv'
+#COLUMN_NAME = 'text_original'
 
 #======= Instagram =======
-rootPath='../in/cleaned data/comments/*.csv'
-COLUMN_NAME = 'text_cleaned'
+#rootPath='../in/filtered_data_spell_corrected/posts/*.csv'
+#COLUMN_NAME = 'text_original'
 
 filePaths = glob.glob(rootPath)  
 multiWordsPath = './multiwords.txt'
@@ -91,13 +91,13 @@ def stem_text(text):
 
 def main():
     filePaths = glob.glob(rootPath)  
-    wordCountOutputDir = os.path.dirname(rootPath).replace('cleaned data', 'filtered_data') + '/word_count/'
+    wordCountOutputDir = os.path.dirname(rootPath).replace('filtered_data_spell_corrected', 'filtered_data_spell_corrected') + '/word_count/'
     if not os.path.exists(wordCountOutputDir):
         os.makedirs(wordCountOutputDir)  
 
     for filepath in filePaths:
         filename = os.path.basename(filepath)
-        cleanedDataFileName = filepath.replace('cleaned data', 'filtered_data')
+        cleanedDataFileName = filepath.replace('filtered_data_spell_corrected', 'filtered_data_spell_corrected')
         wordCountFileName = wordCountOutputDir + os.path.splitext(filename)[0] + '_word_count.csv'
         print('>>> Processing file: ' + filename)
 

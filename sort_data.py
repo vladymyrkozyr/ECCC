@@ -37,14 +37,16 @@ for file, name in zip(files, names):
     
     print name
     print
-    for post in info['text_filtered']:
+    for post in info['text_original']:
         print str(post).lower()
         social=0
         economical=0
         environmental=0
         for social_word, economical_word, environmental_word in zip(keywords['Social'],keywords['Economical'],keywords['Environmental']):
             
-            
+#            print social_word
+#            print economical_word
+#            print environmental_word
             if str(social_word).lower() in str(post).lower() and str(social_word).lower()!='nan':
                 social+=1
             if str(economical_word).lower() in str(post).lower() and str(economical_word).lower()!='nan':

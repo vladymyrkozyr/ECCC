@@ -70,17 +70,17 @@ plantes,ressources naturelles,émissions de carbone
 santé,rendement,FEFEC
 en santé,CanadaenChine,technologie
 historique,,renouvelable
-,,érosion
-,,développement durable
-,,développement soutenable
-,,captage du carbone
-,,ressources naturelles
-,,écologique
-,,pollution
-,,hydrocarbures
-,,rendement
-,,énergies fossiles
-,,écosystème
+avenir,,érosion
+manger local,,développement durable
+aliments locaux,,développement soutenable
+alimentslocaux,,captage du carbone
+alimenation,,ressources naturelles
+jardin,,écologique
+jardinage,,pollution
+jardins,,hydrocarbures
+sécurité alimentaire,,rendement
+Eau potable,,énergies fossiles
+responsabilité,,écosystème
 ,,émissions
 ,,espèce en péril
 ,,terres
@@ -96,3 +96,5 @@ historique,,renouvelable
 ,,flore
 ,,faune
 ,,marine
+,,oléoducs
+,,pollueur-payeur

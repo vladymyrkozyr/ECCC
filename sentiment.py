@@ -9,6 +9,7 @@ sys.setdefaultencoding('utf8')
 from textblob import TextBlob
 
 
+
 ##for twitter
 #rootPath='tw/filtered_data_spell_corrected/*.csv'
 #rootResultPath='tw/filtered_data_spell_corrected/'

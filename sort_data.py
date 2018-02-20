@@ -46,7 +46,8 @@ def stem_text(text):
 rootPath='in/filtered_data_spell_corrected/posts/*.csv'
 rootResultPath_tagged='in/filtered_data_spell_corrected/posts/'
 
-files = glob.glob(rootPath)  
+
+files = glob.glob(rootPath) 
 
 names = [os.path.basename(x) for x in glob.glob(rootPath)]
 

@@ -38,13 +38,12 @@ def stem_text(text):
 #rootResultPath_tagged='tw/filtered_data_spell_corrected/'
 
 #for facebook
-#social_network='facebook'
-#rootPath='fb/filtered_data_spell_corrected/statuses/*.csv'
-#rootResultPath_tagged='fb/filtered_data_spell_corrected/statuses/'
+rootPath='fb/filtered_data_spell_corrected/statuses/*.csv'
+rootResultPath_tagged='fb/filtered_data_spell_corrected/statuses/'
 
 #for instagram
-rootPath='in/filtered_data_spell_corrected/posts/*.csv'
-rootResultPath_tagged='in/filtered_data_spell_corrected/posts/'
+#rootPath='in/filtered_data_spell_corrected/posts/*.csv'
+#rootResultPath_tagged='in/filtered_data_spell_corrected/posts/'
 
 
 files = glob.glob(rootPath) 
@@ -75,6 +74,7 @@ environmental_column=[]
 stemmed_keywords['Social']=keywords['Social']
 stemmed_keywords['Economical']=keywords['Economical']
 stemmed_keywords['Environmental']=keywords['Environmental']
+
 
 
 #print keywords

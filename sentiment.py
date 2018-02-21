@@ -11,16 +11,16 @@ from textblob import TextBlob
 
 
 ##for twitter
-#rootPath='tw/filtered_data_spell_corrected/*.csv'
-#rootResultPath='tw/filtered_data_spell_corrected/'
+rootPath='question answers/question 1/tw/*.csv'
+rootResultPath='question answers/question 1/tw/'
 
 #for facebook
 #rootPath='fb/filtered_data_spell_corrected/comments/*.csv'
 #rootResultPath='fb/filtered_data_spell_corrected/comments/'
 
 #for instagram
-rootPath='in/filtered_data_spell_corrected/comments/*.csv'
-rootResultPath='in/filtered_data_spell_corrected/comments/'
+#rootPath='in/filtered_data_spell_corrected/comments/*.csv'
+#rootResultPath='in/filtered_data_spell_corrected/comments/'
 
 files = glob.glob(rootPath)  
 

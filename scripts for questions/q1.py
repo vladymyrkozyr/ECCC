@@ -25,13 +25,13 @@ def detect_lang(text):
 
 
 #for twitter
-#rootPath='../question answers/question 1/tw/*.csv'
-#rootResultPath='../question answers/question 1/tw/'
+rootPath='../question answers/question 1/tw/*.csv'
+rootResultPath='../question answers/question 1/tw/'
 
 #for facebook
-rootPath='../question answers/question 1/fb/posts/*.csv'
-rootPath_comments='../question answers/question 1/fb/comments/*.csv'
-rootResultPath='../question answers/question 1/fb/posts/'
+#rootPath='../question answers/question 1/fb/posts/*.csv'
+#rootPath_comments='../question answers/question 1/fb/comments/*.csv'
+#rootResultPath='../question answers/question 1/fb/posts/'
 
 
 #for instagram
@@ -43,24 +43,24 @@ rootResultPath='../question answers/question 1/fb/posts/'
 
 
 files = glob.glob(rootPath)
-files_comments = glob.glob(rootPath_comments)
+#files_comments = glob.glob(rootPath_comments)
 
 names = [os.path.basename(x) for x in glob.glob(rootPath)]
 
 #LANGUAGE
 
-for file, name in zip(files, names):
-    info=pandas.read_csv(file)
-    #comments=pandas.read_csv(file_comment)
-    
-    print name
-    print 
-    
-    info['language']=info['text_tokenized'].apply(detect_lang)
-#    del info['text_sentiment_original_scores']
-#    del info['text_sentiment_original_scores_type']
-    
-    info.to_csv(rootResultPath+name)
+#for file, name in zip(files, names):
+#    info=pandas.read_csv(file)
+#    #comments=pandas.read_csv(file_comment)
+#    
+#    print name
+#    print 
+#    
+#    info['language']=info['text_tokenized'].apply(detect_lang)
+##    del info['text_sentiment_original_scores']
+##    del info['text_sentiment_original_scores_type']
+#    
+#    info.to_csv(rootResultPath+name)
 
 
 # SCORE
@@ -113,27 +113,6 @@ for file, name in zip(files, names):
 #    info.to_csv(rootResultPath+name) 
     
 # RENAME COLS
-#for file, name in zip(files, names):
-#    info=pandas.read_csv(file)
-#    #comments=pandas.read_csv(file_comment)
-#    
-#    
-#    print name
-#    print 
-#    
-#    info=info.rename(index=str, columns={"text_sentiment_original_scores": "sentiment_score", "text_sentiment_original_scores_type": "sentiment_type"})
-#    print info
-#    #info['score']=info['retweet_count']+info['favorite_count']
-#    #info['score']=info['num_reactions']+info['num_comments']+info['num_shares']    
-#    #info['score']=info['likes']+info['comments']
-#    
-#    #info=info.sort_values(by=['score'],ascending=False)
-#    
-#    
-#    info.to_csv(rootResultPath+name)
-
-# CLEAN UNNAMED COLUMNS
-
 for file, name in zip(files, names):
     info=pandas.read_csv(file)
     #comments=pandas.read_csv(file_comment)
@@ -141,9 +120,30 @@ for file, name in zip(files, names):
     
     print name
     print 
-                                   
-    info = info[info.columns.drop(list(info.filter(regex='Unnamed')))]
-          
+    
+    info=info.rename(index=str, columns={"score": "Reactions_SUM"})
+    print info
+    #info['score']=info['retweet_count']+info['favorite_count']
+    #info['score']=info['num_reactions']+info['num_comments']+info['num_shares']    
+    #info['score']=info['likes']+info['comments']
+    
+    #info=info.sort_values(by=['score'],ascending=False)
+    
+    
     info.to_csv(rootResultPath+name)
+
+# CLEAN UNNAMED COLUMNS
+
+#for file, name in zip(files, names):
+#    info=pandas.read_csv(file)
+#    #comments=pandas.read_csv(file_comment)
+#    
+#    
+#    print name
+#    print 
+#                                   
+#    info = info[info.columns.drop(list(info.filter(regex='Unnamed')))]
+#          
+#    info.to_csv(rootResultPath+name)
 
     

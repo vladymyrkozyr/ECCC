@@ -25,20 +25,22 @@ def detect_lang(text):
 
 
 ##for twitter
-#rootPath='../question answers/question 1/tw/*.csv'
-#rootResultPath='../question answers/question 2/tw/'
+#rootPath='../question answers/question 2/tw/*.csv'
+#rootResultPath='../question answers/question 2/merging/tw/'
 
 #for facebook
-#rootPath='../question answers/question 1/fb/posts/*.csv'
+#rootPath='../question answers/question 2/fb/posts/*.csv'
 #rootPath_comments='../question answers/question 1/fb/comments/*.csv'
-#rootResultPath='../question answers/question 2/fb/posts/'
+#rootResultPath='../question answers/question 2/merging/fb/'
 
 
 #for instagram
-rootPath='../question answers/question 1/in/posts/*.csv'
-rootPath_comments='../question answers/question 1/in/comments/*.csv'
-rootResultPath='../question answers/question 2/in/posts/'
+#rootPath='../question answers/question 2/in/posts/*.csv'
+#rootPath_comments='../question answers/question 1/in/comments/*.csv'
+#rootResultPath='../question answers/question 2/merging/in/'
 
+rootPath='../question answers/question 2/merging/*.csv'
+rootResultPath='../question answers/question 2/merging/'
 
 
 
@@ -48,8 +50,8 @@ files = glob.glob(rootPath)
 names = [os.path.basename(x) for x in glob.glob(rootPath)]
 
 # CLEAN DATA
-for file, name in zip(files, names):
-    info=pandas.read_csv(file)
+#for file, name in zip(files, names):
+#    info=pandas.read_csv(file)
     #comments=pandas.read_csv(file_comment)
     
     #facebook
@@ -75,21 +77,20 @@ for file, name in zip(files, names):
 #    
 #    cleaned_data['account_name']=account_name
 
-    #instagram
-    account_name=[name[:-9]+"instagram"]*len(info)
+ #   instagram
+#    account_name=[name[:-9]+"instagram"]*len(info)
+##    
+#    print account_name
+#    info=info.rename(index=str, columns={"date":"date_published",
+#                                         "url":"link",
+#                                         "caption":"caption_original",
+#                                         "text_filtered":"caption_cleaned",
+#                                        "caption_hashtags":"hashtags"})
+#    cleaned_data=info[['id','date_published','link','caption_original','caption_cleaned','hashtags','category','Reactions_SUM','average_sentiment_score','language']]
 #    
-    print account_name
-    info=info.rename(index=str, columns={"mediaid": "id",  
-                                        "date":"date_published",
-                                         "url":"link",
-                                         "caption":"caption_original",
-                                         "text_filtered":"caption_cleaned",
-                                        "caption_hashtags":"hashtags"})
-    cleaned_data=info[['id','date_published','link','caption_original','caption_cleaned','hashtags','category','Reactions_SUM','average_sentiment_score','language']]
-    
-    cleaned_data['account_name']=account_name
-    
-    cleaned_data.to_csv(rootResultPath+name)
+#    cleaned_data['account_name']=account_name
+#    
+#    cleaned_data.to_csv(rootResultPath+name)
 
 
 #SPLIT DATA
@@ -97,22 +98,31 @@ for file, name in zip(files, names):
 #    info=pandas.read_csv(file)
 #    #comments=pandas.read_csv(file_comment)
 #    
-#    info['status_published']=pandas.to_datetime(info['status_published'])
+#    info['date_published']=pandas.to_datetime(info['date_published'])
 #    
-#    period=info['status_published'].dt.to_period('M')
+#    period=info['date_published'].dt.to_period('M')
 #    
-#    print info['status_published']
+#    #print info['date_published']
 #    
 #    months = info.groupby([period])
 #    
-#    for month, group in months:
-#        print group.sort_values(by=['Reactions_SUM'],ascending=False)
-#    
 #    print name
-#    print 
-#    print months
 #    
-#    break
+#    for month, group in months:
+#        #group.sort_values(by=['Reactions_SUM'],ascending=False).to_csv(rootResultPath+str(month)+'-'+name)
+#        print month
+#
 ##    info.to_csv(rootResultPath+name)
 
+
+
+merged = pandas.DataFrame(columns=['id',	'date_published	link',	'caption_original',	'caption_cleaned',	'hashtags',	'category',	'Reactions_SUM',	'average_sentiment_score',	'language',	'account_name'])
+for file, name in zip(files, names):
+    info=pandas.read_csv(file)
+    print name
+    print 
+    
+    merged=merged.append(info.head(5))
+
+merged.to_csv('../question answers/question 2/merged.csv')
     

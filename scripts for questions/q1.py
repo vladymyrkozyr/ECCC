@@ -24,20 +24,21 @@ def detect_lang(text):
     return lang
 
 
-#for twitter
-rootPath='../question answers/question 1/tw/*.csv'
-rootResultPath='../question answers/question 1/tw/'
+##for twitter
+#rootPath='../question answers/question 1/LDA/tw/*.csv'
+#rootPath_comments='../question answers/question 1/LDA/tw/*.csv'
+#rootResultPath='../question answers/question 1/LDA/tw/'
 
 #for facebook
-#rootPath='../question answers/question 1/fb/posts/*.csv'
-#rootPath_comments='../question answers/question 1/fb/comments/*.csv'
-#rootResultPath='../question answers/question 1/fb/posts/'
+rootPath='../question answers/question 1/LDA/fb/posts/*.csv'
+rootPath_comments='../question answers/question 1/LDA/fb/comments/*.csv'
+rootResultPath='../question answers/question 1/LDA/fb/posts/'
 
 
-#for instagram
-#rootPath='../question answers/question 1/in/posts/*.csv'
-#rootPath_comments='../question answers/question 1/in/comments/*.csv'
-#rootResultPath='../question answers/question 1/in/posts/'
+##for instagram
+#rootPath='../question answers/question 1/LDA/in/posts/*.csv'
+#rootPath_comments='../question answers/question 1/LDA/in/comments/*.csv'
+#rootResultPath='../question answers/question 1/LDA/in/posts/'
 
 
 
@@ -113,27 +114,6 @@ names = [os.path.basename(x) for x in glob.glob(rootPath)]
 #    info.to_csv(rootResultPath+name) 
     
 # RENAME COLS
-for file, name in zip(files, names):
-    info=pandas.read_csv(file)
-    #comments=pandas.read_csv(file_comment)
-    
-    
-    print name
-    print 
-    
-    info=info.rename(index=str, columns={"score": "Reactions_SUM"})
-    print info
-    #info['score']=info['retweet_count']+info['favorite_count']
-    #info['score']=info['num_reactions']+info['num_comments']+info['num_shares']    
-    #info['score']=info['likes']+info['comments']
-    
-    #info=info.sort_values(by=['score'],ascending=False)
-    
-    
-    info.to_csv(rootResultPath+name)
-
-# CLEAN UNNAMED COLUMNS
-
 #for file, name in zip(files, names):
 #    info=pandas.read_csv(file)
 #    #comments=pandas.read_csv(file_comment)
@@ -141,9 +121,73 @@ for file, name in zip(files, names):
 #    
 #    print name
 #    print 
-#                                   
-#    info = info[info.columns.drop(list(info.filter(regex='Unnamed')))]
-#          
+#    
+#    info=info.rename(index=str, columns={"score": "Reactions_SUM"})
+#    print info
+#    #info['score']=info['retweet_count']+info['favorite_count']
+#    #info['score']=info['num_reactions']+info['num_comments']+info['num_shares']    
+#    #info['score']=info['likes']+info['comments']
+#    
+#    #info=info.sort_values(by=['score'],ascending=False)
+#    
+#    
 #    info.to_csv(rootResultPath+name)
+
+
+## CLEAN DATA
+#for file, name in zip(files, names):
+#    info=pandas.read_csv(file)
+#    #comments=pandas.read_csv(file_comment)
+#    
+#    #facebook
+#    account_name=[name[:-13]]*len(info)
+#    
+#    print account_name
+#
+#    info=info.rename(index=str, columns={"status_id": "id","status_published":"date_published","status_link":"link","text_original":"caption_original","status_message_cleaned":"caption_cleaned"})
+#    cleaned_data=info[['id','date_published','link','caption_original','caption_cleaned','hashtags','category','Reactions_SUM','average_sentiment_score','language']]
+#    
+#    cleaned_data['account_name']=account_name
+#
+##    #twitter
+##    account_name=[name[:-5]+"er"]*len(info)
+##
+##    print account_name
+##    info=info.rename(index=str, columns={"created_at":"date_published",
+##                                         "urls":"link",
+##                                         "text_original":"caption_original",
+##                                         "text_filtered":"caption_cleaned",
+##                                         "sentiment_score":'average_sentiment_score'})
+##    cleaned_data=info[['id','date_published','link','caption_original','caption_cleaned','hashtags','category','Reactions_SUM','average_sentiment_score','language']]
+##    
+##    cleaned_data['account_name']=account_name
+#
+##    #instagram
+##    account_name=[name[:-9]+"instagram"]*len(info)
+###    
+##    print account_name
+##    info=info.rename(index=str, columns={"date":"date_published",
+##                                         "url":"link",
+##                                         "caption":"caption_original",
+##                                         "text_filtered":"caption_cleaned",
+##                                        "caption_hashtags":"hashtags"})
+##    cleaned_data=info[['id','date_published','link','caption_original','caption_cleaned','hashtags','category','Reactions_SUM','average_sentiment_score','language']]
+##    
+##    cleaned_data['account_name']=account_name
+##    
+##    cleaned_data.to_csv(rootResultPath+name)
+
+# CLEAN UNNAMED COLUMNS
+
+for file, name in zip(files, names):
+    info=pandas.read_csv(file)
+    
+    
+    print name
+    print 
+                                   
+    info = info[info.columns.drop(list(info.filter(regex='Unnamed')))]
+          
+    info.to_csv(rootResultPath+name)
 
     

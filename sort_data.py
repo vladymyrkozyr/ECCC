@@ -34,24 +34,24 @@ def stem_text(text):
 
 
 #for twitter
-#rootPath='tw/filtered_data_spell_corrected/*.csv'
-#rootResultPath_tagged='tw/filtered_data_spell_corrected/'
-
-#for facebook
-rootPath='fb/filtered_data_spell_corrected/statuses/*.csv'
-rootResultPath_tagged='fb/filtered_data_spell_corrected/statuses/'
-
+#rootPath='question answers/question 1/LDA/tw/*.csv'
+#rootResultPath_tagged='question answers/question 1/LDA/tw/'
+#
+##for facebook
+#rootPath='question answers/question 1/LDA/fb/posts/*.csv'
+#rootResultPath_tagged='question answers/question 1/LDA/fb/posts/'
+#
 #for instagram
-#rootPath='in/filtered_data_spell_corrected/posts/*.csv'
-#rootResultPath_tagged='in/filtered_data_spell_corrected/posts/'
+rootPath='question answers/question 1/LDA/in/posts/*.csv'
+rootResultPath_tagged='question answers/question 1/LDA/in/posts/'
 
 
 files = glob.glob(rootPath) 
 
 names = [os.path.basename(x) for x in glob.glob(rootPath)]
 
-keywords_filePath_EN='Keywords_ECCC_EN.csv'
-keywords_filePath_FR='Keywords_ECCC_FR.csv'
+keywords_filePath_EN='LDA_classify_topics_with_cleaned_text_en.csv'
+keywords_filePath_FR='LDA_classify_topics_with_cleaned_text_fr.csv'
 
 keywords=pandas.concat([pandas.read_csv(keywords_filePath_EN,engine='python'),pandas.read_csv(keywords_filePath_FR,engine='python')])
 stemmed_keywords=keywords
@@ -91,7 +91,7 @@ for file, name in zip(files, names):
     print 
          
     categories=[]
-    for post in info['text_original']:
+    for post in info['caption_cleaned']:
         #print str(post).lower()
         social=0
         economical=0

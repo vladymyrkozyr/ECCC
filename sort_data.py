@@ -34,24 +34,26 @@ def stem_text(text):
 
 
 #for twitter
-#rootPath='question answers/question 1/LDA/tw/*.csv'
-#rootResultPath_tagged='question answers/question 1/LDA/tw/'
-#
+rootPath='question answers/question 1/keywords classification/tw/*.csv'
+rootResultPath_tagged='question answers/question 1/keywords classification/tw/'
+
+
 ##for facebook
-#rootPath='question answers/question 1/LDA/fb/posts/*.csv'
-#rootResultPath_tagged='question answers/question 1/LDA/fb/posts/'
-#
-#for instagram
-rootPath='question answers/question 1/LDA/in/posts/*.csv'
-rootResultPath_tagged='question answers/question 1/LDA/in/posts/'
+#rootPath='question answers/question 1/keywords classification/fb/posts/*.csv'
+#rootResultPath_tagged='question answers/question 1/keywords classification/fb/posts/'
+
+
+##for instagram
+#rootPath='question answers/question 1/keywords classification/in/posts/*.csv'
+#rootResultPath_tagged='question answers/question 1/keywords classification/in/posts/'
 
 
 files = glob.glob(rootPath) 
 
 names = [os.path.basename(x) for x in glob.glob(rootPath)]
 
-keywords_filePath_EN='LDA_classify_topics_with_cleaned_text_en.csv'
-keywords_filePath_FR='LDA_classify_topics_with_cleaned_text_fr.csv'
+keywords_filePath_EN='Keywords_ECCC_EN.csv'
+keywords_filePath_FR='Keywords_ECCC_FR.csv'
 
 keywords=pandas.concat([pandas.read_csv(keywords_filePath_EN,engine='python'),pandas.read_csv(keywords_filePath_FR,engine='python')])
 stemmed_keywords=keywords
@@ -76,14 +78,6 @@ stemmed_keywords['Economical']=keywords['Economical']
 stemmed_keywords['Environmental']=keywords['Environmental']
 
 
-
-#print keywords
-#
-#print "adsfdfasdfdafadf"
-#
-#print stemmed_keywords
-
-
 for file, name in zip(files, names):
     info=pandas.read_csv(file)
     
@@ -91,11 +85,25 @@ for file, name in zip(files, names):
     print 
          
     categories=[]
-    for post in info['caption_cleaned']:
-        #print str(post).lower()
+    keywords_list=[]
+    sentiments=[]
+    for post, sentiment in zip(info['caption_cleaned'],info['average_sentiment_score']):
+        
         social=0
         economical=0
         environmental=0   
+        
+        soc_list=[]
+        eco_list=[]
+        env_list=[]
+        
+        if sentiment==0:
+            sentiments.append('neutral')
+        if sentiment>0:
+            sentiments.append('positive')
+        if sentiment<0:
+            sentiments.append('negative')
+        
         for social_word, economical_word, environmental_word in zip(stemmed_keywords['Social'],stemmed_keywords['Economical'],stemmed_keywords['Environmental']):
             
             p=str(post).lower()
@@ -105,24 +113,46 @@ for file, name in zip(files, names):
             if isinstance(social_word,six.string_types):
                 if social_word in p:
                     social+=1
+                    soc_list.append(social_word)
             if isinstance(economical_word,six.string_types):
                 if economical_word in p:
                     economical+=1
+                    eco_list.append(economical_word)
             if isinstance(environmental_word,six.string_types):
                 if environmental_word in p:
                     environmental+=1
+                    env_list.append(environmental_word)
         
-        c=max([('Social',social),('Economical',economical),('Environmental',environmental)],key=itemgetter(1))[0]
-        m=max([('Social',social),('Economical',economical),('Environmental',environmental)],key=itemgetter(1))
+        c=max([('Social',social,soc_list),('Economical',economical,eco_list),('Environmental',environmental,env_list)],key=itemgetter(1))[0]
+        
+        m=max([('Social',social,soc_list),('Economical',economical,eco_list),('Environmental',environmental,env_list)],key=itemgetter(1))
+        
+        l=max([('Social',social,soc_list),('Economical',economical,eco_list),('Environmental',environmental,env_list)],key=itemgetter(1))[2]
+        
         if m==0:
             categories.append('unknown')
+            keywords_list.append('')
         else:
-            categories.append(c)
+            categories.append(c)            
+            keywords_list.append(list(set(l)))
+    
             
-#        print c
-#        print social
-#        print economical        
-#        print environmental
+            #', '.join(set(l))
             
     info['category']=categories
+    info['words_matched_list']=keywords_list
+    info['sentiment']=sentiments
+    info.to_csv(rootResultPath_tagged+name)   
+    
+    # CLEAN UNNAMED COLUMNS
+
+for file, name in zip(files, names):
+    info=pandas.read_csv(file)
+    
+    
+    print name
+    print 
+                                   
+    info = info[info.columns.drop(list(info.filter(regex='Unnamed')))]
+
     info.to_csv(rootResultPath_tagged+name)        

@@ -72,7 +72,7 @@ for file, name in zip(files, names):
        
         l=max(list_of_tuples,key=itemgetter(1))[2]
 
-        if m==0:
+        if len(l)==0:
             FSDS_Goal_Category.append('unknown')
             FSDS_Goal_Category_word_list.append('')
         else:

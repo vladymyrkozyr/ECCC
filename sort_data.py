@@ -135,9 +135,6 @@ for file, name in zip(files, names):
         else:
             categories.append(c)            
             keywords_list.append(list(set(l)))
-    
-            
-            #', '.join(set(l))
             
     info['category']=categories
     info['words_matched_list']=keywords_list

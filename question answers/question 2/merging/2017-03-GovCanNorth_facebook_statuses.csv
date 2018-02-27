@@ -1,2 +1,2 @@
-,id,date_published,link,caption_original,caption_cleaned,hashtags,category,Reactions_SUM,average_sentiment_score,language,account_name
-0,123326971154939_814298348724461,2017-03-28 12:14:14,https://www.facebook.com/GCIndigenous/photos/a.409618582497626.1073741828.218581684934651/1159968550795955/?type=3,,,[],Social,1,0.0,tl,GovCanNorth_facebook
+,Unnamed: 0,id,date_published,link,caption_original,caption_cleaned,hashtags,num_reactions,num_comments,num_shares,num_likes,num_loves,num_wows,num_hahas,num_sads,num_angrys,num_special,Reactions_SUM,category,language,average_sentiment_score,account_name,words_matched_list,sentiment
+277,277,123326971154939_814298348724461,2017-03-28 12:14:14,https://www.facebook.com/GCIndigenous/photos/a.409618582497626.1073741828.218581684934651/1159968550795955/?type=3,,,[],1,0,0,1,0,0,0,0,0,0,1,unknown,tl,0.0,GovCanNorth_facebook,,neutral

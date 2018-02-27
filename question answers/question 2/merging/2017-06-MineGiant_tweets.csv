@@ -1,2 +1,2 @@
-,id,date_published,link,caption_original,caption_cleaned,hashtags,category,Reactions_SUM,average_sentiment_score,language,account_name
-0,880565336789049344,2017-06-29 23:15:11,['https://t.co/jUEQqLiZqZ'],Rappel : Soyez prudents près de la mine Giant. https://t.co/jUEQqLiZqZ,Rappel Soyez prudents de la mine Giant https co jUEQqLiZqZ,[],Social,0,0.0,fr,MineGiant_tweeter
+,Unnamed: 0,id,date_published,link,caption_original,caption_cleaned,hashtags,num_shares,num_likes,Reactions_SUM,category,language,average_sentiment_score,sentiment,account_name,words_matched_list
+31,31,880565336789049344,2017-06-29 23:15:11,['https://t.co/jUEQqLiZqZ'],Rappel : Soyez prudents près de la mine Giant. https://t.co/jUEQqLiZqZ,Rappel Soyez prudents de la mine Giant https co jUEQqLiZqZ,[],0,0,0,unknown,fr,0.0,Neutral,MineGiant_tweeter,

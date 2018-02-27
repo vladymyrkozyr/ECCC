@@ -33,9 +33,9 @@ def stem_text(text):
 
 
 
-#for twitter
-rootPath='question answers/question 1/keywords classification/tw/*.csv'
-rootResultPath_tagged='question answers/question 1/keywords classification/tw/'
+##for twitter
+#rootPath='question answers/question 1/keywords classification/tw/*.csv'
+#rootResultPath_tagged='question answers/question 1/keywords classification/tw/'
 
 
 ##for facebook
@@ -43,9 +43,9 @@ rootResultPath_tagged='question answers/question 1/keywords classification/tw/'
 #rootResultPath_tagged='question answers/question 1/keywords classification/fb/posts/'
 
 
-##for instagram
-#rootPath='question answers/question 1/keywords classification/in/posts/*.csv'
-#rootResultPath_tagged='question answers/question 1/keywords classification/in/posts/'
+#for instagram
+rootPath='question answers/question 1/keywords classification/in/posts/*.csv'
+rootResultPath_tagged='question answers/question 1/keywords classification/in/posts/'
 
 
 files = glob.glob(rootPath) 
@@ -129,7 +129,7 @@ for file, name in zip(files, names):
         
         l=max([('Social',social,soc_list),('Economical',economical,eco_list),('Environmental',environmental,env_list)],key=itemgetter(1))[2]
         
-        if m==0:
+        if len(l)==0:
             categories.append('unknown')
             keywords_list.append('')
         else:

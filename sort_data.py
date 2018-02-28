@@ -14,38 +14,20 @@ import six
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-def detect_lang(text):
-    try:
-        lang = detect(text)
-    except:
-        return 'error'
-    return lang
-
-
-def stem_text(text):
-    if detect_lang(text) == 'fr':
-        stemmer = FrenchStemmer()
-    else:
-        stemmer = EnglishStemmer() 
-    return stemmer.stem(text)
-   # stems = [stemmer.stem(tok) for tok in text]
-   # return stems
-
-
 
 ##for twitter
-#rootPath='question answers/question 1/keywords classification/tw/*.csv'
-#rootResultPath_tagged='question answers/question 1/keywords classification/tw/'
+rootPath='question answers/question 1/keywords classification/tw/*.csv'
+rootResultPath='question answers/question 1/keywords classification/tw/'
 
-
-##for facebook
+#
+###for facebook
 #rootPath='question answers/question 1/keywords classification/fb/posts/*.csv'
-#rootResultPath_tagged='question answers/question 1/keywords classification/fb/posts/'
+#rootResultPath='question answers/question 1/keywords classification/fb/posts/'
 
-
-#for instagram
-rootPath='question answers/question 1/keywords classification/in/posts/*.csv'
-rootResultPath_tagged='question answers/question 1/keywords classification/in/posts/'
+#
+##for instagram
+#rootPath='question answers/question 1/keywords classification/in/posts/*.csv'
+#rootResultPath='question answers/question 1/keywords classification/in/posts/'
 
 
 files = glob.glob(rootPath) 
@@ -58,24 +40,6 @@ keywords_filePath_FR='Keywords_ECCC_FR.csv'
 keywords=pandas.concat([pandas.read_csv(keywords_filePath_EN,engine='python'),pandas.read_csv(keywords_filePath_FR,engine='python')])
 stemmed_keywords=keywords
 
-social_column=[]
-economical_column=[]
-environmental_column=[]
-
-#for soc, eco, env in zip(keywords['Social'],keywords['Economical'],keywords['Environmental']):
-#    social_column.append(stem_text((soc)))
-#    economical_column.append(stem_text((eco)))
-#    environmental_column.append(stem_text((env)))
-
-#print social_column
-#print economical_column
-#print environmental_column
-#print len(social_column)
-#print len(economical_column)
-#print len(environmental_column)
-stemmed_keywords['Social']=keywords['Social']
-stemmed_keywords['Economical']=keywords['Economical']
-stemmed_keywords['Environmental']=keywords['Environmental']
 
 
 for file, name in zip(files, names):
@@ -83,63 +47,43 @@ for file, name in zip(files, names):
     
     print name
     print 
-         
-    categories=[]
-    keywords_list=[]
-    sentiments=[]
-    for post, sentiment in zip(info['caption_cleaned'],info['average_sentiment_score']):
-        
-        social=0
-        economical=0
-        environmental=0   
-        
-        soc_list=[]
-        eco_list=[]
-        env_list=[]
-        
-        if sentiment==0:
-            sentiments.append('neutral')
-        if sentiment>0:
-            sentiments.append('positive')
-        if sentiment<0:
-            sentiments.append('negative')
-        
-        for social_word, economical_word, environmental_word in zip(stemmed_keywords['Social'],stemmed_keywords['Economical'],stemmed_keywords['Environmental']):
+    
+    category=[]
+    category_word_list=[]
+    
+    for post in info['caption_cleaned']:
+                
+        list_of_tuples=[]
+        for column in stemmed_keywords:
+            score=0
+            word_list=[]
+            for word in stemmed_keywords[column]:                
+                p=str(post).lower()
+                if isinstance(word,six.string_types):
+                    if word in p:
+                        score+=1
+                        word_list.append(word)
+            list_of_tuples.append((str(column),score,word_list))
             
-            p=str(post).lower()
-           # print type(economical_word)
-            #print (type(social_word)!='float')
-                        
-            if isinstance(social_word,six.string_types):
-                if social_word in p:
-                    social+=1
-                    soc_list.append(social_word)
-            if isinstance(economical_word,six.string_types):
-                if economical_word in p:
-                    economical+=1
-                    eco_list.append(economical_word)
-            if isinstance(environmental_word,six.string_types):
-                if environmental_word in p:
-                    environmental+=1
-                    env_list.append(environmental_word)
-        
-        c=max([('Social',social,soc_list),('Economical',economical,eco_list),('Environmental',environmental,env_list)],key=itemgetter(1))[0]
-        
-        m=max([('Social',social,soc_list),('Economical',economical,eco_list),('Environmental',environmental,env_list)],key=itemgetter(1))
-        
-        l=max([('Social',social,soc_list),('Economical',economical,eco_list),('Environmental',environmental,env_list)],key=itemgetter(1))[2]
-        
+            
+        c=max(list_of_tuples,key=itemgetter(1))[0]
+            
+        m=max(list_of_tuples,key=itemgetter(1))
+       
+        l=max(list_of_tuples,key=itemgetter(1))[2]
+
         if len(l)==0:
-            categories.append('unknown')
-            keywords_list.append('')
+            category.append('unknown')
+            category_word_list.append('')
         else:
-            categories.append(c)            
-            keywords_list.append(list(set(l)))
-            
-    info['category']=categories
-    info['words_matched_list']=keywords_list
-    info['sentiment']=sentiments
-    info.to_csv(rootResultPath_tagged+name)   
+            category.append(c)            
+            category_word_list.append(list(set(l)))
+    
+
+    
+    info['category']=category
+    info['words_matched_list']=category_word_list
+    info.to_csv(rootResultPath+name)   
     
     # CLEAN UNNAMED COLUMNS
 
@@ -152,4 +96,4 @@ for file, name in zip(files, names):
                                    
     info = info[info.columns.drop(list(info.filter(regex='Unnamed')))]
 
-    info.to_csv(rootResultPath_tagged+name)        
+    info.to_csv(rootResultPath+name)        

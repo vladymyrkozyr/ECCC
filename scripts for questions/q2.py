@@ -32,7 +32,7 @@ def detect_lang(text):
 #rootPath='../question answers/question 2/fb/posts/*.csv'
 #rootResultPath='../question answers/question 2/merging/fb/'
 
-
+#
 ##for instagram
 #rootPath='../question answers/question 2/in/posts/*.csv'
 #rootResultPath='../question answers/question 2/merging/in/'
@@ -63,7 +63,7 @@ names = [os.path.basename(x) for x in glob.glob(rootPath)]
 #    for month, group in months:
 #        group.sort_values(by=['Reactions_SUM'],ascending=False).to_csv(rootResultPath+str(month)+'-'+name)
 #        print month        
-#
+
 
 
 

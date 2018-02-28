@@ -1,106 +1,88 @@
 Social,Economical,Environmental
 famille,énergie,agriculture
 ami,secteur,les émissions de gaz à effet de serre
-copain,entreprises alimentaires,gaz à effet de serre
-copine,importations,conservation
-épouse,import,environnement
-enfants,imports,durable
-changement,industrie,soutenable
-communauté,commerce électronique,changement climatique
-culture,tendances des marchés,recyclage
-femmes,croissance,gaz
-futur,mondiale,musée canadien de la nature
-égalité,mondial,changement climatique
-diversité,écosystème,oiseaux
-biodiversité,mondialisation,oiseau
-opinion publique,finance,recycler
-intérêt public,tourisme,recycle
-espèces sauvages,ministre,pétrole
-salubrité de l’eau potable,partenariat,côtes
-alimentation durable,politique,fleuve
-naturepourtous,emplois,rivière
-collectivité,empreinte,lacs
-collaboration,innovation,océan
-collectivités en santé,novatrice,mer
-étudiants,investir,durabilité
-civile,invest,air
-locale,entreprisesalimentaires,cyclisme
-minorité,droits,compostage
-population,forces armées,compost
-égalité entre les sexes,equilibre,côte
-race,manger local,vélo
-groupe ethnique,aliments locaux,résilienceclimatique
-résilience,alimentslocaux,nature
-justice,infrastructure,cop23
-discrimination,coûts-avantages,hydrogenics
-interdisciplinaire,matériaux,biomasse
-intégrée,gouvernance,woodlandbiofuels
-droits de la personne,revenu,woodland biofuels
-droits humains,agriculture,hi-velocity systems
-engagement,bénéfice,one planet summit
-autochtones,pauvreté,oneplanet summit
-multiculturalisme,chômage,cleantech global
-multiculturelle,prospérer,réutilisables
-multiculturel,gazoducs,parc
-metis,biogaz,eau
-inuit,terres de la couronne,énergie éolienne
-premières nations,rentables,solaire
-bibliothèque et archives,produits du bois,vert
-cyclisme,entrepreneuriat,garde côtière
-compostage,entrepreneurs,station de recherche
-compost,employabilité,pêches et océans
-nature,chambre de commerce,or
-parc,tourisme autochtone,tarification du carbone
-fleuve,fefec,crédits de carbone compensatoires
-rivière,technologie,carbone compensatoires
-lacs,produits,bioénergie
-océan,canneberges,biocarburants
-mer,libre-echange,fédération canadienne de la faune
-pauvreté,commercialisation,biomasse
-prospér,commerce,espèces sauvages
-forêt,marché,forestière
-nutritif,couts,forêt
-vivre en santé,couts additionels,forestièr
-sécurité alimentaire,debouches,méthane
-jeunes,export,gazoducs
-employabilité,exports,biogaz
-decouvrir,exporter,neutre en carbone
-espèce en péril,développement,climat
-plantes,ressources naturelles,émissions de carbone
-santé,rendement,fefec
-en santé,canadaenchine,technologie
-historique,pétrole,renouvelable
-avenir,pétrole brut,érosion
-manger local,emplois verts,développement durable
-aliments locaux,emplois,développement soutenable
-alimentslocaux,économie plus verte,captage du carbone
-alimenation,mines,ressources naturelles
-jardin,nord,écologique
-jardinage,financement,pollution
-jardins,tourisme vert,hydrocarbures
-sécurité alimentaire,,rendement
-eau potable,,énergies fossiles
-responsabilité,,écosystème
-dépenses des ménages,,émissions
-ménages,,espèce en péril
-interdisciplinaire,,terres
-santé environnementale urbaine,,plantes
-santé urbaine,,arbres
-étudiants,,arbre
-espérance ,,géothermiques
-provinciales,,bâtiment
-fédéral,,déboisement
-voting,,l’élévation du niveau de la mer
-voter,,inondation
-vote,,côtier
-,,flore
-,,faune
-,,marine
-,,oléoducs
-,,pollueur-payeur
+copain,importations,gaz à effet de serre
+copine,import,conservation
+épouse,imports,environnement
+époux,industrie,durable
+enfants,commerce électronique,soutenable
+changement,tendances des marchés,changement climatique
+communauté,croissance,recyclage
+culture,mondiale,gaz
+femmes,mondial,musée canadien de la nature
+futur,écosystème,oiseaux
+égalité,mondialisation,oiseau
+diversité,finance,recycler
+biodiversité,ministre,recycle
+opinion publique,partenariat,côtes
+intérêt public,politique,durabilité
+salubrité de l’eau potable,empreinte,air
+alimentation durable,innovation,cyclisme
+naturepourtous,novatrice,compostage
+collectivité,invest,compost
+collaboration,entreprisesalimentaires,côte
+collectivités en santé,droits,vélo
+étudiants,forces armées,climatique
+civile,équilibre,résilience
+locale,infrastructure,cop23
+minorité,coûts-avantages,hydrogenics
+population,matériaux,woodland
+égalité entre les sexes,gouvernance,biofuels
+race,revenu,hi-velocity systems
+groupe ethnique,agriculture,one planet summit
+résilience,bénéfice,oneplanet summit
+justice,pauvreté,cleantech global
+discrimination,chômage,réutilisables
+interdisciplinaire,prospérer,parc
+intégrée,terres de la couronne,eau
+droits de la personne,rentables,énergie éolienne
+droits humains,produits du bois,solaire
+engagement,entrepreneuriat,garde côtière
+autochtones,entrepreneurs,station de recherche
+multiculturalisme,employabilité,pêches et océans
+multiculturelle,chambre de commerce,or
+multiculturel,tourisme,tarification du carbone
+métis,fefec,crédits de carbone compensatoires
+inuit,technologie,carbone compensatoires
+premières nations,produits,bioénergie
+bibliothèque et archives,libre-echange,biocarburants
+cyclisme,commercialisation,fédération canadienne de la faune
+compostage,commerce,forestière
+compost,marché,forêt
+alimentaire,couts,forestier
+pauvreté,couts additionnels,méthane
+prospér,débouches,neutre en carbone
+nutritif,export,climat
+vivre en santé,exports,émissions de carbone
+jeunes,exporter,fefec
+employabilité,développement,renouvelable
+découvrir,rendement,érosion
+santé,canadaenchine,développement durable
+en santé,emplois,développement soutenable
+historique,financement,captage du carbone
+avenir,bâtiment,écologique
+manger local,,pollution
+aliments locaux,,hydrocarbures
+alimentslocaux,,énergies fossiles
+alimentation,,écosystème
+jardin,,émissions
+jardinage,,espèce en péril
+jardins,,terres
+sécurité alimentaire,,plantes
+eau potable,,arbres
+responsabilité,,arbre
+dépenses des ménages,,géothermiques
+ménages,,déboisement
+santé environnementale urbaine,,l’élévation du niveau de la mer
+santé urbaine,,inondation
+espérance ,,côtier
+provinciales,,flore
+fédéral,,faune
+vote,,marine
+nord,,oléoducs
+étudiant,,pollueur-payeur
 ,,l’accord de paris
-,,économie plus verte
-,,emplois verts
+,,vert
 ,,polluants
 ,,matériaux réutilisables
 ,,atténuation
@@ -115,4 +97,17 @@ vote,,côtier
 ,,espèces
 ,,contaminés
 ,,contamination
-,,tourisme vert
+,,biomasse
+,,fleuve
+,,rivière
+,,lacs
+,,océan
+,,mer
+,,gazoducs
+,,biogaz
+,,ressources naturelles
+,,pétrole
+,,pétrole brut
+,,mines
+,,espèces sauvages
+,,nature

@@ -8,8 +8,8 @@ import nltk
 from nltk.tokenize import wordpunct_tokenize, MWETokenizer
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
-import gensim
-from gensim import corpora
+#import gensim
+#from gensim import corpora
 import string
 from numbers import Number
 from pprint import pprint
@@ -19,7 +19,7 @@ import operator
 pd.options.display.max_rows = 30
 
 
-keywords_chosen = './EnglishData/Keywords_ECCC_EN.csv'
+keywords_chosen = './Keywords_ECCC_EN.csv'
 
 # list = [social_media_csv_filepath, cleaned_text_column_name, raw_text_column_name]
 data_folder = './EnglishData/Accounts/*.csv'
@@ -40,7 +40,8 @@ def detect_lang(text):
         return 'error'
     return lang
 
-
+# splits a keyword, converts each to lowercase, lemmatizes each and then
+# joins them back together separated by an underscore
 def lemmatize_keywords(col):
     return '_'.join(lemma.lemmatize(word).lower() for word in col.split()) 
 
@@ -91,13 +92,13 @@ keywords_df = pd.read_csv(keywords_chosen, encoding = "ISO-8859-1")
 lemma_keywords_df = pd.DataFrame(columns=KEYWORD_COL)
 for col in KEYWORD_COL:
     lemma_keywords_df[col] = keywords_df[col].astype(str).apply(lemmatize_keywords)
-display(lemma_keywords_df)
+print(lemma_keywords_df)
 soc_list = set(lemma_keywords_df['Social'].tolist())
-soc_list.remove('nan')
+soc_list.discard('nan')
 econ_list = set(lemma_keywords_df['Economical'].tolist())
-econ_list.remove('nan')
+econ_list.discard('nan')
 env_list = set(lemma_keywords_df['Environmental'].tolist())
-env_list.remove('nan')
+env_list.discard('nan')
 multi_word = [w.split('_') for w in soc_list.union(econ_list).union(env_list) ]   #if '_' in w 
 print(multi_word)
 tokenizer = MWETokenizer(multi_word)
@@ -107,7 +108,7 @@ pd.options.display.max_rows = 1000
 # read csv files and save targt columns to dataframe
 filePaths = glob.glob(data_folder)  
 for filename in filePaths:
-    display(filename)
+    print(filename)
     #print(os.path.basename(filename))
     data_df = pd.read_csv(filename)
     data_df['lang'] = data_df['caption_cleaned'].astype(str).apply(detect_lang)
@@ -116,4 +117,4 @@ for filename in filePaths:
     data_df['lemmatized_caption_cleaned'], data_df['lemmatized_hashtags']  = zip(*data_df.apply(lemmatize_text, axis=1))
     data_df['keywords_found'], data_df['category'] = zip(*data_df.apply(find_category, axis=1))
     #data_df.to_csv(filename, index=None)
-    display(data_df[['words_matched_list', 'lang', 'keywords_found', 'category']])
+    print(data_df[['words_matched_list', 'lang', 'keywords_found', 'category']])

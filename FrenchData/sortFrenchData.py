@@ -98,14 +98,21 @@ tokenizer = MWETokenizer(multi_word)
 
 
 def lemmatize_text(row):
-    caption_original =  str(row['caption_original']).replace('nan', '')
+    # we are using the original text in the caption_original column because
+    # the script we originally used to clean the data didn't handle the French
+    # text correctly and so the results in the caption_cleaned and hashtags
+    # columns are corrupted and should not be used
+    # however all the cleaning (tokenizing, removal of unnecessary punctuation,
+    # and lemmatization is now done right here in this script and it's done
+    # correctly for French
+    text = str(row['caption_original']).replace('nan', '')
     #caption_cleaned =  str(row['caption_cleaned']).replace('nan', '')
-    hashtags = str(row['hashtags'])
+    """hashtags = str(row['hashtags'])
     hashtags = hashtags.replace('[', '')
     hashtags = hashtags.replace(']', '')
     hashtags = hashtags.replace('\'', '')
     hashtags = hashtags.replace(',', '')
-    text = hashtags + ' '+ caption_original
+    text = hashtags + ' '+ caption_original"""
     #print(text)
     text = text.replace('’', '\'')
     tokens = tokenizer.tokenize(text.split())            
@@ -148,6 +155,9 @@ for filename in filePaths:
     basename = os.path.basename(filename)
     outputFileName = outputDir + basename
     data_df = pd.read_csv(filename, encoding = 'utf-8')
+    # drop these columns from the input data which come from previous analysis
+    # and should be ignored
+    data_df = data_df.drop(['category','words_matched_list'], axis=1)
     if data_df.shape[0] < 1:
         data_df.to_csv(outputFileName, index=None) 
         continue
@@ -158,7 +168,7 @@ for filename in filePaths:
     
     #display(data_df[['words_matched_list', 'lemmatized_text','matched_keywords', 'category']])
     output_list = data_df.columns.tolist()
-    output_list.remove('words_matched_list')
+    #output_list.remove('words_matched_list')
     output_list.remove('lang')
     #output_list.remove('lemmatized_text')
     output_list.append('category')

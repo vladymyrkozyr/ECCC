@@ -28,7 +28,7 @@ pd.options.display.max_rows = 30
 # In[2]:
 
 
-keywords_chosen = 'Keywords_ECCC_EN.csv'
+#keywords_chosen = 'Keywords_ECCC_EN.csv'
 
 data_folder = './Accounts/*.csv'
 
@@ -77,7 +77,7 @@ def lemmatize_keywords(col):
 
 
 # load keywords list
-pd.options.display.max_rows = 10
+#pd.options.display.max_rows = 10
 KEYWORD_COL = ['Social', 'Economical', 'Environmental']
 keywords_df = pd.read_csv(keywords_chosen, encoding='utf-8')   # "ISO-8859-1"
 lemma_keywords_df = pd.DataFrame(columns=KEYWORD_COL)
@@ -147,7 +147,7 @@ def find_category(row):
 # In[14]:
 
 
-pd.options.display.max_rows = 100
+#pd.options.display.max_rows = 100
 # read csv files and save targt columns to dataframe
 filePaths = glob.glob(data_folder)  
 for filename in filePaths:

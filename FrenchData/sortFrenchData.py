@@ -9,17 +9,10 @@ import os
 import pandas as pd
 
 from langdetect import detect
-import nltk
 #nltk.download()   # comment after first download
 from nltk.tokenize import wordpunct_tokenize, MWETokenizer
 from nltk.corpus import stopwords
-from nltk.stem.wordnet import WordNetLemmatizer
-import gensim
-from gensim import corpora
 import string
-from numbers import Number
-from pprint import pprint
-import logging
 import operator
 from FrenchLefffLemmatizer.FrenchLefffLemmatizer import FrenchLefffLemmatizer
 
@@ -34,7 +27,7 @@ keywords_chosen = 'Keywords_ECCC_FR.csv'
 
 data_folder = './Accounts/*.csv'
 
-CSV_COLUMNS = ['caption_cleaned', 'hashtags']
+CSV_COLUMNS = ['caption_original', 'hashtags']
 
 
 # In[3]:
@@ -78,7 +71,7 @@ def lemmatize_keywords(col):
 # load keywords list
 pd.options.display.max_rows = 10
 KEYWORD_COL = ['Social', 'Economical', 'Environmental']
-keywords_df = pd.read_csv(keywords_chosen, encoding='latin-1')   # "ISO-8859-1"
+keywords_df = pd.read_csv(keywords_chosen, encoding='utf-8')   # "ISO-8859-1"
 lemma_keywords_df = pd.DataFrame(columns=KEYWORD_COL)
 for col in KEYWORD_COL:
     lemma_keywords_df[col] = keywords_df[col].astype(str).apply(lemmatize_keywords)
@@ -104,14 +97,15 @@ tokenizer = MWETokenizer(multi_word)
 # In[8]:
 
 
-def lemmatize_text(row): 
-    caption_cleaned =  str(row['caption_cleaned']).replace('nan', '')
+def lemmatize_text(row):
+    caption_original =  str(row['caption_original']).replace('nan', '')
+    #caption_cleaned =  str(row['caption_cleaned']).replace('nan', '')
     hashtags = str(row['hashtags'])
     hashtags = hashtags.replace('[', '')
     hashtags = hashtags.replace(']', '')
     hashtags = hashtags.replace('\'', '')
     hashtags = hashtags.replace(',', '')
-    text = hashtags + ' '+ caption_cleaned
+    text = hashtags + ' '+ caption_original
     #print(text)
     text = text.replace('’', '\'')
     tokens = tokenizer.tokenize(text.split())            
@@ -157,7 +151,7 @@ for filename in filePaths:
     if data_df.shape[0] < 1:
         data_df.to_csv(outputFileName, index=None) 
         continue
-    data_df['lang'] = data_df['caption_cleaned'].astype(str).apply(detect_lang)
+    data_df['lang'] = data_df['caption_original'].astype(str).apply(detect_lang)
     #wrong_lang = data_df[data_df['lang'] != 'fr'].shape[0]
     data_df['lemmatized_text'] = data_df.apply(lemmatize_text, axis=1)
     data_df['matched_keywords'], data_df['category'] = zip(*data_df.apply(find_category, axis=1))

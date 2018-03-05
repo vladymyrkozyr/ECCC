@@ -4,6 +4,7 @@ import pandas as pd
 import itertools
 import operator
 import numpy as np
+import collections
 data_folder = './Accounts/*.csv'
 
 outputDir = os.path.dirname(data_folder) + '/output/'
@@ -28,14 +29,17 @@ print hashtags
 
 l=`hashtags`.replace('[', '').replace(']', '').replace('"','').replace("'",'').replace(' ','').split(',')
 
+#print collections.Counter(l).most_common(1000)
 
-
-l=sorted(list(set(l)))
-print l 
-
-k=pd.DataFrame({'hashtags':l})
+l=list(collections.Counter(l).most_common(1000))
+top1000=[]
+for i in l:
+    top1000.append(i[0])
+print top1000
+print l
+k=pd.DataFrame({'hashtags':top1000})
     
 k.to_csv('hashtags.csv',index=None)
-#    
+    
 #    output_df = data_df[output_list]
 #    output_df.to_csv(outputFileName, index=None)   

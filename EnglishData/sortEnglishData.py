@@ -39,7 +39,7 @@ CSV_COLUMNS = ['caption_cleaned', 'hashtags']
 
 
 # create output directory
-outputDir = os.path.dirname(data_folder) + '/output/'
+outputDir = os.path.dirname(data_folder) + '/output_chelsea/'
 if not os.path.exists(outputDir):
     os.makedirs(outputDir)
 
@@ -113,15 +113,16 @@ tokenizer = MWETokenizer(multi_word)
 
 def lemmatize_text(row): 
     #print(row['Unnamed: 0'])
-    caption_cleaned =  str(row['caption_cleaned']).replace('nan', '')
+    #caption_cleaned =  str(row['caption_cleaned']).replace('nan', '')
     # because the "hashtags" column is a string but not a list anymore, the following removes [,]
-    hashtags = str(row['hashtags'])
-    hashtags = hashtags.replace('[', '')
-    hashtags = hashtags.replace(']', '')
-    hashtags = hashtags.replace('\'', '')
-    hashtags = hashtags.replace(',', '')
+    #hashtags = str(row['hashtags'])
+    #hashtags = hashtags.replace('[', '')
+    #hashtags = hashtags.replace(']', '')
+    #hashtags = hashtags.replace('\'', '')
+    #hashtags = hashtags.replace(',', '')
     # keyword search is done on both cleaned caption and hashtags
-    text = hashtags + ' '+ caption_cleaned
+    #text = hashtags + ' '+ caption_cleaned
+    text = str(row['caption_original'])
     #print(text)
     text = text.replace('’', '\'')
     tokens = tokenizer.tokenize(text.split())   
@@ -157,7 +158,7 @@ def find_category(row):
     return keywords_found, category
 
 
-# In[8]:
+# In[14]:
 
 
 pd.options.display.max_rows = 100
@@ -172,15 +173,21 @@ for filename in filePaths:
         data_df.to_csv(outputFileName, index=None) 
         continue
     #data_df['lang'] = data_df['caption_cleaned'].astype(str).apply(detect_lang)
-    data_df = data_df.drop(['category','words_matched_list'], axis=1)
+    #data_df = data_df.drop(['category', 'words_matched_list'], axis=1)
+    data_df.fillna('')
     #wrong_lang = data_df[data_df['lang'] != 'en'].shape[0]
-    data_df['lemmatized_text'] = data_df.apply(lemmatize_text, axis=1)
+    try:
+        data_df['lemmatized_text'] = data_df.apply(lemmatize_text, axis=1)
+    except:
+        print('cannot process file: ' + basename)
+        continue
     data_df['matched_keywords'], data_df['category'] = zip(*data_df.apply(find_category, axis=1))
     
     #display(data_df[['words_matched_list', 'lemmatized_text','matched_keywords', 'category']])
     output_list = data_df.columns.tolist()
-    #output_list.remove('lang')
+    output_list.remove('category')
     output_list.remove('lemmatized_text')
     output_list.append('category')
     output_df = data_df[output_list]
     output_df.to_csv(outputFileName, index=None)    
+

@@ -5,7 +5,7 @@ import itertools
 import operator
 import numpy as np
 import collections
-data_folder = './Accounts/*.csv'
+data_folder = './Accounts/output_chelsea/*.csv'
 
 outputDir = os.path.dirname(data_folder) + '/output/'
 
@@ -20,7 +20,8 @@ for filename in filePaths:
     for i, hashtag_list in data_df.iterrows():
     #for hashtag_list in data_df['hashtags']:
         #for h in hashtag_list['hashtags']:
-        hashtags.append(hashtag_list['hashtags'])
+        if hashtag_list['category']=='unknown':
+            hashtags.append(hashtag_list['hashtags'])
         #print hashtags
         
 #hashtags = reduce(operator.add, hashtags)
@@ -39,7 +40,7 @@ print top1000
 print l
 k=pd.DataFrame({'hashtags':top1000})
     
-k.to_csv('hashtags.csv',index=None)
+k.to_csv('hashtags_of_unknown_posts.csv',index=None)
     
 #    output_df = data_df[output_list]
 #    output_df.to_csv(outputFileName, index=None)   

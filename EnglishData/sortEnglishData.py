@@ -32,7 +32,7 @@ keywords_chosen = 'Keywords_ECCC_EN.csv'
 
 data_folder = './Accounts/*.csv'
 
-CSV_COLUMNS = ['caption_cleaned', 'hashtags']
+CSV_COLUMNS = ['caption_original']
 
 
 # In[3]:

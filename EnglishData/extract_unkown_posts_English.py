@@ -5,7 +5,7 @@ import pandas as pd
 
 pd.options.display.max_rows = 30
 
-data_folder = './ECCC/FrenchData/Accounts/Output/*.csv'
+data_folder = './ECCC/EnglishData/Accounts/Output/*.csv'
 
 CSV_COLUMNS = ['caption_original', 'category', 'account_name']
 
@@ -23,4 +23,4 @@ for f in filePaths:
     df = df[CSV_COLUMNS]
     data_df = pd.concat([data_df, df])
 data_df = data_df.loc[data_df['category'] == 'unknown']
-data_df.to_csv('allpostswithUnknown.csv', index=CSV_COLUMNS)
+data_df.to_csv('allpostswithUnknown_English.csv', index=CSV_COLUMNS)

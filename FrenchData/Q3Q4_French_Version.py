@@ -6,38 +6,31 @@
 
 import glob
 import os
-import sys
 import pandas as pd
-import nltk
+from langdetect import detect
 #nltk.download()   # comment after first download
 from nltk.tokenize import MWETokenizer
 from nltk.corpus import stopwords
-from nltk.stem.wordnet import WordNetLemmatizer
-import gensim
-from gensim import corpora
 import string
-from numbers import Number
-from pprint import pprint
-import logging
 import operator
 from FrenchLefffLemmatizer.FrenchLefffLemmatizer import FrenchLefffLemmatizer
-
-pd.options.display.max_rows = 30
 
 
 # In[2]:
 
 
-keywords_chosen = 'Keywords_ECCC_FR.csv'
+keywords_chosen = '13_FSDS_Goals_Keywords_FR.csv'
 
-data_folder = './Accounts/*.csv'
+data_folder = './Accounts/output/*.csv'
+
+CSV_COLUMNS = ['caption_cleaned', 'hashtags']
 
 
 # In[3]:
 
 
 # create output directory
-outputDir = os.path.dirname(data_folder) + '/output/'
+outputDir = os.path.dirname(data_folder).replace('output', 'q3q4_output') + '/'
 if not os.path.exists(outputDir):
     os.makedirs(outputDir)
 
@@ -62,7 +55,7 @@ lemma = FrenchLefffLemmatizer()    # French lemmatizer
 def lemmatize_keywords(col):
     if str(col).lower() == 'nan':
         return ''
-    return '_'.join(lemma.lemmatize(word).lower() for word in col.split()) 
+    return '_'.join(lemma.lemmatize(word).lower() for word in col.replace('’', '\'').replace('.', '').split()) #
 
 
 # In[6]:
@@ -99,14 +92,6 @@ tokenizer = MWETokenizer(multi_word)
 # In[7]:
 
 
-for word in keywords_list:
-    if len(word) < 3:
-        print(word)
-
-
-# In[8]:
-
-
 def lemmatize_text(row): 
     # we are using the original text in the caption_original column because
     # the script we originally used to clean the data didn't handle the French
@@ -115,6 +100,7 @@ def lemmatize_text(row):
     # however all the cleaning (tokenizing, removal of unnecessary punctuation,
     # and lemmatization is now done right here in this script and it's done
     # correctly for French
+    
     text = str(row['caption_original']).replace('nan', '')
     #print(text)
     text = text.replace('’', '\'')
@@ -151,10 +137,10 @@ def find_category(row):
     return keywords_found, category
 
 
-# In[9]:
+# In[8]:
 
 
-pd.options.display.max_rows = 100
+pd.options.display.max_rows = 10
 # read csv files and save targt columns to dataframe
 filePaths = glob.glob(data_folder)  
 for filename in filePaths:
@@ -163,27 +149,18 @@ for filename in filePaths:
     outputFileName = outputDir + basename
     data_df = pd.read_csv(filename, encoding = 'utf-8')
     if data_df.shape[0] < 1:
-        print('this file is empty: ' + basename)
         data_df.to_csv(outputFileName, index=None) 
         continue
-    #data_df['lang'] = data_df['caption_cleaned'].astype(str).apply(detect_lang)
-    #data_df = data_df.drop(['words_matched_list'], axis=1)
-    data_df = data_df.fillna('')
-    #wrong_lang = data_df[data_df['lang'] != 'en'].shape[0]
-    data_df['lemmatized_text'] = 'unknown'
+    #data_df = data_df.drop(['category', 'words_matched_list'], axis=1)
+    data_df.fillna('')
     try:
         data_df['lemmatized_text'] = data_df.apply(lemmatize_text, axis=1)
     except:
-        print('Cannot process file: ' + basename)
-        print("Due to ValueError:", sys.exc_info()[1])
+        print('cannot process file: ' + basename)
         continue
-    data_df['matched_keywords'], data_df['category'] = zip(*data_df.apply(find_category, axis=1))
-    
-    #display(data_df[['words_matched_list', 'lemmatized_text','matched_keywords', 'category']])
+    data_df['FSDS_matched_keywords'], data_df['FSDS_category'] = zip(*data_df.apply(find_category, axis=1))
     output_list = data_df.columns.tolist()
-    output_list.remove('category')
     output_list.remove('lemmatized_text')
-    output_list.append('category')
     output_df = data_df[output_list]
     output_df.to_csv(outputFileName, encoding='utf-8', index=None)    
-
+    

@@ -35,7 +35,7 @@ l=`hashtags`.replace('[', '').replace(']', '').replace('"','').replace("'",'').r
 l=list(collections.Counter(l).most_common(1000))
 top1000=[]
 for i in l:
-    top1000.append('#'+i[0].replace('u#','').replace('#',''))
+    top1000.append(('#'+i[0].replace('u#','').replace('#','')).lower())
 print top1000
 print l
 k=pd.DataFrame({'hashtags':top1000})

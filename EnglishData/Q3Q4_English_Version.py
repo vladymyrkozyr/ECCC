@@ -109,7 +109,7 @@ tokenizer = MWETokenizer(multi_word)
 
 
 def lemmatize_text(row): 
-    text = str(row['caption_original'])
+    text = str(row['caption_cleaned'])
     #print(text)
     text = text.replace('’', '\'')
     tokens = tokenizer.tokenize(text.split())   

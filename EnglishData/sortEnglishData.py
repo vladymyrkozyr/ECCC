@@ -6,6 +6,7 @@
 
 import glob
 import os
+import sys
 import pandas as pd
 
 from langdetect import detect
@@ -32,7 +33,7 @@ keywords_chosen = 'Keywords_ECCC_EN.csv'
 
 data_folder = './Accounts/*.csv'
 
-CSV_COLUMNS = ['caption_original']
+CSV_COLUMNS = ['caption_cleaned', 'hashtags']
 
 
 # In[3]:
@@ -81,28 +82,28 @@ def lemmatize_keywords(col):
 
 
 # load keywords list
-pd.options.display.max_rows = 10
-KEYWORD_COL = ['Social', 'Economical', 'Environmental']
-keywords_df = pd.read_csv(keywords_chosen, encoding='utf-8')   # "ISO-8859-1"
-lemma_keywords_df = pd.DataFrame(columns=KEYWORD_COL)
-for col in KEYWORD_COL:
+pd.options.display.max_rows = 100
+keywords_df = pd.read_csv(keywords_chosen, encoding='latin-1')   # "ISO-8859-1"
+KEYWORDS_COLS = keywords_df.columns
+lemma_keywords_df = pd.DataFrame(columns=KEYWORDS_COLS)
+category_dict = {}
+keywords_list = set()
+for col in KEYWORDS_COLS:
     lemma_keywords_df[col] = keywords_df[col].astype(str).apply(lemmatize_keywords)
-#display(lemma_keywords_df)
-soc_list = set(lemma_keywords_df['Social'].tolist())
-econ_list = set(lemma_keywords_df['Economical'].tolist())
-env_list = set(lemma_keywords_df['Environmental'].tolist())
-keywords_list = soc_list.union(econ_list).union(env_list)
+    category_dict[col] = set(lemma_keywords_df[col].tolist())
+    try:
+        category_dict[col].remove('')
+    except:
+        pass
+    keywords_list = keywords_list.union(category_dict[col])
+
 
 # if there are punctuations in the keywords list, these punctuation will be kept regardless of puncturation removal step
-punc_keep = set()
 for word in keywords_list:
     for char in word:
         if char in exclude:
-            punc_keep.add(char)
-
-for punc in punc_keep:
-    exclude.remove(punc)
-
+            exclude.remove(char)
+            
 # Add all words in the given keyword list to pre-defined token dictionary
 multi_word = [w.split('_') for w in keywords_list ]   #if '_' in w 
 tokenizer = MWETokenizer(multi_word)
@@ -111,17 +112,15 @@ tokenizer = MWETokenizer(multi_word)
 # In[7]:
 
 
+for word in keywords_list:
+    if len(word) < 3:
+        print(word)
+
+
+# In[8]:
+
+
 def lemmatize_text(row): 
-    #print(row['Unnamed: 0'])
-    #caption_cleaned =  str(row['caption_cleaned']).replace('nan', '')
-    # because the "hashtags" column is a string but not a list anymore, the following removes [,]
-    #hashtags = str(row['hashtags'])
-    #hashtags = hashtags.replace('[', '')
-    #hashtags = hashtags.replace(']', '')
-    #hashtags = hashtags.replace('\'', '')
-    #hashtags = hashtags.replace(',', '')
-    # keyword search is done on both cleaned caption and hashtags
-    #text = hashtags + ' '+ caption_cleaned
     text = str(row['caption_original'])
     #print(text)
     text = text.replace('’', '\'')
@@ -131,7 +130,7 @@ def lemmatize_text(row):
     # remove punctuation
     punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
     # lemmatize
-    lemmas = ' '.join(lemma.lemmatize(word).lower() for word in punc_free.split() if len(lemma.lemmatize(word)) > 2)
+    lemmas = ' '.join(lemma.lemmatize(word).lower() for word in punc_free.split() if len(lemma.lemmatize(word)) > 1)
     # remove stop words that appear after lemmatization
     stop_free_2 = ' '.join(w for w in lemmas.split() if w not in stopWords and len(w) > 1)
     #print(stop_free_2)
@@ -141,24 +140,24 @@ def lemmatize_text(row):
 def find_category(row):
     text = row['lemmatized_text']
     keywords_found = []
-    counter = {'Social': 0, 'Economical': 0, 'Environmental': 0}
+    counter = {}
+    for col in KEYWORDS_COLS:
+        counter[col] = 0
+    #print(counter)
     category = 'unknown'
     for word in text:
-        if word in soc_list:
-            counter['Social'] += 1
-            keywords_found.append(word)
-        if word in econ_list:
-            counter['Economical'] += 1
-            keywords_found.append(word)
-        if word in env_list:
-            counter['Environmental'] += 1
-            keywords_found.append(word)
+        for col in KEYWORDS_COLS:
+            if word in category_dict[col]:
+                #print(word)
+                #print(category_dict[col])
+                keywords_found.append(word)
+                counter[col] += 1
     if len(keywords_found) > 0:
         category = max(counter.items(), key=operator.itemgetter(1))[0]    
     return keywords_found, category
 
 
-# In[14]:
+# In[9]:
 
 
 pd.options.display.max_rows = 100
@@ -170,16 +169,19 @@ for filename in filePaths:
     outputFileName = outputDir + basename
     data_df = pd.read_csv(filename, encoding = 'utf-8')
     if data_df.shape[0] < 1:
+        print('this file is empty: ' + basename)
         data_df.to_csv(outputFileName, index=None) 
         continue
     #data_df['lang'] = data_df['caption_cleaned'].astype(str).apply(detect_lang)
-    #data_df = data_df.drop(['category', 'words_matched_list'], axis=1)
-    data_df.fillna('')
+    #data_df = data_df.drop(['words_matched_list'], axis=1)
+    data_df = data_df.fillna('')
     #wrong_lang = data_df[data_df['lang'] != 'en'].shape[0]
+    data_df['lemmatized_text'] = 'unknown'
     try:
         data_df['lemmatized_text'] = data_df.apply(lemmatize_text, axis=1)
     except:
-        print('cannot process file: ' + basename)
+        print('Cannot process file: ' + basename)
+        print("Due to ValueError:", sys.exc_info()[1])
         continue
     data_df['matched_keywords'], data_df['category'] = zip(*data_df.apply(find_category, axis=1))
     

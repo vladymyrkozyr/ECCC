@@ -12,6 +12,7 @@ from langdetect import detect
 from operator import itemgetter
 from statistics import mean
 import six
+
 reload(sys)
 sys.setdefaultencoding('utf8')
 

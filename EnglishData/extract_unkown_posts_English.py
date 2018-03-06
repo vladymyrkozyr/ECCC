@@ -5,7 +5,7 @@ import pandas as pd
 
 pd.options.display.max_rows = 30
 
-data_folder = './ECCC/EnglishData/Accounts/Output/*.csv'
+data_folder = 'Accounts/output_chelsea/*.csv'
 
 CSV_COLUMNS = ['caption_original', 'category', 'account_name']
 

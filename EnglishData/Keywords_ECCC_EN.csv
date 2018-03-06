@@ -1,186 +1,186 @@
-Social,Economical,Environmental
-family,eating local,biking
-friend,energy,composting
-public concern,growth,recycling
-spouse,infrastructure,climate change
-kids,circular economy,low carbon
-children,finance,oceans
-household,global,coasts
-clean water,globalization,rivers
-sustainable food,innovation,lakes
-nature,innovative,sustainably
-safe,invest,lands
-awareness raising,cost benefit,agriculture
-behaviour change,tradeoffs,marine
-change,materials,natural system
-collaboration,partnership,water
-community,policy,wind energy
-health,movements,nature
-civil,stakeholders,sea level
-culture,rights,solar
-diversity,governance,deforestation
-local,food systems,conservation
-minority,footprint,conserve
-population,food chain,conservation
-race,commission,coastal
-resilience,balance,landscape
-women,money,greenhouse gas
-justice,alternative,geothermal
-discrimination,transport,farming
-interdisciplinary,aboriginal tourism,building
-integrated,green economy,tree
-interconnections,jobs,plants
-human rights,minister,biomass
-future,tourism,bioenergy
-gender,armed forces,biomimicry
-equity,economy fund,carbon offset
-equality,engineering,gold
-engagement,technologies,gas
-entrepreneurship,arctic,pipes
-urban health,green,air
-indigenous,jobs,fisheries 
-multicultural,gdp,ice
-library,income,wildlife federation
-students,poverty,polar knowledge
-crown,unemployment,museum of nature
-first nations,northern,emissions 
-inuit,funding,agriculture
-life expectancy,oil,coast
-provincal ,infrastructure,green 
-federal,government,pollutants
-healthy ,tax,park
-archives,summit,research station
-guard,#industry,reusable materials
-#Indigenouspeoples,#150MoneyTips,mitigation
-#MentalHealth,#canadachina,planet
-#EndTheStigma,#partners,climate
-#MentalHealthWeek,#worldrecord,bird
-#GetLoud,#helicopter,clean
-#BullyingAwarenessWeek,#economy,adaptation
-#ClaimYourPlace,#paperweekcanada,hi-velocity systems
-#WomensHistoryMonth,#innovation,woodland biofuels
-#holidaycountdown,#mexico,hydrogenics
-#College,#infrastructure,cop23
-#girlslovescience,#safety,pristine
-#womenintech,#pipeline,ecosystem
-#internationalwomensday,#ecofriendly,wetlands
-#camp,#expansion,biodiversity
-#camping,#jobs,forest practices
-#youth,#cars,sustainable
-#citizenscience,#electriccars,harmful
-#modernization,#electricvehicles,air quality
-#humanlibrary,#ParisAgreement,dioxide
-#yourenergyfuture,#G7,carbon
-#canadians,#sustainabletourism ,wildlife
-#culture,#COP23,natural
-#ClaimYourPlace,#foodwaste,water use
-#PersonsDay,#MontrealProtocol,species
-#Prosperity,#WorldStatisticsDay,contaminated
-#Health,#UNGA,green tourism
-#EveryChildMatter,#BonnZone,government
-#BecauseOfHer,#OnePlanetSummit,lake 
-#Inuit,#EcoGifts,resources
-#InuitDay,#LocalFoods,populations
-#genderquality,#CarbonFootprint,substance
-#WomensHistoryMonth,#CircularEconom,summit
-#ActionsMatter,#CleanTechnologies,agri-food
-#FlagDay,#GlobalLeadership,guard
-#EqualityMatters,#CoolJobs,biology
-#Family,#Government,#ClimateChange
-#drone,#Parliament,#Yellowknife
-#nursing,#MapleLeaf,#GiantMine
-#WorldMentalHealthDay,#KigaliAmendment,#RightWhale
-#CanadaRemembers,,#OceansProtectionPlan
-#Equality,,#MarineSafety
-#womeninscience,,#OurCoasts
-#stemgirls,,#SnowyOwl
-#summerfieldwork,,#inondations
-#fieldwork,,#sea
-#fitgoals,,#Ice
-#WomensHistoryMonth,,#Freezingspray
-#FamousFive,,#WorldEnviromentDay
-#UNGA,,#Seaway
-#PMYouthCouncil,,#Icebreaking
-#MyActionMatter,,#Searchandrescue
-#WorldKindnessDay,,#geoscience
-#ScienceLiteracyWeek!,,#trees
-#mindthegap,,#geography
-#RaspberryCakeDay,,#forest
-#MakeaDifference,,#environment
-#Youth4Innovation,,#climatechangeawareness
-#MothersDay,,#electricvehicle
-#MotherNature,,#nationalforestweek
-#GreenHalloween,,#arctic
-#WorldSmileDay,,#canadianarctic
-#SciLit17,,#arcticscience
-#VeteransWeek,,#climatescience
-#InternationalStudentDay,,#naturalresources
-,,#hiking
-,,#platinum
-,,#greenbuilding
-,,#lab
-,,#solar
-,,#solarenergy
-,,#alternativefuel
-,,#cdnforests
-,,#fossil
-,,#limestone
-,,#genenergy
-,,#energy
-,,#lowcarbon
-,,#cleanenergy
-,,#smartgrid
-,,#cleantech
-,,#northpole
-,,#wildlife
-,,#cleangrowth
-,,#insects
-,,#windenergy
-,,#energyfuture
-,,#renewables
-,,#nuclearenergy
-,,#landscape
-,,#plane
-,,#nuclear
-,,#ice
-,,#oilandgas
-,,#petroleum
-,,#naturalgas
-,,#battery
-,,#electricity
-,,#Eclipse
-,,#BiodiversityDay
-,,#species
-,,#withnature
-,,#WasteReductionWeek
-,,#SolarEclipse2017
-,,#WorldOceansDay
-,,#BeatPollution
-,,#CleanSeas
-,,#OnePlanet
-,,#PolarBears
-,,#PollinatorWeek
-,,#ClimateAction
-,,#CANClimateAction
-,,#climatecha
-,,#ChiefScienceAdvisor
-,,#renewable
-,,#birds
-,,#WorldHabitatDay
-,,#COP23
-,,#BCWildfires
-,,#BatSquad
-,,#bats
-,,#Batweek
-,,#CanadianRiversDay
-,,#Microbeads
-,,#MotherNature
-,,#LakeWinnipeg
-,,#WorldSnakeDay
-,,#hurricanes
-,,#DarkSkyPreserve
-,,#WorldWaterWeek
-,,#PoweringPastCoal
-,,#CleanUpTheWorld
-,,#SpeciesAtRisk
-,,#conservation2020ca
+Social,Economical,Environmental,
+family,eating local,biking,
+friend,energy,composting,
+public concern,growth,recycling,
+spouse,infrastructure,climate change,
+kids,circular economy,low carbon,
+children,finance,oceans,
+household,global,coasts,
+clean water,globalization,rivers,
+sustainable food,innovation,lakes,
+nature,innovative,sustainably,
+safe,invest,lands,
+awareness raising,cost benefit,agriculture,
+behaviour change,tradeoffs,marine,
+change,materials,natural system,
+collaboration,partnership,water,
+community,policy,wind energy,
+health,movements,nature,
+civil,stakeholders,sea level,
+culture,rights,solar,
+diversity,governance,deforestation,
+local,food systems,conservation,
+minority,footprint,conserve,
+population,food chain,conservation,
+race,commission,coastal,
+resilience,balance,landscape,
+women,money,greenhouse gas,
+justice,alternative,geothermal,
+discrimination,transport,farming,
+interdisciplinary,aboriginal tourism,building,
+integrated,green economy,tree,
+interconnections,jobs,plants,
+human rights,minister,biomass,
+future,tourism,bioenergy,
+gender,armed forces,biomimicry,
+equity,economy fund,carbon offset,
+equality,engineering,gold,
+engagement,technologies,gas,
+entrepreneurship,arctic,pipes,
+urban health,green,air,
+indigenous,jobs,fisheries ,
+multicultural,gdp,ice,
+library,income,wildlife federation,
+students,poverty,polar knowledge,
+crown,unemployment,museum of nature,
+first nations,northern,emissions ,
+inuit,funding,agriculture,
+life expectancy,oil,coast,
+provincal ,infrastructure,green ,
+federal,government,pollutants,
+healthy ,tax,park,
+archives,summit,research station,
+guard,#industry,reusable materials,
+#indigenouspeoples,#150moneytips,mitigation,
+#mentalhealth,#canadachina,planet,
+#endthestigma,#partners,climate,
+#mentalhealthweek,#worldrecord,bird,
+#getloud,#helicopter,clean,
+#bullyingawarenessweek,#economy,adaptation,
+#claimyourplace,#paperweekcanada,hi-velocity systems,
+#womenshistorymonth,#innovation,woodland biofuels,
+#holidaycountdown,#mexico,hydrogenics,
+#college,#infrastructure,cop23,
+#girlslovescience,#safety,pristine,
+#womenintech,#pipeline,ecosystem,
+#internationalwomensday,#ecofriendly,wetlands,
+#camp,#expansion,biodiversity,
+#camping,#jobs,forest practices,
+#youth,#cars,sustainable,
+#citizenscience,#electriccars,harmful,
+#modernization,#electricvehicles,air quality,
+#humanlibrary,#parisagreement,dioxide,
+#yourenergyfuture,#g7,carbon,
+#canadians,#sustainabletourism ,wildlife,
+#culture,#cop23,natural,
+#claimyourplace,#foodwaste,water use,
+#personsday,#montrealprotocol,species,
+#prosperity,#worldstatisticsday,contaminated,
+#health,#unga,green tourism,
+#everychildmatter,#bonnzone,government,
+#becauseofher,#oneplanetsummit,lake ,
+#inuit,#ecogifts,resources,
+#inuitday,#localfoods,populations,
+#genderquality,#carbonfootprint,substance,
+#womenshistorymonth,#circulareconom,summit,
+#actionsmatter,#cleantechnologies,agri-food,
+#flagday,#globalleadership,guard,
+#equalitymatters,#cooljobs,biology,
+#family,#government,#climatechange,
+#drone,#parliament,#yellowknife,
+#nursing,#mapleleaf,#giantmine,
+#worldmentalhealthday,#kigaliamendment,#rightwhale,
+#canadaremembers,,#oceansprotectionplan,
+#equality,,#marinesafety,
+#womeninscience,,#ourcoasts,
+#stemgirls,,#snowyowl,
+#summerfieldwork,,#inondations,
+#fieldwork,,#sea,
+#fitgoals,,#ice,
+#womenshistorymonth,,#freezingspray,
+#famousfive,,#worldenviromentday,
+#unga,,#seaway,
+#pmyouthcouncil,,#icebreaking,
+#myactionmatter,,#searchandrescue,
+#worldkindnessday,,#geoscience,
+#scienceliteracyweek!,,#trees,
+#mindthegap,,#geography,
+#raspberrycakeday,,#forest,
+#makeadifference,,#environment,
+#youth4innovation,,#climatechangeawareness,
+#mothersday,,#electricvehicle,
+#mothernature,,#nationalforestweek,
+#greenhalloween,,#arctic,
+#worldsmileday,,#canadianarctic,
+#scilit17,,#arcticscience,
+#veteransweek,,#climatescience,
+#internationalstudentday,,#naturalresources,
+,,#hiking,
+,,#platinum,
+,,#greenbuilding,
+,,#lab,
+,,#solar,
+,,#solarenergy,
+,,#alternativefuel,
+,,#cdnforests,
+,,#fossil,
+,,#limestone,
+,,#genenergy,
+,,#energy,
+,,#lowcarbon,
+,,#cleanenergy,
+,,#smartgrid,
+,,#cleantech,
+,,#northpole,
+,,#wildlife,
+,,#cleangrowth,
+,,#insects,
+,,#windenergy,
+,,#energyfuture,
+,,#renewables,
+,,#nuclearenergy,
+,,#landscape,
+,,#plane,
+,,#nuclear,
+,,#ice,
+,,#oilandgas,
+,,#petroleum,
+,,#naturalgas,
+,,#battery,
+,,#electricity,
+,,#eclipse,
+,,#biodiversityday,
+,,#species,
+,,#withnature,
+,,#wastereductionweek,
+,,#solareclipse2017,
+,,#worldoceansday,
+,,#beatpollution,
+,,#cleanseas,
+,,#oneplanet,
+,,#polarbears,
+,,#pollinatorweek,
+,,#climateaction,
+,,#canclimateaction,
+,,#climatecha,
+,,#chiefscienceadvisor,
+,,#renewable,
+,,#birds,
+,,#worldhabitatday,
+,,#cop23,
+,,#bcwildfires,
+,,#batsquad,
+,,#bats,
+,,#batweek,
+,,#canadianriversday,
+,,#microbeads,
+,,#mothernature,
+,,#lakewinnipeg,
+,,#worldsnakeday,
+,,#hurricanes,
+,,#darkskypreserve,
+,,#worldwaterweek,
+,,#poweringpastcoal,
+,,#cleanuptheworld,
+,,#speciesatrisk,
+,,#conservation2020ca,

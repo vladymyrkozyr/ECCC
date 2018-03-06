@@ -184,4 +184,3 @@ for filename in filePaths:
     output_list.append('category')
     output_df = data_df[output_list]
     output_df.to_csv(outputFileName, index=None)    
-

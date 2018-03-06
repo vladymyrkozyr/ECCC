@@ -171,9 +171,9 @@ for filename in filePaths:
     #output_list.remove('words_matched_list')
     output_list.remove('lang')
     #output_list.remove('lemmatized_text')
-    output_list.append('category')
+    #output_list.append('category')
     output_df = data_df[output_list]
-    output_df.to_csv(outputFileName, index=None)    
+    output_df.to_csv(outputFileName, encoding='utf-8', index=None)
 
 
 # In[9]:

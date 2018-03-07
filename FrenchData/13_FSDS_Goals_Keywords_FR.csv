@@ -32,8 +32,8 @@ milieux humides",animal,traitement,pesticide,zones sauvages,cours de l'eau
 développement soutenable,Real Property Association,prospér,électricité,renouvelable,mollusque,cours d'eau,forestière,adapt,puit,carbone séquestré,parcs nationaux,vélo
 captage du carbone,LEED,économi,services téléphoniques,réduis,changements climatique,Saint-Laurent,forestier,population,Désinfection,oxyde nitreux,parc national,forestier urbain
 ressources naturelles,immeuble,industrie,marchés,non émettrice,biodiversité,Grands Lacs,pollution,espèces exotiques envahissantes,microbiologique,Ministre de l'Agriculture et de l'Agroalimentaire,protèg,vancouver
-pollution,parc automobile,secteur,productivité,énergie propre,pêche récréative,lac Winnipeg,espèce en péril,Vie terrestre,,Ministre de la Santé,forêt pluviale tempérée,toronto 
-hydrocarbures,construction,entreprises,manufacturier,hydroélectricité,AMP,phosphore,arbre,autochtone,,Ministre des Pêches et Océans,santé ,winnipeg
+pollution,parc automobile,secteur,productivité,énergie propre,pêche récréative,lac Winnipeg,espèce en péril,Vie terrestre,#QualitéEau,Ministre de la Santé,forêt pluviale tempérée,toronto 
+hydrocarbures,construction,entreprises,manufacturier,hydroélectricité,AMP,phosphore,arbre,autochtone,assainissement,Ministre des Pêches et Océans,santé ,winnipeg
 énergies fossiles,normes,commerce électronique,secteur,nucléaire,écosystèmes côtiers,Accord sur la qualité de l'eau des Grands Lacs,déboisement,boréal,,Affaires autochtones et du Nord Canada,physique,edmonton
 écosystème,Centre pour un gouvernement vert,croissance,effet multiplicateur,Ministre des Ressources naturelle,accidents marins,baie Georgienne,espèces en péril,L'Entente sur la forêt mondiale canadienne,,Agence canadienne d'inspection des aliments,mentale,kelowna
 émissions,pratiques d'achats,mondial,stimuler,Technologies du développement durable Canada ,écosystèmes marins,Région des lacs expérimentaux,flore,voie de disparition,,Agriculture et Agroalimentaire Canada,développement des enfants,victoria
@@ -52,36 +52,64 @@ taxe sur le carbone,,entrepreneuriat,#ModernisationONE,appareils et des ampoules
 économie à faible émission de carbone,,entrepreneurs,ONE,électricité verte,intendance,#RivièresAuxOcéans,canola,tortue,,laitiers,Accès,bonne-santé
 générations futures,,employabilité,#SécuritéFerroviaire,ÉnerGuide,autochtone,estuaire,#PêcheEnBref,#requin,,bleuets,galerie,bien-être
 l’augmentation des niveaux de la mer,#TarificationDuCarbone,chambre de commerce,#TechnologiesPropres,éolienne,pollution,St-Laurent,écologiquement,animaux sauvages,,pétoncles,Aventure,vie saine
-adaptation,#ChangementsClimatiques,libre-echange,#adaptation,solaire,côtièr,la voie maritime du Saint-Laurent,,,,grains,formation,produits chimique
-technologie propre,#IPCC46 ,commercialisation,innover,efficacité énergétique,espèces marines,,,,,#DécouvrezAg,baignade,amiante
+adaptation,#ChangementsClimatiques,libre-echange,#adaptation,solaire,côtièr,la voie maritime du Saint-Laurent,champ,#OiseauxMigrateurs,,grains,formation,produits chimique
+technologie propre,#IPCC46 ,commercialisation,innover,efficacité énergétique,espèces marines, #rivièredesOutaouais,#agcan,refuge,,#DécouvrezAg,baignade,amiante
 dioxyde de carbone,#ActionClimatCAN,commerce,réseau ferroviaire,"Politique de gestion des matières résiduelles
-",#PlandeProtectiondesOcéans,,,,,fruits de mer,activités,projet
-faible émission de carbone,#changementclimatique,marché,#brevets,dioxyde de carbone,pêche,,,,,canneberges,#pêche récré,activité
-émission nul,,couts,#fnemc,#TarificationDuCarbone,maritimes,,,,,petits fruits,pêche,collectivité
-innovation,,export,#ApprodesnaviresGCC,consommation fantôme,maritimes,,,,,exploitation,pêche récré,Participez
-#TarificationDuCarbone,,#CroissancePropre,CNForillon,ampoules DEL,morue,,,,,nourrir,Jeunes Ambassadeurs de Parcs Canada,bien-être
-#ChangementsClimatiques,,progrès,,consommation d’énergie,ZPM du Gully,,,,,ferme,découvrir,maladie cœliaque
-#IPCC46 ,,acheteurs,,#éolien,baleines,,,,,sirop d’érable,#camping,gluten
-consommation d’énergie,,#AECG,,#CanWEA,épaulards,,,,,sols,camping,fermentés
-ampoules DEL,,débouchés,,#TechnologiesPropres,sous-marin,,,,,#JournéeMondialeDesSols,#CanadaC3,bactéries
-consommation de carburant,,#entreprisealimentaire,,#ActionClimatCAN,#SaumonNL,,,,,viande,visite,propices
-#ActionClimatCAN,,exporter ,,#GénÉnergie,baie,,,,,hiver,dehors,#QualitéAir
-#changementclimatique,,produits,,#changementclimatique,Atlantique,,,,,variété,#pnQuttinirpaaq,#PNMI
-#ActionClimatCAN,,exportations,,,anémones,,,,,consommer,#voyage,#JNACanada
-,,#TarificationDuCarbone,,,saumons,,,,,oeufs,#CarteDécouverte,
-,,protéger,,,brise-glace,,,,,bien-être,#ParcsCanada,
-,,ressources,,,#pêche récré,,,,,vignobles,activités extérieures,
-,,collaboration,,,#DéclarationGalway,,,,,laitières,#PêcheBlanche,
-,,scientifique,,,#RivièresAuxOcéans,,,,,engrais,#SousZéro,
-,,#ChangementsClimatiques,,,estuaire,,,,,canola,#DéfiParcs,
-,,adapter,,,St-Laurent,,,,,entreposage des aliments,événements,
-,,#TechnologiesPropres,,,béluga,,,,,pommes de terre,#voyage en nature,
-,,#adaptation,,,la voie maritime du Saint-Laurent,,,,,cultive,voyage en nature,
-,,innover,,,#béluga,,,,,#SaumonNL,animaux sauvages,
-,,#ActionClimatCAN,,,portuaire,,,,,,,
-,,#changementclimatique,,,#Narvals,,,,,,,
-,,CRB Innovations,,,détroit,,,,,,,
-,,#fnemc,,,océaniques,,,,,,,
-,,,,,#requin,,,,,,,
-,,,,,#PêcheEnBref,,,,,,,
-,,,,,#Arctique,,,,,,,
+",#PlandeProtectiondesOcéans,#environnementcanada,récolte,corégone,,fruits de mer,activités,projet
+faible émission de carbone,#changementclimatique,marché,#brevets,dioxyde de carbone,pêche,#GrandsLacs,#bcwildfire,protection,,canneberges,#pêche récré,activité
+émission nul,#ActionClimatique,couts,#fnemc,#TarificationDuCarbone,maritimes,,dunes de sable,#SaumonNL,,petits fruits,pêche,collectivité
+innovation,#ProtocoleDeMontréal,export,#ApprodesnaviresGCC,consommation fantôme,maritimes,,#environnementcanada,#conservation,,exploitation,pêche récré,Participez
+#TarificationDuCarbone,,#CroissancePropre,CNForillon,ampoules DEL,morue,,#RechercheEnArctique,#faune,,nourrir,Jeunes Ambassadeurs de Parcs Canada,bien-être
+#ChangementsClimatiques,,progrès,#Listedesurveillance,consommation d’énergie,ZPM du Gully,,#GrandsFeuxQc,#caribou,,ferme,découvrir,maladie cœliaque
+#IPCC46 ,,acheteurs, #SECURITAS,#éolien,baleines,,,homards,,sirop d’érable,#camping,gluten
+consommation d’énergie,,#AECG,déraillement,#CanWEA,épaulards,,,#EspècesEnvahissantes,,sols,camping,fermentés
+ampoules DEL,,débouchés,#techpropre,#TechnologiesPropres,sous-marin,,,#baleines,,#JournéeMondialeDesSols,#CanadaC3,bactéries
+consommation de carburant,,#entreprisealimentaire,#RechercheEnArctique,#ActionClimatCAN,#SaumonNL,,,habitat faunique,,viande,visite,propices
+#ActionClimatCAN,,exporter ,#Astucesvoyage,#GénÉnergie,baie,,,#ParlonsHabitatDuPoisson,,hiver,dehors,#QualitéAir
+#changementclimatique,,produits,#SécuritéÉnergétique,#changementclimatique,Atlantique,,,phoques,,variété,#pnQuttinirpaaq,#PNMI
+#ActionClimatique,,exportations,#listedesurveillance,#techpropre,anémones,,,#Relevésept,,consommer,#voyage,#JNACanada
+#cop23,,#TarificationDuCarbone,moderniser,#SécuritéÉnergétique,saumons,,,#servicecanadiendelafaune,,oeufs,#CarteDécouverte,centre de conditionnement physique
+#SécuritéÉnergétique,,protéger,,,brise-glace,,,,,bien-être,#ParcsCanada,conditionnement physique
+,,ressources,,,#pêche récré,,,,,vignobles,activités extérieures, #SECURITAS
+,,collaboration,,,#DéclarationGalway,,,,,laitières,#PêcheBlanche,#SiègeDauto
+,,scientifique,,,#RivièresAuxOcéans,,,,,engrais,#SousZéro,biotoxines
+,,#ChangementsClimatiques,,,estuaire,,,,,canola,#DéfiParcs,#bcwildfire
+,,adapter,,,St-Laurent,,,,,entreposage des aliments,événements,#BienvenueAuxRéfugiés
+,,#TechnologiesPropres,,,béluga,,,,,pommes de terre,#voyage en nature,#jouerdehors
+,,#adaptation,,,la voie maritime du Saint-Laurent,,,,,cultive,voyage en nature,#SantéMentale
+,,innover,,,#béluga,,,,,#SaumonNL,animaux sauvages,#océanspropres
+,,#ActionClimatCAN,,,portuaire,,,,,fraises,carte Découverte,#PremiersIntervenants
+,,#changementclimatique,,,#Narvals,,,,,champ,#aventure,déraillement
+,,CRB Innovations,,,détroit,,,,,#agcan,#jouerdehors,#SoyezPrudent
+,,#fnemc,,,océaniques,,,,,récolte,#ParcsCanadaScience,#GrandsFeuxQc
+,,#techpropre,,,#requin,,,,,#coquillages,#SécuritéNautique,#SûretéMaritime
+,,#SécuritéÉnergétique,,,#PêcheEnBref,,,,,#océanspropres,#lhn100,#QualitéEau
+,,croître,,,#Arctique,,,,,,#VoyageFamille,assainissement
+,,#ProtocoleDeMontréal,,,sous-marines,,,,,,ExploreCanada,#powwow
+,,,,,corégone,,,,,,#nature,#SécuritéNautique
+,,,,,Institut océanographique de Bedford,,,,,,,#listedesurveillance
+,,,,,océanographique,,,,,,,#LaisseFaireLeCellulaire
+,,,,,#SaumonNL,,,,,,,Textez plus tard
+,,,,,#NosCôtes,,,,,,,#laser
+,,,,,#MPONL,,,,,,,#pasbrillant
+,,,,,#coquillages,,,,,,,
+,,,,,#portuaire,,,,,,,
+,,,,,homards,,,,,,,
+,,,,,golfe,,,,,,,
+,,,,,#environnementcanada,,,,,,,
+,,,,,#océans,,,,,,,
+,,,,,océans,,,,,,,
+,,,,,#océanpacifique,,,,,,,
+,,,,,#océanatlantique,,,,,,,
+,,,,,#océanscan,,,,,,,
+,,,,,#océanspropres,,,,,,,
+,,,,,#océanscdn,,,,,,,
+,,,,,#océanographie,,,,,,,
+,,,,,#océansarctique,,,,,,,
+,,,,,#déchetsaquatiques,,,,,,,
+,,,,,#SûretéMaritime,,,,,,,
+,,,,,#baleines,,,,,,,
+,,,,,#SécuritéNautique,,,,,,,
+,,,,,#ParlonsHabitatDuPoisson,,,,,,,
+,,,,,phoques,,,,,,,
+,,,,,#Relevésept,,,,,,,

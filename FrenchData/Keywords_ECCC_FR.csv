@@ -2,7 +2,7 @@
 famille,énergie,agriculture
 familles,secteur,les émissions de gaz à effet de serre
 ami,importations,gaz à effet de serre
-copain,import,conservation
+copain,import,#conservation
 copine,imports,environnement
 épouse,industrie,durable
 époux,commerce électronique,soutenable
@@ -91,7 +91,7 @@ communautés,agriculteurs,sommet one planet
 fonctionnaires,capacité,milieux humides
 publique,scientifique,pratiques forestières
 LGBTQ2,érable,substances nocives
-souffert, exporte,qualité de l'air
+souffert,exporte,qualité de l'air
 souvenez,quotas,taxe sur le carbone
 #histoiredesfemmes,occasions,consommation résidentielle d’eau
 pays,#PolitiqueAlimentaireCanada,espèces
@@ -112,8 +112,7 @@ vie,légumineuses,mines
 soldat,grains,espèces sauvages
 aider,#DécouvrezAg,nature
 #Passchendaele100 ,progrès,désertification
-Bibliothèque,fruits de mer,"#désertification
-"
+Bibliothèque,fruits de mer,#désertification
 scientifique,acheteurs,#CANclimateaction
 Publications,confiserie,#JournéeMondialeDelEnvironnement
 points de vue,exportations,santé
@@ -189,11 +188,62 @@ ParcsCanadaIPE,garneau,MPO
 #Soyezcurieux,#ModernisationONE,écologiquement
 #JournéePi,#ApprodesnaviresGCC,#ModernisationONE
 #OptezSciences,CNForillon,parcscanada
-,CommerceCanada,#enviro
-,Canada-Chine,conserve
-,consomment,le Fonds pour dommages à l’#enviro
-,vendus,ParcsCanadaIPE
-,#pourvotreargent,#JournéeMondialeDelEau
-,,#Journéedelourspolaire
-,,#JourneeMondialeDeLenvironnement
-,,#JournéeMondialedesOcéans
+vision,CommerceCanada,#enviro
+communautaire,Canada-Chine,conserve
+Bravo,consomment,le Fonds pour dommages à l’#enviro
+discussion,vendus,ParcsCanadaIPE
+commémore,#pourvotreargent,#JournéeMondialeDelEau
+#HistoireCDN,services de règlement des différends,#Journéedelourspolaire
+#canada150,#Listedesurveillance,#JourneeMondialeDeLenvironnement
+#CLMHC,contrats,#JournéeMondialedesOcéans
+stagiaire,investissement,naturequebec
+Cérémonie,ROPOS_ROV,Gaspésie
+GouvOuvertCan,#SECURITAS,carte Découverte
+#GCCFière,GouvOuvertCan,#OiseauxMigrateurs
+#JeudiRétro,#Budget2016,#examenEE
+#aventure,#Budget2017,ACEE_CEAA
+#BienvenueAuxRéfugiés,#techpropre,AMNC
+#RéfugiésSyriens,#canadaenchine,#EspècesEnPéril
+#jouerdehors,commerciale,Clèthre à feuilles d'aulne
+#LouisSStLaurent,#MarqueCanada,corégone
+#odysci,croître,protection
+#SantéMentale,#PME,océanographique
+#CollineduParlement,,#SaumonNL
+Commémoration,,#NosCôtes
+policiers,,#rivièredesOutaouais
+#EnCeJour,,#MPONL
+#Fiers,,#faune
+Félicitons,,#caribou
+#histoire,,#ParcsCanadaScience
+#PremièresNations,,#environnementcanada
+#Inuits,,#océans
+#UnVisageUnNom,,océans
+#NationMétisse,,#océanpacifique
+#PremièreNation,,#océanatlantique
+#PremiersIntervenants,,#océanscan
+#Premiersrépondants,,#océanspropres
+#SoyezPrudent,,#océanscdn
+#SirWilfridLaurier,,#océanographie
+#GrâceàElle,,#océansarctique
+#SûretéMaritime,,#ActionClimatique
+#Astucesvoyage,,#MarchandisesDangereuses
+assainissement,,#grandslacs
+#powwow,,#QualitéEau
+#terryfox,,#SécuritéÉnergétique
+#LHN100,,poisson
+#VoyageFamille,,phoques
+ExploreCanada,,#Relevésept
+#MardiVoyage,,#ProtocoleDeMontréal
+#JIF2016,,#nature
+#LaisseFaireLeCellulaire,,
+Textez plus tard,,
+#laser,,
+#pasbrillant,,
+#MusiqueAutochtone,,
+
+
+
+
+
+
+

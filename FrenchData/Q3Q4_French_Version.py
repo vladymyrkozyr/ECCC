@@ -21,7 +21,7 @@ from FrenchLefffLemmatizer.FrenchLefffLemmatizer import FrenchLefffLemmatizer
 
 keywords_chosen = '13_FSDS_Goals_Keywords_FR.csv'
 
-data_folder = './Accounts/output/*.csv'
+data_folder = './Accounts/q1_output/*.csv'
 
 CSV_COLUMNS = ['caption_cleaned', 'hashtags']
 
@@ -30,7 +30,7 @@ CSV_COLUMNS = ['caption_cleaned', 'hashtags']
 
 
 # create output directory
-outputDir = os.path.dirname(data_folder).replace('output', 'q3q4_output') + '/'
+outputDir = './Accounts/q3q4_output/'
 if not os.path.exists(outputDir):
     os.makedirs(outputDir)
 

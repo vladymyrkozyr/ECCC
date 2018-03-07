@@ -30,7 +30,7 @@ pd.options.display.max_rows = 30
 
 keywords_chosen = '13_FSDS_Goals_Keywords_EN.csv'
 
-data_folder = './Accounts/output_chelsea/*.csv'
+data_folder = './Accounts/q1_output/*.csv'
 
 CSV_COLUMNS = ['caption_cleaned', 'hashtags']
 
@@ -39,7 +39,7 @@ CSV_COLUMNS = ['caption_cleaned', 'hashtags']
 
 
 # create output directory
-outputDir = os.path.dirname(data_folder).replace('output_chelsea', 'q3q4_output_chelsea') + '/'
+outputDir = './Accounts/q3q4_output/'
 if not os.path.exists(outputDir):
     os.makedirs(outputDir)
 

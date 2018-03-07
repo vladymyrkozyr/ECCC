@@ -37,7 +37,7 @@ data_folder = './Accounts/*.csv'
 
 
 # create output directory
-outputDir = os.path.dirname(data_folder) + '/output/'
+outputDir = os.path.dirname(data_folder) + '/q1_output/'
 if not os.path.exists(outputDir):
     os.makedirs(outputDir)
 

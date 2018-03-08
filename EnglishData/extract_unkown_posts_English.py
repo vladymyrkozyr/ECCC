@@ -5,7 +5,7 @@ import pandas as pd
 
 pd.options.display.max_rows = 30
 
-data_folder = 'Accounts/output_chelsea/*.csv'
+data_folder = 'Accounts/q1_output/*.csv'
 
 CSV_COLUMNS = ['caption_original', 'category', 'account_name']
 
@@ -37,3 +37,8 @@ for f in filePaths:
     data_df = pd.concat([data_df, k])
 #data_df = data_df.loc[data_df['category'] == 'unknown']
 data_df.to_csv('allpostswithUnknown_English.csv')
+
+result = data_df.groupby(['account_name']).size()
+print(result)
+print()
+print("Total unknowns: {}".format(len(data_df)))

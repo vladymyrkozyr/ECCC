@@ -1,0 +1,356 @@
+Social,Economical,Environmental
+family,eating local,biking
+friend,energy,composting
+public concern,growth,recycling
+spouse,infrastructure,climate change
+kids,circular economy,low carbon
+children,finance,oceans
+household,global,coasts
+clean water,globalization,rivers
+sustainable food,innovation,lakes
+nature,innovative,sustainably
+safe,invest,lands
+awareness raising,cost benefit,agriculture
+behaviour change,tradeoffs,marine
+change,materials,natural system
+collaboration,partnership,water
+community,policy,wind energy
+health,movements,nature
+civil,stakeholders,sea level
+culture,rights,solar
+diversity,governance,deforestation
+local,food systems,conservation
+minority,footprint,conserve
+population,food chain,conservation
+race,commission,coastal
+resilience,balance,landscape
+women,money,greenhouse gas
+justice,alternative,geothermal
+discrimination,transport,farming
+interdisciplinary,aboriginal tourism,building
+integrated,green economy,tree
+interconnections,jobs,plants
+human rights,minister,biomass
+future,tourism,bioenergy
+gender,armed forces,biomimicry
+equity,economy fund,carbon offset
+equality,engineering,gold
+engagement,technologies,gas
+entrepreneurship,arctic,pipes
+urban health,green,air
+indigenous,jobs,fisheries 
+multicultural,gdp,ice
+library,income,wildlife federation
+students,poverty,polar knowledge
+crown,unemployment,museum of nature
+first nations,northern,emissions 
+inuit,funding,agriculture
+life expectancy,oil,coast
+provincal ,infrastructure,green 
+federal,government,pollutants
+healthy ,tax,park
+archives,summit,research station
+guard,#industry,reusable materials
+#indigenouspeoples,#150moneytips,mitigation
+#mentalhealth,#canadachina,planet
+#endthestigma,#partners,climate
+#mentalhealthweek,#worldrecord,bird
+#getloud,#helicopter,clean
+#bullyingawarenessweek,#economy,adaptation
+#claimyourplace,#paperweekcanada,hi-velocity systems
+#womenshistorymonth,#innovation,woodland biofuels
+#holidaycountdown,#mexico,hydrogenics
+#college,#infrastructure,cop23
+#girlslovescience,#safety,pristine
+#womenintech,#pipeline,ecosystem
+#internationalwomensday,#ecofriendly,wetlands
+#camp,#expansion,biodiversity
+#camping,#jobs,forest practices
+#youth,#cars,sustainable
+#citizenscience,#electriccars,harmful
+#modernization,#electricvehicles,air quality
+#humanlibrary,#parisagreement,dioxide
+#yourenergyfuture,#g7,carbon
+#canadians,#sustainabletourism ,wildlife
+#culture,#cop23,natural
+#claimyourplace,#foodwaste,water use
+#personsday,#montrealprotocol,species
+#prosperity,#worldstatisticsday,contaminated
+#health,#unga,green tourism
+#everychildmatter,#bonnzone,government
+#becauseofher,#oneplanetsummit,lake 
+#inuit,#ecogifts,resources
+#inuitday,#localfoods,populations
+#genderquality,#carbonfootprint,substance
+#womenshistorymonth,#circulareconom,summit
+#actionsmatter,#cleantechnologies,agri-food
+#flagday,#globalleadership,guard
+#equalitymatters,#cooljobs,biology
+#family,#government,#climatechange
+#drone,#parliament,#yellowknife
+#nursing,#mapleleaf,#giantmine
+#worldmentalhealthday,#kigaliamendment,#rightwhale
+#canadaremembers,#saveenergy,#oceansprotectionplan
+#equality,#budget2016,#marinesafety
+#womeninscience,#blackfriday,#ourcoasts
+#stemgirls,#partners,#snowyowl
+#summerfieldwork,#recall,#inondations
+#fieldwork,#flysmart,#sea
+#fitgoals,#transportation,#ice
+#womenshistorymonth,#energyefficiency,#freezingspray
+#famousfive,#energyefficient,#worldenviromentday
+#unga,#fieldwork,#seaway
+#pmyouthcouncil,#job,#icebreaking
+#myactionmatter,#trucks,#searchandrescue
+#worldkindnessday,#itf17,#geoscience
+#scienceliteracyweek!,#beijing,#trees
+#mindthegap,#pwyp,#geography
+#raspberrycakeday,#rsw2016,#forest
+#makeadifference,#cdninnovation,#environment
+#youth4innovation,#nss,#climatechangeawareness
+#mothersday,#premisesidweek,#electricvehicle
+#mothernature,#agpartners,#nationalforestweek
+#greenhalloween,#energystarcanada,#arctic
+#worldsmileday,#derailment,#canadianarctic
+#scilit17,#blueberrymonth,#arcticscience
+#veteransweek,#flight,#climatescience
+#internationalstudentday,#infra,#naturalresources
+#dyk,#maple,#hiking
+#goc,maple,#platinum
+#womeninscience,syrup,#greenbuilding
+#enjoycanada,#cleantech,#lab
+#firstnations,#westcdnag,#solar
+#traveltheworld,#iuu,#solarenergy
+#becauseofher,#hydrography,#alternativefuel
+#lifeincanada,#rail,#cdnforests
+#winterfun,#letstalkmarinetransportation,#fossil
+#aghalloween,#nspoli,#limestone
+#nunavut,#municipal,#genenergy
+#equalitymatters,#greenhouse,#energy
+#camping,#stem,#lowcarbon
+#nationalaboriginalday,#projectnaming,#cleanenergy
+#motivationmonday,#nationalminingweek,#smartgrid
+#sustainability,#edmonton,#cleantech
+#canada150,#quebeccity,#northpole
+#indigenous,#distracteddriving,#wildlife
+#eareview,#boxingday,#cleangrowth
+#triviatuesday,#pilots,#insects
+#foodpolicy4canada,#cdninnovation,#windenergy
+#ccgcollege,#keepingcanadasafe,#energyfuture
+#securitas,#montrealprotocol,#renewables
+#wanderlust,#desgroseilliers,#nuclearenergy
+#travel,#zeroemission,#landscape
+#safeboating,#sidney,#plane
+#history,#stem,#nuclear
+#staysafe,#unesco,#ice
+#naturephotography,#cannor,#oilandgas
+#traveltips,#deputycommissionerops,#petroleum
+#canadianflag,#financialfirsts,#naturalgas
+#job,#bell412epi,#battery
+#instatravel,#denmark,#electricity
+#adventure,#save5,#eclipse
+#stemgirls,#cop22,#biodiversityday
+#accessible,#agnpf,#species
+#accessibility,#extractives,#withnature
+#girlslovescience,#ontario,#wastereductionweek
+#railsafety,#nebmodernization,#solareclipse2017
+#video,#getwhatyoupayfor,#worldoceansday
+#vancouver,#travelbc,#beatpollution
+#shipping,#guardian2017,#cleanseas
+#alberta,#canadainchina,#oneplanet
+#firstnation,#sendaiamericas,#polarbears
+#novascotia,,#pollinatorweek
+#yukon,,#climateaction
+#victoria,,#canclimateaction
+#summertips,,#climatecha
+#traveltuesday,,#chiefscienceadvisor
+#discoverypass,,#renewable
+#discoverypass,,#birds
+#ilovetravel,,#worldhabitatday
+#photos,,#cop23
+#summer,,#bcwildfires
+#naturelovers,,#batsquad
+#photooftheday,,#bats
+#womenintech,,#batweek
+#transportation2030,,#canadianriversday
+#savemoney,,#microbeads
+#home,,#mothernature
+#flickr,,#lakewinnipeg
+#lifejacket,,#worldsnakeday
+#drones,,#hurricanes
+#seafood,,#darkskypreserve
+#leavethephonealone,,#worldwaterweek
+#fnim,,#poweringpastcoal
+#wildernessculture,,#cleanuptheworld
+#starwarsday,,#speciesatrisk
+#cdninnovation,,#conservation2020ca
+#subscribersunday,,#cdnag
+#navigationprotectionact,,#ccg
+#santa,,#ourcoasts
+#letstalkwhales,,#explorecanada
+#dayofwomeninscience,,#dfonl
+#christmas,,#oceansprotectionplan
+#airquality,,#energystarcanada
+#precisionag,,#genenergy
+#pokemongo,,#worldoceansday
+#iwanttowork,,#wanderlust
+#indspireawards,,#shellfish
+#backtoschool,,#ccgproud
+#aora,,#travelgram
+#summer,,#parkschallenge
+#familytravel,,#whale
+#noiseandvibration,,#speciesatrisk
+#liveoutdoors,,#wildlifewednesday
+#wisefi,,#parkscanada
+#teamwork,,#worldenvironmentday
+#asiancarpsolutions,,#canarctic
+#fridayfeeling,,#dfo
+#aboriginal,,#greatlakes
+#mcmemorialcup,,#rightwhales
+#bioexpo17,,#letstalkwhales
+#sunset,,#sharkweek
+#canadian,,#mycoast
+#heritage,,#wildsalmonpolicy
+#greenholiday,,#cdnoceans
+#aquaculture,,#dfoscience
+#traveltheworld,,#nature
+Veterans,,#parkscanadascience
+#CanadaRemembers,,#shark
+#CanadaRemembe,,#salmon
+public,,#birdyear
+service,,#weather
+concern,,#winter
+injustice,,#eastcoast
+suffered,,#prawns
+#youtube,,#park
+#vimy100,,#sprucebudworm
+#aboriginalhistorymonth,,#ccg
+#connectwithnature,,#dothedecon
+#vibration,,#learntocamp
+#twitterchat,,#wildernessculture
+#history,,#hiddengems
+#womenscienceday,,#cdninnovation
+#mikmaq,,#arcticocean2016
+#lancastersound,,#letstalkwhales
+#amazingracecanada,,#odysci
+#deputycommissionerops,,#airquality
+#sunrise,,#invasivespecies
+#funfest,,#precisionag
+#pugwashharbour,,#grasslands
+#mikmaqhistorymonth,,#haidagwaii
+#noise,,#agpartners
+#indigenousyouth,,#energystarcanada
+#servcdns,,#rockfish
+#npsw2017,,#sherbrooke
+#waterquality,,#summer
+#seeandbeseen,,#naiss
+#sirwilliamalexander,,#dolphins
+#boxingday,,#iwd2017
+#gc2020,,#liveoutdoors
+#back2schoolchallenge,,#fraserriver
+#keepingcanadasafe,,#marine
+#capelin,,#periscope
+#adventures,,#corals2017
+#uscg,,#seaspan
+#media,,#gert
+#carseats,,#2018camping
+#adr,,#uparkschallenge
+#happyhalloween,,#lambertchannel
+#firstresponders,,#beach
+#biologistsofinstagram,,#worldenvironmentday
+#tellalieday,,#mining
+#emergencyresponseguidebook,,#fortmcmurray
+#blog,,#fire
+#pcapp,,#herring
+#backtoschool2017,,#grasscarp
+#historyweek2016,,#earthday2017
+#tourismbc,,#polarbearweek
+#snapshot_canada,,#aquaculture
+#aboriginal,,#sharkweek
+#emeraldashborer,,#mineral
+#familyfishing,,#climateresearch
+#epweek,,#newbrunswick
+#maythe4thbewithyou,,#sustainable
+#safedriving,,#iuu
+#greycup,,#nationalpark
+#stayoffthetracks,,#lakeontario
+#nss,,#vancouverisland
+#openingceremony,,#baynessound
+#orangeshirtday,,#hydrography
+#stjohns,,#enviro
+#earlgrey,,#winteriscoming
+#ozoneheroes,,#canadianarctic
+#instagram,,#oceans4us
+#myactionsmatter,,#connectwithnature
+#ufunfest,,#organicweek
+#harbourfest,,#chs
+#indigenouswomen,,#bermuda
+#canadaquiz,,#earthhour
+#ottlrt,,#scientists
+#beboldforchange,,#hurricane
+#tiptuesday,,#bluenose
+#safetyfirst,,#aqhi
+#blackhistorymonth,,#gwaiihaanas
+#wintersolstice,,#seg17
+#emeraldashborer,,#stclairriver
+,,#nspoli
+,,#nlsalmon
+,,#migratorybird
+,,#scaryscience
+,,#snow
+,,#hurricaneseason
+,,#bcex17
+,,#narwhal
+,,#captourmente
+,,#nationalminingweek
+,,#climate150
+,,#sharkawarenessday
+,,#mountains
+,,#nlrecfish
+,,#rombluewhale
+,,#waterquality
+,,#saskatchewan
+,,#breaking
+,,#dfointern
+,,#forestry
+,,#conservation
+,,#environmentalassessment
+,,#shorebird
+,,#environmentweek
+,,#nbstorm
+,,#atlanticcanada
+,,#greatbelugarescue
+,,#irma
+,,#watersafetyweek
+,,#winterincanada
+,,#seaturtles
+,,#savingsalmon
+,,#seaturtleweek
+,,#bird
+,,#greatlakes
+,,#blackice
+,,#eclipse2017
+,,#gulfgoesreusable
+,,#landsat
+,,#ourcoasts
+,,#endangeredspecies
+,,#lakeerie
+,,#laurentian17
+,,#hypothermia
+,,#monarch
+,,#saanich
+,,#biospheremtl
+,,#sciencewithaview
+,,#earthday
+,,#caf
+,,#helptheturtles
+,,#bcwild
+,,#airpollution
+,,#hmserebus
+,,#bioblitz
+,,#climate
+,,#reptiles
+,,#mtl
+,,#epasmartway
+,,#scientists
+,,#talkparks

@@ -40,7 +40,7 @@ CSV_COLUMNS = ['caption_cleaned', 'hashtags']
 
 
 # create output directory
-outputDir = os.path.dirname(data_folder) + '/output_chelsea/'
+outputDir = os.path.dirname(data_folder) + '/q1_output/'
 if not os.path.exists(outputDir):
     os.makedirs(outputDir)
 

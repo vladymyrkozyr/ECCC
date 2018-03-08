@@ -5,7 +5,7 @@ import itertools
 import operator
 import numpy as np
 import collections
-data_folder = './Accounts/output_chelsea/*.csv'
+data_folder = './Accounts/q1_output/*.csv'
 
 outputDir = os.path.dirname(data_folder) + '/output/'
 

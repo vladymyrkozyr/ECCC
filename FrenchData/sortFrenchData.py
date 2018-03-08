@@ -8,17 +8,9 @@ import glob
 import os
 import sys
 import pandas as pd
-import nltk
-#nltk.download()   # comment after first download
 from nltk.tokenize import MWETokenizer
 from nltk.corpus import stopwords
-from nltk.stem.wordnet import WordNetLemmatizer
-import gensim
-from gensim import corpora
 import string
-from numbers import Number
-from pprint import pprint
-import logging
 import operator
 from FrenchLefffLemmatizer.FrenchLefffLemmatizer import FrenchLefffLemmatizer
 
@@ -70,7 +62,7 @@ def lemmatize_keywords(col):
 
 # load keywords list
 pd.options.display.max_rows = 100
-keywords_df = pd.read_csv(keywords_chosen, encoding='latin-1')   # "ISO-8859-1"
+keywords_df = pd.read_csv(keywords_chosen, encoding='utf-8')   # "ISO-8859-1"
 KEYWORDS_COLS = keywords_df.columns
 lemma_keywords_df = pd.DataFrame(columns=KEYWORDS_COLS)
 category_dict = {}

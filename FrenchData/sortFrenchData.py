@@ -112,7 +112,7 @@ def lemmatize_text(row):
     text = text.replace('’', '\'')
     tokens = tokenizer.tokenize(text.split())   
     # remove stop words
-    stop_free = ' '.join(w for w in tokens if w not in stopWords and len(w) > 1)
+    stop_free = ' '.join(w for w in tokens if w.lower() not in stopWords and len(w) > 1)
     # remove punctuation
     punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
     # lemmatize
@@ -174,8 +174,8 @@ for filename in filePaths:
     #display(data_df[['words_matched_list', 'lemmatized_text','matched_keywords', 'category']])
     output_list = data_df.columns.tolist()
     output_list.remove('category')
+    output_list.remove('words_matched_list')
     output_list.remove('lemmatized_text')
     output_list.append('category')
     output_df = data_df[output_list]
     output_df.to_csv(outputFileName, encoding='utf-8', index=None)    
-

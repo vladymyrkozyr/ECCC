@@ -15,6 +15,7 @@ pd.options.display.max_rows = 1000
 # read csv files and save targt columns to dataframe
 filePaths = glob.glob(data_folder)
 data_df = pd.DataFrame()
+x=0
 for f in filePaths:
     print(f)
     df = pd.read_csv(f, encoding='utf-8')
@@ -25,6 +26,7 @@ for f in filePaths:
     cat=[]
     acc=[]
     for i, p in df.iterrows():
+        x+=1
         if p['category']=='unknown' and len(str(p['caption_original']))!=0:
             cap.append(p['caption_original'])
             cat.append(p['category'])
@@ -42,3 +44,4 @@ result = data_df.groupby(['account_name']).size()
 print(result)
 print()
 print("Total unknowns: {}".format(len(data_df)))
+print("Total posts: {}".format(x))

@@ -32,14 +32,12 @@ keywords_chosen = '13_FSDS_Goals_Keywords_EN.csv'
 
 data_folder = './Accounts/q1_output/*.csv'
 
-CSV_COLUMNS = ['caption_cleaned', 'hashtags']
-
 
 # In[3]:
 
 
 # create output directory
-outputDir = './Accounts/q3q4_output/'
+outputDir = os.path.dirname(data_folder).replace('q1_output', 'q3q4_output') + '/'
 if not os.path.exists(outputDir):
     os.makedirs(outputDir)
 
@@ -92,7 +90,7 @@ for col in KEYWORDS_COLS:
     category_dict[col] = set(lemma_keywords_df[col].tolist())
     category_dict[col].remove('')
     keywords_list = keywords_list.union(category_dict[col])
-
+ 
 
 # if there are punctuations in the keywords list, these punctuation will be kept regardless of puncturation removal step
 for word in keywords_list:
@@ -109,12 +107,12 @@ tokenizer = MWETokenizer(multi_word)
 
 
 def lemmatize_text(row): 
-    text = str(row['caption_cleaned'])
+    text = str(row['caption_original'])
     #print(text)
     text = text.replace('’', '\'')
     tokens = tokenizer.tokenize(text.split())   
     # remove stop words
-    stop_free = ' '.join(w for w in tokens if w not in stopWords and len(w) > 1)
+    stop_free = ' '.join(w for w in tokens if w.lower() not in stopWords and len(w) > 1)
     # remove punctuation
     punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
     # lemmatize
@@ -173,10 +171,6 @@ for filename in filePaths:
     output_list.remove('lemmatized_text')
     output_df = data_df[output_list]
     output_df.to_csv(outputFileName, index=None)    
-    
-
-# In[10]:
-
-
-print(exclude)
+    test_df = data_df[data_df['FSDS_category'] != 'unknown']
+    #display(test_df[['FSDS_matched_keywords', 'FSDS_category']])
 

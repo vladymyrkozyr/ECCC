@@ -8,9 +8,17 @@ import glob
 import os
 import sys
 import pandas as pd
+import nltk
+#nltk.download()   # comment after first download
 from nltk.tokenize import MWETokenizer
 from nltk.corpus import stopwords
+from nltk.stem.wordnet import WordNetLemmatizer
+import gensim
+from gensim import corpora
 import string
+from numbers import Number
+from pprint import pprint
+import logging
 import operator
 from FrenchLefffLemmatizer.FrenchLefffLemmatizer import FrenchLefffLemmatizer
 
@@ -62,7 +70,7 @@ def lemmatize_keywords(col):
 
 # load keywords list
 pd.options.display.max_rows = 100
-keywords_df = pd.read_csv(keywords_chosen, encoding='utf-8')   # "ISO-8859-1"
+keywords_df = pd.read_csv(keywords_chosen, encoding='latin-1')   # "ISO-8859-1"
 KEYWORDS_COLS = keywords_df.columns
 lemma_keywords_df = pd.DataFrame(columns=KEYWORDS_COLS)
 category_dict = {}
@@ -75,7 +83,7 @@ for col in KEYWORDS_COLS:
     except:
         pass
     keywords_list = keywords_list.union(category_dict[col])
-
+display(lemma_keywords_df)
 
 # if there are punctuations in the keywords list, these punctuation will be kept regardless of puncturation removal step
 for word in keywords_list:
@@ -122,25 +130,21 @@ def lemmatize_text(row):
     #print(stop_free_2)
     return stop_free_2.split()
 
-# assign a category based the max number of keywords found in each category
+# assign a category if a keyword from that category is matched
 def find_category(row):
     text = row['lemmatized_text']
     keywords_found = []
-    counter = {}
-    for col in KEYWORDS_COLS:
-        counter[col] = 0
-    #print(counter)
-    category = 'unknown'
+    category = set()
     for word in text:
         for col in KEYWORDS_COLS:
             if word in category_dict[col]:
                 #print(word)
                 #print(category_dict[col])
                 keywords_found.append(word)
-                counter[col] += 1
-    if len(keywords_found) > 0:
-        category = max(counter.items(), key=operator.itemgetter(1))[0]    
-    return keywords_found, category
+                category.add(col)
+    if len(keywords_found) == 0:
+        category.add('other')   
+    return keywords_found, sorted(list(category))
 
 
 # In[9]:
@@ -179,3 +183,10 @@ for filename in filePaths:
     output_list.append('category')
     output_df = data_df[output_list]
     output_df.to_csv(outputFileName, encoding='utf-8', index=None)    
+
+
+# In[10]:
+
+
+output_df
+

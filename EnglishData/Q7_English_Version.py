@@ -56,7 +56,6 @@ for filename in filePaths:
 
 df = data_df[['id', 'date_published','caption_original','matched_keywords','category']]
 df = df[~df['category'].str.contains('other')]
-df
 
 
 # In[6]:
@@ -66,11 +65,13 @@ col_list = ['Economical', 'Environmental', 'Social']
 for col in col_list:
     df[col] = 0
     df.loc[df.category.str.contains(col), col] = 1
+df.to_csv(outputDir + 'q1_not_other_classes_en.csv', index=None, encoding='utf-8')
 df
 
 
-# In[7]:
+# # Plot Venn Diagram
 
+# In[7]:
 
 
 econ = set(df[df['Economical'] == 1].id)
@@ -85,6 +86,6 @@ plt.clf()
 plt.figure(figsize=(10,10))
 rcParams['font.size'] = 13
 venn3([econ, env, soc], ('Economical', 'Environmental', 'Social'))
-plt.savefig(outputDir + 'q7_venn_diagram_EN.png')
+plt.savefig(outputDir + 'q7_venn_diagram_en.png')
 plt.show()
 

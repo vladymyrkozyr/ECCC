@@ -33,8 +33,6 @@ keywords_chosen = 'Keywords_ECCC_EN.csv'
 
 data_folder = './Accounts/*.csv'
 
-CSV_COLUMNS = ['caption_cleaned', 'hashtags']
-
 
 # In[3]:
 
@@ -126,7 +124,7 @@ def lemmatize_text(row):
     text = text.replace('’', '\'')
     tokens = tokenizer.tokenize(text.split())   
     # remove stop words
-    stop_free = ' '.join(w for w in tokens if w not in stopWords and len(w) > 1)
+    stop_free = ' '.join(w for w in tokens if w.lower() not in stopWords and len(w) > 1)
     # remove punctuation
     punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
     # lemmatize
@@ -189,7 +187,14 @@ for filename in filePaths:
     output_list = data_df.columns.tolist()
     output_list.remove('category')
     output_list.remove('lemmatized_text')
+    output_list.remove('words_matched_list')
     output_list.append('category')
     output_df = data_df[output_list]
     output_df.to_csv(outputFileName, index=None)    
+
+
+# In[10]:
+
+
+output_df
 

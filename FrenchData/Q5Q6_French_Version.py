@@ -130,7 +130,7 @@ data_df['Action_matched_keywords'] = data_df['lemmatized_text'].apply(find_match
 pd.options.display.max_rows = 100
 output_df = data_df[data_df['Action_matched_keywords'].astype(str) != '[]']
 output_df = output_df[OUTPUT_COLS]
-output_df.to_csv(outputDir + 'q5q6_merged_ouput_FR.csv', index=None, encoding='utf-8')
+output_df.to_csv(outputDir + 'q5q6_merged_ouput_FR_withaddedkeywords.csv', index=None, encoding='utf-8')
 
 
 # ## Only one line of code is needed to train word embedding model
@@ -157,6 +157,8 @@ for keyword in keywords_list:
         continue
     new_actions = set(ele[0] for ele in tuple_list if ele not in keywords_list)
     output_dict[keyword] = new_actions
-pprint(output_dict)
+#for x in output_dict:
+#    for y in output_dict[x]:
+#        print(y)
 print(str(counter-1) + ' given keywords not found in the embedding model..')
 

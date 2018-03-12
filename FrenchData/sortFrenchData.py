@@ -70,7 +70,7 @@ def lemmatize_keywords(col):
 
 # load keywords list
 pd.options.display.max_rows = 100
-keywords_df = pd.read_csv(keywords_chosen, encoding='latin-1')   # "ISO-8859-1"
+keywords_df = pd.read_csv(keywords_chosen, encoding='utf-8')   # "ISO-8859-1"
 KEYWORDS_COLS = keywords_df.columns
 lemma_keywords_df = pd.DataFrame(columns=KEYWORDS_COLS)
 category_dict = {}
@@ -83,7 +83,7 @@ for col in KEYWORDS_COLS:
     except:
         pass
     keywords_list = keywords_list.union(category_dict[col])
-display(lemma_keywords_df)
+#display(lemma_keywords_df)
 
 # if there are punctuations in the keywords list, these punctuation will be kept regardless of puncturation removal step
 for word in keywords_list:
@@ -178,7 +178,6 @@ for filename in filePaths:
     #display(data_df[['words_matched_list', 'lemmatized_text','matched_keywords', 'category']])
     output_list = data_df.columns.tolist()
     output_list.remove('category')
-    output_list.remove('words_matched_list')
     output_list.remove('lemmatized_text')
     output_list.append('category')
     output_df = data_df[output_list]

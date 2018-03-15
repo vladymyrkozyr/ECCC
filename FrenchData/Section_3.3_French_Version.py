@@ -40,7 +40,7 @@ OUTPUT_COLS = ['id', 'num_comments', 'num_shares',
 
 
 # read csv files and save targt columns to dataframe
-# append all files in q3q4output into one dataframe
+# all files in q3q4output get merged into one df
 filePaths = glob.glob(fr_file)
 data_df = pd.DataFrame(columns=OUTPUT_COLS)
 for filename in filePaths:
@@ -49,6 +49,7 @@ for filename in filePaths:
     data_df = data_df.append(df_i, ignore_index=True)
 
 data_df = data_df[OUTPUT_COLS]
+data_df
 
 
 # In[4]:
@@ -56,7 +57,9 @@ data_df = data_df[OUTPUT_COLS]
 
 # set of punctuations to remove from text
 exclude = set(string.punctuation)
+
 stopWords = set(stopwords.words('french'))
+
 lemma = FrenchLefffLemmatizer()    # French lemmatizer
 
 
@@ -74,7 +77,7 @@ def lemmatize_keywords(col):
 
 # load keywords list
 pd.options.display.max_rows = 100
-keywords_df = pd.read_csv(keywords_chosen, encoding='utf-8')   #
+keywords_df = pd.read_csv(keywords_chosen, encoding='utf-8')   # "ISO-8859-1"
 KEYWORDS_COLS = keywords_df.columns
 lemma_keywords_df = pd.DataFrame(columns=KEYWORDS_COLS)
 category_dict = {}
@@ -103,7 +106,7 @@ data_df['FSDS_category'] = data_df['FSDS_category'].str.replace('unknown', 'othe
 
 
 output_df = data_df.groupby(['FSDS_category']).sum().reset_index()
-output_df.columns = ['FSDS_category', 'sentiment', 'senti_count']
+output_df#.columns = ['FSDS_category', 'sentiment', 'senti_count']
 
 
 # In[9]:
@@ -139,6 +142,7 @@ def find_topics(row):
 # In[10]:
 
 
+output_df.columns
 output_df['Topics/Issues'] = output_df.apply(find_topics, axis=1)
 
 
@@ -166,7 +170,13 @@ output_df['FSDS Goal'] = output_df['FSDS Goal'].str.title()
 output_df
 
 
-# In[13]:
+# In[15]:
+
+
+output_df['Reaction Summary']
+
+
+# In[14]:
 
 
 output_df.to_csv('./section3-3_table_fr.csv', index=None)
